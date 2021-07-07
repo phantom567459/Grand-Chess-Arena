@@ -43,5 +43,5 @@ Assets {
     Version: "1.3.0"
     Description: "This is a dialogue system that I extracted from CoreHaven, It is simple and provides dialogues when interacted with,\r\nThe template has an example premade with it so you can edit it to your use.\r\n\r\nHow to use:\r\n\r\n -There should only be one Dialogue Display Manager!\r\n \r\n -The dialogues can be added as seen in the example \"genericconversation1\", which is located in the Dialogue Display Manager > Dialogs Collection, click on it and in custom edit the DialogsLibrary_conversations\r\n\r\n -The NPC to be used with the animation should be dragged and dropped in the custom of \"NPC Dialog Trigger\" located in \"NPC Dialog Group\" which is in \"Client Context\"\r\n\r\n===== I did not make this system, I only extracted it from CoreHaven ====="
   }
-  SerializationVersion: 87
+  SerializationVersion: 91
 }

@@ -7,7 +7,7 @@ Assets {
       RootId: 16251053902177698629
       Objects {
         Id: 16251053902177698629
-        Name: "DPChess2"
+        Name: "Chessboard v1"
         Transform {
           Scale {
             X: 1
@@ -15,7 +15,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4781671109827199097
+        ParentId: 15546993633200058974
         ChildIds: 1077707020070544286
         ChildIds: 3394561699278112323
         ChildIds: 1308067091303023681
@@ -38,7 +38,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "DPChess2"
+          FilePartitionName: "Chessboard v1_2"
         }
       }
       Objects {
@@ -87,7 +87,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Chessboard Mini"
+          FilePartitionName: "Chessboard Mini_3"
         }
       }
       Objects {
@@ -125,7 +125,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Coordinates"
+          FilePartitionName: "Coordinates_3"
         }
       }
       Objects {
@@ -166,7 +166,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "NewFolder_3"
+          FilePartitionName: "Black Side Letters_2"
         }
       }
       Objects {
@@ -604,7 +604,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "NewFolder_2"
+          FilePartitionName: "White Side Letters_2"
         }
       }
       Objects {
@@ -1041,7 +1041,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "NewFolder_1"
+          FilePartitionName: "Black Facing Numbers_2"
         }
       }
       Objects {
@@ -1477,7 +1477,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "NewFolder"
+          FilePartitionName: "White Facing Numbers_2"
         }
       }
       Objects {
@@ -1952,7 +1952,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Black_1"
+          FilePartitionName: "Black_4"
         }
       }
       Objects {
@@ -1996,7 +1996,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Rook_3"
+          FilePartitionName: "Rook_27"
         }
       }
       Objects {
@@ -2307,7 +2307,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Lattice_27"
+          FilePartitionName: "Lattice_63"
         }
       }
       Objects {
@@ -2450,7 +2450,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Lattice_26"
+          FilePartitionName: "Lattice_62"
         }
       }
       Objects {
@@ -2593,7 +2593,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Lattice_25"
+          FilePartitionName: "Lattice_61"
         }
       }
       Objects {
@@ -2736,7 +2736,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Lattice_24"
+          FilePartitionName: "Lattice_60"
         }
       }
       Objects {
@@ -2937,7 +2937,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Knight_3"
+          FilePartitionName: "Knight_27"
         }
       }
       Objects {
@@ -3209,7 +3209,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Horse Head_6"
+          FilePartitionName: "Horse Head_15"
         }
       }
       Objects {
@@ -3793,7 +3793,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Bishop_3"
+          FilePartitionName: "Bishop_27"
         }
       }
       Objects {
@@ -4480,7 +4480,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Queen_1"
+          FilePartitionName: "Queen_13"
         }
       }
       Objects {
@@ -5233,7 +5233,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "King_1"
+          FilePartitionName: "King_7"
         }
       }
       Objects {
@@ -5903,7 +5903,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Decoration_3"
+          FilePartitionName: "Decoration_7"
         }
       }
       Objects {
@@ -6211,7 +6211,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Bishop_2"
+          FilePartitionName: "Bishop_26"
         }
       }
       Objects {
@@ -6891,7 +6891,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Knight_2"
+          FilePartitionName: "Knight_26"
         }
       }
       Objects {
@@ -7163,7 +7163,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Horse Head_7"
+          FilePartitionName: "Horse Head_14"
         }
       }
       Objects {
@@ -7745,7 +7745,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Rook_2"
+          FilePartitionName: "Rook_26"
         }
       }
       Objects {
@@ -8056,7 +8056,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Lattice_31"
+          FilePartitionName: "Lattice_59"
         }
       }
       Objects {
@@ -8199,7 +8199,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Lattice_30"
+          FilePartitionName: "Lattice_58"
         }
       }
       Objects {
@@ -8342,7 +8342,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Lattice_29"
+          FilePartitionName: "Lattice_57"
         }
       }
       Objects {
@@ -8485,7 +8485,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Lattice_28"
+          FilePartitionName: "Lattice_56"
         }
       }
       Objects {
@@ -8686,7 +8686,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - Black_7"
+          FilePartitionName: "Pawn - Black_39"
         }
       }
       Objects {
@@ -9048,7 +9048,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - Black_9"
+          FilePartitionName: "Pawn - Black_38"
         }
       }
       Objects {
@@ -9462,7 +9462,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - Black_10"
+          FilePartitionName: "Pawn - Black_37"
         }
       }
       Objects {
@@ -9876,7 +9876,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - Black_11"
+          FilePartitionName: "Pawn - Black_36"
         }
       }
       Objects {
@@ -10290,7 +10290,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - Black_12"
+          FilePartitionName: "Pawn - Black_35"
         }
       }
       Objects {
@@ -10746,7 +10746,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - Black_13"
+          FilePartitionName: "Pawn - Black_34"
         }
       }
       Objects {
@@ -11108,7 +11108,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - Black_14"
+          FilePartitionName: "Pawn - Black_33"
         }
       }
       Objects {
@@ -11470,7 +11470,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - Black_15"
+          FilePartitionName: "Pawn - Black_32"
         }
       }
       Objects {
@@ -11841,7 +11841,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "White_1"
+          FilePartitionName: "White_4"
         }
       }
       Objects {
@@ -11885,7 +11885,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Rook_1"
+          FilePartitionName: "Rook_25"
         }
       }
       Objects {
@@ -12236,7 +12236,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Lattice_15"
+          FilePartitionName: "Lattice_55"
         }
       }
       Objects {
@@ -12397,7 +12397,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Lattice_14"
+          FilePartitionName: "Lattice_54"
         }
       }
       Objects {
@@ -12558,7 +12558,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Lattice_13"
+          FilePartitionName: "Lattice_53"
         }
       }
       Objects {
@@ -12719,7 +12719,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Lattice_12"
+          FilePartitionName: "Lattice_52"
         }
       }
       Objects {
@@ -12947,7 +12947,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Knight_1"
+          FilePartitionName: "Knight_25"
         }
       }
       Objects {
@@ -13246,7 +13246,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Horse Head_3"
+          FilePartitionName: "Horse Head_13"
         }
       }
       Objects {
@@ -13978,7 +13978,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Bishop_1"
+          FilePartitionName: "Bishop_25"
         }
       }
       Objects {
@@ -14776,7 +14776,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Queen"
+          FilePartitionName: "Queen_12"
         }
       }
       Objects {
@@ -15645,7 +15645,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "King"
+          FilePartitionName: "King_6"
         }
       }
       Objects {
@@ -16430,7 +16430,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Decoration_1"
+          FilePartitionName: "Decoration_6"
         }
       }
       Objects {
@@ -16783,7 +16783,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Bishop"
+          FilePartitionName: "Bishop_24"
         }
       }
       Objects {
@@ -17574,7 +17574,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Knight"
+          FilePartitionName: "Knight_24"
         }
       }
       Objects {
@@ -17873,7 +17873,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Horse Head_1"
+          FilePartitionName: "Horse Head_12"
         }
       }
       Objects {
@@ -18603,7 +18603,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Rook"
+          FilePartitionName: "Rook_24"
         }
       }
       Objects {
@@ -18954,7 +18954,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Lattice_7"
+          FilePartitionName: "Lattice_51"
         }
       }
       Objects {
@@ -19115,7 +19115,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Lattice_6"
+          FilePartitionName: "Lattice_50"
         }
       }
       Objects {
@@ -19276,7 +19276,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Lattice_5"
+          FilePartitionName: "Lattice_49"
         }
       }
       Objects {
@@ -19437,7 +19437,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Lattice_4"
+          FilePartitionName: "Lattice_48"
         }
       }
       Objects {
@@ -19665,7 +19665,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - White_14"
+          FilePartitionName: "Pawn - White_38"
         }
       }
       Objects {
@@ -20084,7 +20084,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - White_13"
+          FilePartitionName: "Pawn - White_37"
         }
       }
       Objects {
@@ -20503,7 +20503,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - White_12"
+          FilePartitionName: "Pawn - White_36"
         }
       }
       Objects {
@@ -20922,7 +20922,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - White_11"
+          FilePartitionName: "Pawn - White_35"
         }
       }
       Objects {
@@ -21341,7 +21341,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - White_10"
+          FilePartitionName: "Pawn - White_34"
         }
       }
       Objects {
@@ -21760,7 +21760,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - White_9"
+          FilePartitionName: "Pawn - White_33"
         }
       }
       Objects {
@@ -22179,7 +22179,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - White_8"
+          FilePartitionName: "Pawn - White_32"
         }
       }
       Objects {
@@ -22598,7 +22598,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - White_6"
+          FilePartitionName: "Pawn - White_31"
         }
       }
       Objects {
@@ -23016,7 +23016,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Black"
+          FilePartitionName: "Black Captured_2"
         }
       }
       Objects {
@@ -23052,7 +23052,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Rooks_1"
+          FilePartitionName: "Rooks_7"
         }
       }
       Objects {
@@ -23086,7 +23086,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Rook - Black_2"
+          FilePartitionName: "Rook_23"
         }
       }
       Objects {
@@ -23173,7 +23173,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Rook - Black"
+          FilePartitionName: "Rook_22"
         }
       }
       Objects {
@@ -23262,7 +23262,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Knights_1"
+          FilePartitionName: "Knights_7"
         }
       }
       Objects {
@@ -23297,7 +23297,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Knight - Black_2"
+          FilePartitionName: "Knight_23"
         }
       }
       Objects {
@@ -23386,7 +23386,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Knight - Black"
+          FilePartitionName: "Knight_22"
         }
       }
       Objects {
@@ -23475,7 +23475,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Bishops_1"
+          FilePartitionName: "Bishops_7"
         }
       }
       Objects {
@@ -23509,7 +23509,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Bishop - Black_2"
+          FilePartitionName: "Bishop_23"
         }
       }
       Objects {
@@ -23596,7 +23596,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Bishop - Black"
+          FilePartitionName: "Bishop_22"
         }
       }
       Objects {
@@ -23684,7 +23684,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Queen - Black_1"
+          FilePartitionName: "Queen_11"
         }
       }
       Objects {
@@ -23779,7 +23779,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawns_1"
+          FilePartitionName: "Pawns_7"
         }
       }
       Objects {
@@ -23814,7 +23814,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - Black_8"
+          FilePartitionName: "Pawn_48"
         }
       }
       Objects {
@@ -23902,7 +23902,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - Black_6"
+          FilePartitionName: "Pawn_47"
         }
       }
       Objects {
@@ -23990,7 +23990,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - Black_5"
+          FilePartitionName: "Pawn_46"
         }
       }
       Objects {
@@ -24078,7 +24078,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - Black_4"
+          FilePartitionName: "Pawn_45"
         }
       }
       Objects {
@@ -24165,7 +24165,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - Black_3"
+          FilePartitionName: "Pawn_44"
         }
       }
       Objects {
@@ -24253,7 +24253,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - Black_2"
+          FilePartitionName: "Pawn_43"
         }
       }
       Objects {
@@ -24341,7 +24341,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - Black_1"
+          FilePartitionName: "Pawn_42"
         }
       }
       Objects {
@@ -24429,7 +24429,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - Black"
+          FilePartitionName: "Pawn_41"
         }
       }
       Objects {
@@ -24521,7 +24521,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "White"
+          FilePartitionName: "White Captured_2"
         }
       }
       Objects {
@@ -24557,7 +24557,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Rooks"
+          FilePartitionName: "Rooks_6"
         }
       }
       Objects {
@@ -24591,7 +24591,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Rook - White_2"
+          FilePartitionName: "Rook_21"
         }
       }
       Objects {
@@ -24678,7 +24678,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Rook - White"
+          FilePartitionName: "Rook_20"
         }
       }
       Objects {
@@ -24767,7 +24767,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Knights"
+          FilePartitionName: "Knights_6"
         }
       }
       Objects {
@@ -24802,7 +24802,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Knight - White_2"
+          FilePartitionName: "Knight_21"
         }
       }
       Objects {
@@ -24890,7 +24890,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Knight - White"
+          FilePartitionName: "Knight_20"
         }
       }
       Objects {
@@ -24979,7 +24979,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Bishops"
+          FilePartitionName: "Bishops_6"
         }
       }
       Objects {
@@ -25013,7 +25013,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Bishop - White_2"
+          FilePartitionName: "Bishop_21"
         }
       }
       Objects {
@@ -25100,7 +25100,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Bishop - White"
+          FilePartitionName: "Bishop_20"
         }
       }
       Objects {
@@ -25188,7 +25188,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Queen - White_1"
+          FilePartitionName: "Queen_10"
         }
       }
       Objects {
@@ -25283,7 +25283,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawns"
+          FilePartitionName: "Pawns_6"
         }
       }
       Objects {
@@ -25317,7 +25317,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - White_7"
+          FilePartitionName: "Pawn_40"
         }
       }
       Objects {
@@ -25404,7 +25404,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - White_5"
+          FilePartitionName: "Pawn_39"
         }
       }
       Objects {
@@ -25491,7 +25491,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - White_4"
+          FilePartitionName: "Pawn_38"
         }
       }
       Objects {
@@ -25578,7 +25578,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - White_3"
+          FilePartitionName: "Pawn_37"
         }
       }
       Objects {
@@ -25665,7 +25665,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - White_2"
+          FilePartitionName: "Pawn_36"
         }
       }
       Objects {
@@ -25752,7 +25752,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - White_1"
+          FilePartitionName: "Pawn_35"
         }
       }
       Objects {
@@ -25839,7 +25839,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn - White"
+          FilePartitionName: "Pawn_34"
         }
       }
       Objects {
@@ -25926,7 +25926,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Pawn"
+          FilePartitionName: "Pawn_33"
         }
       }
       Objects {
@@ -26050,7 +26050,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Tiles_1"
+          FilePartitionName: "Tiles_3"
         }
       }
       Objects {
@@ -26090,7 +26090,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Row 8_1"
+          FilePartitionName: "Row 8_3"
         }
       }
       Objects {
@@ -27018,7 +27018,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Row 7_1"
+          FilePartitionName: "Row 7_3"
         }
       }
       Objects {
@@ -27968,7 +27968,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Row 6_1"
+          FilePartitionName: "Row 6_3"
         }
       }
       Objects {
@@ -28894,7 +28894,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Row 5_1"
+          FilePartitionName: "Row 5_3"
         }
       }
       Objects {
@@ -29820,7 +29820,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Row 4_1"
+          FilePartitionName: "Row 4_3"
         }
       }
       Objects {
@@ -30746,7 +30746,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Row 3_1"
+          FilePartitionName: "Row 3_3"
         }
       }
       Objects {
@@ -31672,7 +31672,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Row 2_1"
+          FilePartitionName: "Row 2_3"
         }
       }
       Objects {
@@ -32598,7 +32598,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Row 1_1"
+          FilePartitionName: "Row 1_3"
         }
       }
       Objects {
@@ -37545,6 +37545,7 @@ Assets {
         ChildIds: 6648630749716240836
         ChildIds: 16818757532530230687
         ChildIds: 13072533636836567087
+        ChildIds: 1158860186038346248
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
         }
@@ -37598,6 +37599,18 @@ Assets {
             Name: "cs:BlackCamera"
             ObjectReference {
               SubObjectId: 16818757532530230687
+            }
+          }
+          Overrides {
+            Name: "cs:DumpBoard"
+            ObjectReference {
+              SubObjectId: 17520696643651632202
+            }
+          }
+          Overrides {
+            Name: "cs:NotationSheet"
+            ObjectReference {
+              SubObjectId: 205090413257767967
             }
           }
         }
@@ -37663,6 +37676,18 @@ Assets {
             Name: "cs:SFX"
             ObjectReference {
               SubObjectId: 13072533636836567087
+            }
+          }
+          Overrides {
+            Name: "cs:DumpBoard"
+            ObjectReference {
+              SubObjectId: 17520696643651632202
+            }
+          }
+          Overrides {
+            Name: "cs:NotationSheet"
+            ObjectReference {
+              SubObjectId: 205090413257767967
             }
           }
         }
@@ -37821,7 +37846,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "SFX"
+          FilePartitionName: "SFX_3"
         }
       }
       Objects {
@@ -37865,6 +37890,482 @@ Assets {
         }
       }
       Objects {
+        Id: 1158860186038346248
+        Name: "UI"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9086038038450623702
+        ChildIds: 12961717032330646093
+        ChildIds: 205090413257767967
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Folder {
+          IsFilePartition: true
+          FilePartitionName: "UI_3"
+        }
+      }
+      Objects {
+        Id: 12961717032330646093
+        Name: "UI Container"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158860186038346248
+        ChildIds: 17520696643651632202
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Control {
+          RenderTransformPivot {
+            Anchor {
+              Value: "mc:euianchor:middlecenter"
+            }
+          }
+          Canvas {
+            ContentType {
+              Value: "mc:ecanvascontenttype:dynamic"
+            }
+            Opacity: 1
+          }
+          AnchorLayout {
+            SelfAnchor {
+              Anchor {
+                Value: "mc:euianchor:topleft"
+              }
+            }
+            TargetAnchor {
+              Anchor {
+                Value: "mc:euianchor:topleft"
+              }
+            }
+          }
+        }
+      }
+      Objects {
+        Id: 17520696643651632202
+        Name: "DumpBoard"
+        Transform {
+          Location {
+            X: 1133
+            Y: -1725
+            Z: -103
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 12961717032330646093
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Control {
+          Width: 214
+          Height: 106
+          UIX: -37.9088898
+          UIY: 6.68976688
+          RenderTransformPivot {
+            Anchor {
+              Value: "mc:euianchor:middlecenter"
+            }
+          }
+          Button {
+            Label: "Dump Board Contents"
+            FontColor {
+              R: 0.98
+              G: 1
+              B: 0.988079488
+              A: 1
+            }
+            FontSize: 20
+            ButtonColor {
+              A: 1
+            }
+            HoveredColor {
+              R: 1
+              G: 1
+              B: 1
+              A: 1
+            }
+            PressedColor {
+              R: 1
+              G: 1
+              B: 1
+              A: 1
+            }
+            DisabledColor {
+              R: 1
+              G: 1
+              B: 1
+              A: 1
+            }
+            Brush {
+              Id: 841534158063459245
+            }
+            IsButtonEnabled: true
+            ClickMode {
+              Value: "mc:ebuttonclickmode:default"
+            }
+            Font {
+            }
+            Justification {
+              Value: "mc:etextjustify:right"
+            }
+            VerticalJustification {
+              Value: "mc:everticaljustification:top"
+            }
+            ShadowColor {
+              A: 1
+            }
+            ShadowOffset {
+            }
+          }
+          AnchorLayout {
+            SelfAnchor {
+              Anchor {
+                Value: "mc:euianchor:topright"
+              }
+            }
+            TargetAnchor {
+              Anchor {
+                Value: "mc:euianchor:topright"
+              }
+            }
+          }
+        }
+      }
+      Objects {
+        Id: 205090413257767967
+        Name: "NotationSheet"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1158860186038346248
+        ChildIds: 7924910081666478450
+        ChildIds: 16230109042212747735
+        ChildIds: 3869886723647119765
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Control {
+          RenderTransformPivot {
+            Anchor {
+              Value: "mc:euianchor:middlecenter"
+            }
+          }
+          Canvas {
+            ContentType {
+              Value: "mc:ecanvascontenttype:dynamic"
+            }
+            Opacity: 1
+          }
+          AnchorLayout {
+            SelfAnchor {
+              Anchor {
+                Value: "mc:euianchor:topleft"
+              }
+            }
+            TargetAnchor {
+              Anchor {
+                Value: "mc:euianchor:topleft"
+              }
+            }
+          }
+        }
+      }
+      Objects {
+        Id: 7924910081666478450
+        Name: "UI Image"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 205090413257767967
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Control {
+          Width: 431
+          Height: 156
+          UIX: -44.4143066
+          UIY: 43.5037079
+          RenderTransformPivot {
+            Anchor {
+              Value: "mc:euianchor:middlecenter"
+            }
+          }
+          Image {
+            Brush {
+              Id: 3839955153276185713
+            }
+            Color {
+              R: 1
+              G: 1
+              B: 1
+              A: 1
+            }
+            TeamSettings {
+            }
+            ShadowColor {
+              A: 1
+            }
+            ShadowOffset {
+            }
+          }
+          AnchorLayout {
+            SelfAnchor {
+              Anchor {
+                Value: "mc:euianchor:topright"
+              }
+            }
+            TargetAnchor {
+              Anchor {
+                Value: "mc:euianchor:topright"
+              }
+            }
+          }
+        }
+      }
+      Objects {
+        Id: 16230109042212747735
+        Name: "WhiteMoves"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 205090413257767967
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Control {
+          Width: 196
+          Height: 138
+          UIX: -270.930908
+          UIY: 52.3819733
+          RenderTransformPivot {
+            Anchor {
+              Value: "mc:euianchor:middlecenter"
+            }
+          }
+          Text {
+            Label: "White"
+            Color {
+              R: 1
+              G: 1
+              B: 1
+              A: 1
+            }
+            Size: 20
+            Justification {
+              Value: "mc:etextjustify:center"
+            }
+            AutoWrapText: true
+            Font {
+              Id: 5895026976244981084
+            }
+            VerticalJustification {
+              Value: "mc:everticaljustification:top"
+            }
+            ShadowColor {
+              A: 1
+            }
+            ShadowOffset {
+            }
+            OutlineColor {
+              A: 1
+            }
+          }
+          AnchorLayout {
+            SelfAnchor {
+              Anchor {
+                Value: "mc:euianchor:topright"
+              }
+            }
+            TargetAnchor {
+              Anchor {
+                Value: "mc:euianchor:topright"
+              }
+            }
+          }
+        }
+      }
+      Objects {
+        Id: 3869886723647119765
+        Name: "BlackMoves"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 205090413257767967
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        EditorIndicatorVisibility {
+          Value: "mc:eindicatorvisibility:visiblewhenselected"
+        }
+        Control {
+          Width: 196
+          Height: 136
+          UIX: -57.7387695
+          UIY: 50.1624298
+          RenderTransformPivot {
+            Anchor {
+              Value: "mc:euianchor:middlecenter"
+            }
+          }
+          Text {
+            Label: "Black"
+            Color {
+              R: 1
+              G: 1
+              B: 1
+              A: 1
+            }
+            Size: 20
+            Justification {
+              Value: "mc:etextjustify:center"
+            }
+            AutoWrapText: true
+            Font {
+              Id: 5895026976244981084
+            }
+            VerticalJustification {
+              Value: "mc:everticaljustification:top"
+            }
+            ShadowColor {
+              A: 1
+            }
+            ShadowOffset {
+            }
+            OutlineColor {
+              A: 1
+            }
+          }
+          AnchorLayout {
+            SelfAnchor {
+              Anchor {
+                Value: "mc:euianchor:topright"
+              }
+            }
+            TargetAnchor {
+              Anchor {
+                Value: "mc:euianchor:topright"
+              }
+            }
+          }
+        }
+      }
+      Objects {
         Id: 17971452306907418757
         Name: "ServerContext"
         Transform {
@@ -37882,9 +38383,7 @@ Assets {
           }
         }
         ParentId: 16251053902177698629
-        ChildIds: 7539294539481958988
         ChildIds: 11092188740895304680
-        ChildIds: 15572701150407151012
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -37900,65 +38399,6 @@ Assets {
         }
         NetworkContext {
           Type: Server
-        }
-      }
-      Objects {
-        Id: 7539294539481958988
-        Name: "ChessGameNewServer"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 17971452306907418757
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger1"
-            ObjectReference {
-              SubObjectId: 11339090576099720843
-            }
-          }
-          Overrides {
-            Name: "cs:Trigger2"
-            ObjectReference {
-              SubObjectId: 12380566848021190039
-            }
-          }
-          Overrides {
-            Name: "cs:BlackChair"
-            ObjectReference {
-              SubObjectId: 6101879842533922370
-            }
-          }
-          Overrides {
-            Name: "cs:WhiteChair"
-            ObjectReference {
-              SubObjectId: 14438878842444475706
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:visiblewhenselected"
-        }
-        Script {
-          ScriptAsset {
-            Id: 18331159885931712734
-          }
         }
       }
       Objects {
@@ -37983,7 +38423,7 @@ Assets {
           Overrides {
             Name: "cs:ChessGameNewServer"
             ObjectReference {
-              SubObjectId: 7539294539481958988
+              SelfId: 16456094419976568597
             }
           }
           Overrides {
@@ -38020,84 +38460,6 @@ Assets {
         Script {
           ScriptAsset {
             Id: 13349268452215359476
-          }
-        }
-      }
-      Objects {
-        Id: 15572701150407151012
-        Name: "ChessPieceData"
-        Transform {
-          Location {
-            X: -1588.28076
-            Y: -9350.58301
-            Z: -1449.83386
-          }
-          Rotation {
-            Yaw: 1.70754683e-05
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 17971452306907418757
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:BlackRoyalParent"
-            ObjectReference {
-              SelfId: 841534158063459245
-            }
-          }
-          Overrides {
-            Name: "cs:BlackPawnParent"
-            ObjectReference {
-              SelfId: 841534158063459245
-            }
-          }
-          Overrides {
-            Name: "cs:WhiteRoyalParent"
-            ObjectReference {
-              SelfId: 9118632490057003317
-            }
-          }
-          Overrides {
-            Name: "cs:WhitePawnParent"
-            ObjectReference {
-              SelfId: 841534158063459245
-            }
-          }
-          Overrides {
-            Name: "cs:BlackCaptured"
-            ObjectReference {
-              SubObjectId: 14246286490641798336
-            }
-          }
-          Overrides {
-            Name: "cs:WhiteCaptured"
-            ObjectReference {
-              SubObjectId: 15114376112280945416
-            }
-          }
-          Overrides {
-            Name: "cs:Parent"
-            ObjectReference {
-              SubObjectId: 16251053902177698629
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Script {
-          ScriptAsset {
-            Id: 6738760040909848711
           }
         }
       }
@@ -38444,10 +38806,28 @@ Assets {
         AssetId: "sfx_ui_analog_click_01_Cue_ref"
       }
     }
+    Assets {
+      Id: 3839955153276185713
+      Name: "UI Basic Corners 001"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "UI_Basic_Corners_001"
+      }
+    }
+    Assets {
+      Id: 5895026976244981084
+      Name: "Baloo 2"
+      PlatformAssetType: 28
+      PrimaryAsset {
+        AssetType: "FontAssetRef"
+        AssetId: "Baloo2Regular_ref"
+      }
+    }
     PrimaryAssetId {
       AssetType: "None"
       AssetId: "None"
     }
   }
-  SerializationVersion: 87
+  SerializationVersion: 91
 }

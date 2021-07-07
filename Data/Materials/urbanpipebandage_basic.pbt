@@ -2,7 +2,7 @@ Assets {
   Id: 13580806649132273370
   Name: "urbanpipebandage_basic"
   PlatformAssetType: 13
-  SerializationVersion: 87
+  SerializationVersion: 91
   CustomMaterialAsset {
     BaseMaterialId: 7245479643682386086
     ParameterOverrides {

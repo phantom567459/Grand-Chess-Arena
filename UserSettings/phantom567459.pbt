@@ -24,4 +24,10 @@ ObjectSettings {
     value {
     }
   }
+  ObjectStates {
+    key: 16813558807825262224
+    value {
+    }
+  }
 }
+LastSavedScene: "Main"

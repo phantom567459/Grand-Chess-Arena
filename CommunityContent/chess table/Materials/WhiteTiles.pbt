@@ -2,7 +2,7 @@ Assets {
   Id: 2609647807573762388
   Name: "WhiteTiles"
   PlatformAssetType: 13
-  SerializationVersion: 87
+  SerializationVersion: 91
   CustomMaterialAsset {
     BaseMaterialId: 7034271320763119631
     ParameterOverrides {

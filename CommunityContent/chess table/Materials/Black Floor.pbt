@@ -2,7 +2,7 @@ Assets {
   Id: 1054263893590718696
   Name: "Black Floor"
   PlatformAssetType: 13
-  SerializationVersion: 87
+  SerializationVersion: 91
   CustomMaterialAsset {
     BaseMaterialId: 10253166361157875487
     ParameterOverrides {

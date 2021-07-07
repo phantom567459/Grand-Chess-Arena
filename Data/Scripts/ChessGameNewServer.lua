@@ -1,9 +1,4 @@
-local Trigger1 = script:GetCustomProperty("Trigger1"):WaitForObject()
-local Trigger2 = script:GetCustomProperty("Trigger2"):WaitForObject()
-local propBlackChair = script:GetCustomProperty("BlackChair"):WaitForObject()
-local propWhiteChair = script:GetCustomProperty("WhiteChair"):WaitForObject()
-
-queue = {}
+_G.queue = {}
 _G.games_in_progress = {}
 
 function QueueForChessGame(player,data)
@@ -12,21 +7,39 @@ function QueueForChessGame(player,data)
 	local newQueueValue = {board = chessBoard, player = player} --receive board/player data from client
 	print("Player " .. player.name .. " sent data = " .. chessBoard)
 
-	if (next(queue) == nil) then --if player is first one in queue, queue is nil
+	if (next(_G.queue) == nil) then --if player is first one in queue, queue is nil
 		print("INSERTED INTO QUEUE")
-		table.insert(queue,newQueueValue)
+		table.insert(_G.queue,newQueueValue)
 	else
-		for i, v in pairs(queue) do --now check to see if someone else is waiting at that board
-			if newQueueValue.board == v.board then
-				print("MATCH FOUND")
-				table.remove(queue,i) --remove entry from table
+		for i, v in pairs(_G.queue) do --now check to see if someone else is waiting at that board
+			if not World.FindObjectById(chessBoard) then
+				print("ERROR")
+				return
+			end
 
-				for j,k in pairs(queue) do --clean out player and board refs because they're taken
+			if newQueueValue.board == v.board and newQueueValue.player ~= v.player then
+				print("MATCH FOUND")
+				local boardParent = World.FindObjectById(chessBoard)
+				local propWhiteChair = boardParent:FindChildByName("WhiteChair")
+				local propBlackChair = boardParent:FindChildByName("BlackChair")
+				local Trigger1 = propWhiteChair:FindChildByName("WhiteTrigger")
+				local Trigger2 = propBlackChair:FindChildByName("BlackTrigger")
+	
+				table.remove(_G.queue,i) --remove entry from table
+
+				for j,k in pairs(_G.queue) do --clean out player and board refs because they're taken
 					if k.player == player then
-						table.remove(queue,j)
-					end 
-					if tostring(k.board) == chessBoard then --need some logic here to inform player to queue up on another board, or maybe we just move them to another queue and forget board?
-						table.remove(queue,j)
+						_G.queue[j] = nil
+						--table.remove(_G.queue,j)
+						print("DELETED recent player")
+					elseif k.player == v.player then 
+						_G.queue[j] = nil
+						--table.remove(_G.queue,j)
+						print("DELETED old player")
+					elseif tostring(k.board) == chessBoard then --need some logic here to inform player to queue up on another board, or maybe we just move them to another queue and forget board?
+						_G.queue[j] = nil
+						--table.remove(_G.queue,j)
+						print("REMOVED board ref")
 					end
 				end
 				
@@ -58,9 +71,8 @@ function QueueForChessGame(player,data)
 				else 
 					Events.BroadcastToPlayer(v.player, "START GAME", v.board,1) --broadcast to opponent they are white
 					v.player.team = 1
-					v.player.lookControlMode = LookControlMode.RELATIVE
 					v.player:SetWorldPosition(propWhiteChair:GetWorldPosition()+Vector3.New(95,0,100))
-					player:SetWorldRotation(propWhiteChair:GetWorldRotation()+Rotation.New(0,0,90))
+					v.player:SetWorldRotation(propWhiteChair:GetWorldRotation()+Rotation.New(0,0,90))
 					Events.BroadcastToPlayer(player, "START GAME", v.board,2) --broadcast to player they are black
 					player.team = 2
 					player:SetWorldPosition(propBlackChair:GetWorldPosition()+Vector3.New(-95,0,100))
@@ -71,15 +83,17 @@ function QueueForChessGame(player,data)
 				Task.Wait(.5)
 				table.insert(_G.games_in_progress,newgame)
 				print(player.team,v.player.team)
+				return
 				-- local playersTeam1 = Game.GetPlayers({includeTeams = 1})
 				-- print("PLAYERS ON TEAM 1:",#playersTeam1)
 				-- local playersTeam2 = Game.GetPlayers({includeTeams = 2})
 				-- print("PLAYERS ON TEAM 2:",#playersTeam2)
-				break
-			else 
-				table.insert(queue,newQueueValue)
+			elseif newQueueValue.board == v.board and newQueueValue.player ~= v.player then 
+				--duplicate value, exit
+				return
 			end
 		end
+		table.insert(_G.queue,newQueueValue)
 	end
 	--debug
 end

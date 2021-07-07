@@ -1,5 +1,7 @@
 local util = require(script:GetCustomProperty("UtilityFunc"))
 local SFXfolder = script:GetCustomProperty("SFX"):WaitForObject()
+local moveIndicator = script:GetCustomProperty("VFX")
+local activeMI --active Move Indicator
 
 local squares = script:GetCustomProperty("Squares"):WaitForObject()
 local whitePieces = script:GetCustomProperty("WhitePieces"):WaitForObject()
@@ -9,6 +11,11 @@ local curPlayer = Game.GetLocalPlayer()
 local white = whitePieces:GetChildren()
 local black = blackPieces:GetChildren()
 local SFX = SFXfolder:GetChildren()
+local dumpBoard = script:GetCustomProperty("DumpBoard"):WaitForObject()
+local notationSheet = script:GetCustomProperty("NotationSheet"):WaitForObject()
+local winUI = script:GetCustomProperty("WinUI"):WaitForObject()
+local loseUI = script:GetCustomProperty("LoseUI"):WaitForObject()
+
 --sfx[1] = clicking pieces, need to figure out the correct way to call these effectively
 
 --DO NOT MOVE THE ORDER OF PIECES IN THE HIERARCHY.  Will cause different pieces to move
@@ -91,6 +98,7 @@ function OnBindingPressed(player,binding)
     --If in game, and trying to send data, it should at least be your turn!
     --If player.team and last_move are equal, that means they moved last
     --If player.team == 0, that means it's move 1 and team 1's turn is first.
+    Task.Wait(.15)
     if (player.team == 1) and (last_move == 1) then
         return
     elseif (player.team == 2) and ((last_move == 0) or (last_move == 2)) then
@@ -106,10 +114,24 @@ function OnBindingPressed(player,binding)
 			if startSquare == nil then
                 --no beginning square, so add one
 				startSquare = hitResult.other.name
+                --activeMI = World.SpawnAsset(moveIndicator, {position = squares:FindDescendantByName(hitResult.other.name):GetWorldPosition()+Vector3.New(0,0,5)})
+                local moveIndicatorPosition = squares:FindDescendantByName(hitResult.other.name):GetWorldPosition()+Vector3.New(0,0,5)
+                local moveIndicatorRotation = Rotation.New(-180,0,0)
+                local moveIndicatorScale = Vector3.New(.2,.2,.2)
+                activeMI = World.SpawnAsset(moveIndicator, 
+                    {position = moveIndicatorPosition,
+                     rotation = moveIndicatorRotation,
+                     scale = moveIndicatorScale
+                    })
+                activeMI:Play()
+            elseif startSquare == hitResult.other.name then 
+                startSquare = nil
+                activeMI:Destroy()
 			else 
                 --now we have an end square, or Square to Move to
 				moveSquare = hitResult.other.name
                 --Send it off to the server for processing
+                activeMI:Destroy()
 				Events.BroadcastToServer("Move",startSquare,moveSquare)
 				startSquare = nil
 				moveSquare = nil
@@ -118,10 +140,15 @@ function OnBindingPressed(player,binding)
 	end
 end
 
-function MovePiece(colorOfPiece,pieceToMove,startSquare,endSquare)
+function MovePiece(physicalBoard,colorOfPiece,pieceToMove,startSquare,endSquare)
     --This function is to physically move a piece from one square on the board to another
     --The client gets the data from the server and then processes it to move the correct piece
     --Data for pieces/colors/board is stored at the top of this file
+    --print(physicalBoard,tostring(script.parent.parent.id))
+	if physicalBoard ~= tostring(script.parent.parent.id) then
+        --print("WRONG BOARD")
+		return 
+	end
 
 	local clientPieceToMove,clientColorOfPiece
     --First, we have to find the piece and square that the server sent us
@@ -145,17 +172,36 @@ function MovePiece(colorOfPiece,pieceToMove,startSquare,endSquare)
             for k,j in ipairs(board) do 
                 if j == endSquare then
                     --RUN CHECKING FUNCTIONS
+                    if ((clientPieceToMove.name == "Pawn - White") or (clientPieceToMove.name == "Pawn - Black")) then 
+                        CheckEPCapture(colorOfPiece,i,k)
+                        CheckPromote(colorOfPiece,i,k)
+                    end
+
                     if pieces[k] ~= "EMPTY" then
                         pieces[k].visibility = Visibility.FORCE_OFF
                         SFX[1]:Play()
+                        print(pieces[k])
+                        if pieces[k] == white[5] or pieces[k] == black[5] then 
+                            EndGame()
+                            return
+                        end
                     end
-                    --For now we're just gonna move the piece there
-					print(pieces[i])
                     
                     pieces[i]:MoveTo(pieces[i]:GetWorldPosition()+Vector3.New(0,0,17),.5)
                     Task.Wait(.48)
 					pieces[i]:MoveTo(squares:FindDescendantByName(endSquare):GetWorldPosition()+Vector3.New(0,0,5),.5)
-                    
+
+                    if clientColorOfPiece == "WHITE" then 
+                        notationSheet:FindDescendantByName("WhiteMoves").text = notationSheet:FindDescendantByName("WhiteMoves").text .. "\n" .. endSquare
+                    elseif clientColorOfPiece == "BLACK" then 
+                        notationSheet:FindDescendantByName("BlackMoves").text = notationSheet:FindDescendantByName("BlackMoves").text .. "\n" .. endSquare
+                    end
+
+                    if (clientPieceToMove == white[5]) and ((k-i == 16) or (k-i == -16)) then
+                        Castles("WHITE",k-i)
+                    elseif (clientPieceToMove == black[5]) and ((k-i == 16) or (k-i == -16)) then
+                        Castles("BLACK",k-i)
+                    end
                     
                     pieces[i] = "EMPTY"
                     colors[i] = "EMPTY"
@@ -167,6 +213,42 @@ function MovePiece(colorOfPiece,pieceToMove,startSquare,endSquare)
         end
     end
 end
+
+function CheckEPCapture(colorOfPiece,ssv,esv)
+    local increment = esv - ssv
+    --Special case for En Passant, where the piece does NOT land on the same square as capture
+    if (colorOfPiece == "WHITE") and ((increment == -7) or (increment == 9)) then
+        if pieces[esv] == "EMPTY" then
+            pieces[esv-1].visibility = Visibility.FORCE_OFF
+            SFX[1]:Play()
+        end
+    elseif (colorOfPiece == "WHITE") and ((increment == -9) or (increment == 7)) then
+        if pieces[esv] == "EMPTY" then
+            pieces[esv+1].visibility = Visibility.FORCE_OFF
+            SFX[1]:Play()
+        end
+    end
+end
+
+function CheckPromote(colorOfPiece,ssv,esv)
+    local increment = esv - ssv
+    local amountToEdgeOfBoardVertically = 8 - esv%8
+    local amountToEdgeOfBoardInverse = -(esv%8)+1
+
+    if amountToEdgeOfBoardVertically == 8 then
+        amountToEdgeOfBoardVertically = 0
+        amountToEdgeOfBoardInverse = -7
+    end
+
+    if colorOfPiece == "WHITE" and amountToEdgeOfBoardVertically == 0 then 
+        --pieces[ssv] = white[4]
+        SFX[2]:Play()
+    elseif colorOfPiece == "BLACK" and amountToEdgeOfBoardInverse == 0 then 
+        --pieces[ssv] = black[4]
+        SFX[2]:Play()
+    end
+
+end    
 
 function PawnRules()
     --move forward one space
@@ -195,7 +277,44 @@ end
 function KingRules()
 end 
 
-function Castles()
+function Castles(colorOfPiece,increment)
+    if colorOfPiece == "WHITE" then
+        if increment == 16 then --The rook will always move to the same spot
+            pieces[41] = pieces[57]
+            colors[41] = colors[57]
+            pieces[57] = "EMPTY"
+            colors[57] = "EMPTY"
+            pieces[41]:MoveTo(pieces[41]:GetWorldPosition()+Vector3.New(0,0,17),.5)
+            Task.Wait(.48)
+			pieces[41]:MoveTo(squares:FindDescendantByName("F1"):GetWorldPosition()+Vector3.New(0,0,5),.5)
+        elseif increment == -16 then
+            pieces[25] = pieces[1]
+            colors[25] = colors[1]
+            pieces[1] = "EMPTY"
+            colors[1] = "EMPTY"
+            pieces[25]:MoveTo(pieces[25]:GetWorldPosition()+Vector3.New(0,0,17),.5)
+            Task.Wait(.48)
+			pieces[25]:MoveTo(squares:FindDescendantByName("D1"):GetWorldPosition()+Vector3.New(0,0,5),.5)
+        end
+    elseif colorOfPiece == "BLACK" then
+        if increment == 16 then
+            pieces[48] = pieces[64]
+            colors[48] = colors[64]
+            pieces[64] = "EMPTY"
+            colors[64] = "EMPTY"
+            pieces[48]:MoveTo(pieces[48]:GetWorldPosition()+Vector3.New(0,0,17),.5)
+            Task.Wait(.48)
+			pieces[48]:MoveTo(squares:FindDescendantByName("F8"):GetWorldPosition()+Vector3.New(0,0,5),.5)
+        elseif increment == -16 then
+            pieces[32] = pieces[8]
+            colors[32] = colors[8]
+            pieces[8] = "EMPTY"
+            colors[8] = "EMPTY"
+            pieces[32]:MoveTo(pieces[32]:GetWorldPosition()+Vector3.New(0,0,17),.5)
+            Task.Wait(.48)
+			pieces[32]:MoveTo(squares:FindDescendantByName("D8"):GetWorldPosition()+Vector3.New(0,0,5),.5)
+        end
+    end    
 end
 
 function EnPassant()
@@ -216,19 +335,43 @@ function EndGame()
 
     for i,v in ipairs(white) do
         white[i]:SetWorldPosition(DEFAULT_PIECE_POSITIONS_WHITE[i])
+        white[i].visibility = Visibility.FORCE_ON
     end
 
     for k,j in ipairs(black) do
         black[k]:SetWorldPosition(DEFAULT_PIECE_POSITIONS_BLACK[k])
+        black[k].visibility = Visibility.FORCE_ON
     end
 
     board = util.CopyTable(SQUARES)
     pieces = util.CopyTable(DEFAULT_PIECE_LAYOUT)
     colors = util.CopyTable(COLOR_LAYOUT)
 
+    Task.Wait(1.75)
+    winUI.visibility = Visibility.FORCE_OFF
+    loseUI.visibility = Visibility.FORCE_OFF
+
     last_move = 0
 end
 
+function CheckmateWin()
+    winUI.visibility = Visibility.FORCE_ON
+end 
+
+function CheckmateLose()
+    loseUI.visibility = Visibility.FORCE_ON
+end
+
+function dumpBoardToPanel()
+	for i,v in ipairs(pieces) do 
+        print(i,pieces[i])
+    end
+end
+
+
+dumpBoard.clickedEvent:Connect(dumpBoardToPanel)
 Events.Connect("Move Piece",MovePiece)
 Events.Connect("End Game",EndGame)
+Events.Connect("Checkmate Win",CheckmateWin)
+Events.Connect("Checkmate Lose",CheckmateLose)
 curPlayer.bindingPressedEvent:Connect(OnBindingPressed)

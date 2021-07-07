@@ -1,0 +1,28 @@
+The Chess Hub
+To Fix:
+--trigger recognition was broken on reload.  must be server error, didn't clear someone out of queue?
+	--fixed 7/6
+
+--Make tutorial obvious on load (cinematic?)
+	--Move tutorial man to the park
+	-->done 7/6
+	--Add to Tutorial!
+	
+Future fixes
+--Lock Camera using button
+--Professional area?  (I was thinking this more for the tournament
+--Spectator Mode!!
+--Extra Camera adjustments
+--better board visual cues (Check,player turn, etc.)
+---->On top of this I need extra checks on the server for player turn, in case the client gets confused
+--code optimization for 16 boards
+--EXTRA CODE CHECKS FOR LEGALITY (someone brokey and captured their own piece)
+--Maybe add a button to finish the game?
+--Game storage, what can we do?
+--Curves for moving the pieces (instead of 2 move to's)
+--Timers!
+--Chess Puzzles
+--Position/Game of the week (PGN imports?)
+--
+
+

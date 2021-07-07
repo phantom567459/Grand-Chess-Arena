@@ -136,5 +136,5 @@ Assets {
       AssetId: "Fantasy_Castle_Stairs_Spiral_03_with_Railing_-_Large_3m_Template"
     }
   }
-  SerializationVersion: 87
+  SerializationVersion: 91
 }

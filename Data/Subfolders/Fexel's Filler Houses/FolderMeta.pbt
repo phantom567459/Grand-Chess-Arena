@@ -1,0 +1,67 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "9de350db67d64d0baf56d3f89cf684c3"
+  OwnerAccountId: "c04cc92ef54041f28df475e447c18298"
+  OwnerName: "Fexelitche"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 1311869587308318327
+  value: 8219698739136520662
+}
+AssetIdsOriginalToNew {
+  key: 4496072163969875967
+  value: 4538654585090524844
+}
+AssetIdsOriginalToNew {
+  key: 4929812124946328109
+  value: 4042693487014719557
+}
+AssetIdsOriginalToNew {
+  key: 4987639930207233263
+  value: 17897801179267317532
+}
+AssetIdsOriginalToNew {
+  key: 5801614569616986930
+  value: 13167786509593672151
+}
+AssetIdsOriginalToNew {
+  key: 6456064768572750604
+  value: 2690636699270475072
+}
+AssetIdsOriginalToNew {
+  key: 6859942145304508670
+  value: 1957243207640138964
+}
+AssetIdsOriginalToNew {
+  key: 7173458244362778812
+  value: 11534300762880543050
+}
+AssetIdsOriginalToNew {
+  key: 7692565573233815857
+  value: 17846888617561919941
+}
+AssetIdsOriginalToNew {
+  key: 8374652709814356483
+  value: 7488684930387382466
+}
+AssetIdsOriginalToNew {
+  key: 9032460686059219352
+  value: 14981194108869472268
+}
+AssetIdsOriginalToNew {
+  key: 10243353743120861110
+  value: 13792663099929470165
+}
+AssetIdsOriginalToNew {
+  key: 11054819760029503454
+  value: 14524754739053616533
+}
+AssetIdsOriginalToNew {
+  key: 11663101957578878592
+  value: 6774932621250656880
+}
+AssetIdsOriginalToNew {
+  key: 18428387212241169941
+  value: 7048726276681564762
+}

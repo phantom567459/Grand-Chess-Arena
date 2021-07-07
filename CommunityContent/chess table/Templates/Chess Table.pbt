@@ -39484,6 +39484,6 @@ Assets {
   Marketplace {
     Description: "A  chess table"
   }
-  SerializationVersion: 87
+  SerializationVersion: 91
   DirectlyPublished: true
 }

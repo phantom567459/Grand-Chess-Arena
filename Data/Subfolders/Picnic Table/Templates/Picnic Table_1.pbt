@@ -1388,6 +1388,6 @@ Assets {
   Marketplace {
     Description: "For all of your outdoorsy gatherings."
   }
-  SerializationVersion: 87
+  SerializationVersion: 91
   DirectlyPublished: true
 }

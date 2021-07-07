@@ -2,7 +2,7 @@ Assets {
   Id: 4175635859255787708
   Name: "Chess Piece Black"
   PlatformAssetType: 13
-  SerializationVersion: 87
+  SerializationVersion: 91
   CustomMaterialAsset {
     BaseMaterialId: 12792287558144180312
     ParameterOverrides {
