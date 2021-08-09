@@ -5,7 +5,8 @@ Objects {
   Name: "Decoration Piece 5"
   Transform {
     Location {
-      X: 7.5
+      X: 7.48678
+      Y: 11089.3184
       Z: 50
     }
     Rotation {
@@ -71,6 +72,8 @@ Objects {
   Name: "Decoration Piece 4"
   Transform {
     Location {
+      X: -0.0132194981
+      Y: 11089.3184
       Z: 25
     }
     Rotation {
@@ -139,6 +142,8 @@ Objects {
   Name: "Decoration Piece 3"
   Transform {
     Location {
+      X: -0.0132194981
+      Y: 11089.3184
       Z: 20
     }
     Rotation {
@@ -204,7 +209,8 @@ Objects {
   Name: "Decoration Piece 2"
   Transform {
     Location {
-      Y: 10
+      X: -0.013231419
+      Y: 11099.3184
     }
     Rotation {
       Roll: 44.9999924
@@ -273,7 +279,8 @@ Objects {
   Name: "Decoration Piece 1"
   Transform {
     Location {
-      Y: -10
+      X: -0.0132075772
+      Y: 11079.3184
     }
     Rotation {
       Roll: 44.9999962

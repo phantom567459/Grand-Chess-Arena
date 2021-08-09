@@ -1,7 +1,7 @@
 Name: "Pawn_64"
-RootId: 6477471917336767069
+RootId: 7542489852679277154
 Objects {
-  Id: 17102307183322111536
+  Id: 1570257664767483290
   Name: "Base"
   Transform {
     Location {
@@ -15,7 +15,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 6477471917336767069
+  ParentId: 7542489852679277154
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -53,9 +53,9 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 17102307183322111536
-    SubobjectId: 18049186207987441279
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 16397025939847548533
+    SubobjectId: 17335230540045982659
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }

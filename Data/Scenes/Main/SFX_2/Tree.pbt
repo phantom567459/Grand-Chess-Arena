@@ -1,7 +1,7 @@
 Name: "SFX_2"
-RootId: 11994234212324883865
+RootId: 12572157288588867063
 Objects {
-  Id: 13437234712450861493
+  Id: 9318708374128796264
   Name: "Promotion"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11994234212324883865
+  ParentId: 12572157288588867063
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -40,7 +40,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1574941418671658370
+  Id: 12791632370953053340
   Name: "PieceClick"
   Transform {
     Location {
@@ -54,7 +54,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11994234212324883865
+  ParentId: 12572157288588867063
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

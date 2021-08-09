@@ -1,7 +1,7 @@
 Name: "Queen_10"
-RootId: 2979450107453475177
+RootId: 1235913065432933183
 Objects {
-  Id: 5964555909887486831
+  Id: 3465261192978567971
   Name: "Base"
   Transform {
     Location {
@@ -15,17 +15,17 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 2979450107453475177
+  ParentId: 1235913065432933183
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 9366836851447681229
+        Id: 7034271320763119631
       }
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
+      Bool: true
     }
   }
   Collidable_v2 {
@@ -53,8 +53,8 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 9025801213672849877
-    SubobjectId: 7952505924261352547
+    SelfId: 11138851871788460338
+    SubobjectId: 9911238201223052420
     InstanceId: 1408243180232436835
     TemplateId: 9483465140194761161
   }

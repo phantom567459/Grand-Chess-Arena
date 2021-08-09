@@ -984,7 +984,7 @@ Assets {
           Width: 87
           Height: 187
           UIX: 322.403442
-          UIY: 0.852539063
+          UIY: 0.852539062
           RotationAngle: 270
           RenderTransformPivot {
             Anchor {
@@ -2154,7 +2154,7 @@ Assets {
           Width: 180
           Height: -20
           UIX: -3.70239258
-          UIY: -6.10351563e-05
+          UIY: -6.10351562e-05
           RenderTransformPivot {
             Anchor {
               Value: "mc:euianchor:middlecenter"
@@ -2945,7 +2945,7 @@ Assets {
           Width: 87
           Height: 187
           UIX: 322.403442
-          UIY: 0.852539063
+          UIY: 0.852539062
           RotationAngle: 270
           RenderTransformPivot {
             Anchor {
@@ -3360,6 +3360,6 @@ Assets {
   Marketplace {
     Description: "This is a dialogue system that I extracted from CoreHaven, It is simple and provides dialogues when interacted with,\r\nThe template has an example premade with it so you can edit it to your use.\r\n\r\nHow to use:\r\n\r\n -There should only be one Dialogue Display Manager!\r\n \r\n -The dialogues can be added as seen in the example \"genericconversation1\", which is located in the Dialogue Display Manager > Dialogs Collection, click on it and in custom edit the DialogsLibrary_conversations\r\n\r\n -The NPC to be used with the animation should be dragged and dropped in the custom of \"NPC Dialog Trigger\" located in \"NPC Dialog Group\" which is in \"Client Context\"\r\n\r\n===== I did not make this system, I only extracted it from CoreHaven ====="
   }
-  SerializationVersion: 91
+  SerializationVersion: 94
   DirectlyPublished: true
 }

@@ -5,8 +5,8 @@ Objects {
   Name: "G8"
   Transform {
     Location {
-      X: 626
-      Y: 779
+      X: 3479.49414
+      Y: 2897.7334
       Z: 108
     }
     Rotation {
@@ -64,8 +64,8 @@ Objects {
   Name: "G7"
   Transform {
     Location {
-      X: 525
-      Y: 781
+      X: 3378.49414
+      Y: 2899.7334
       Z: 108
     }
     Rotation {
@@ -123,8 +123,8 @@ Objects {
   Name: "G6"
   Transform {
     Location {
-      X: 426
-      Y: 782
+      X: 3279.49414
+      Y: 2900.7334
       Z: 108
     }
     Rotation {
@@ -182,8 +182,8 @@ Objects {
   Name: "G5"
   Transform {
     Location {
-      X: 329
-      Y: 779
+      X: 3182.49414
+      Y: 2897.7334
       Z: 108
     }
     Rotation {
@@ -241,8 +241,8 @@ Objects {
   Name: "G4"
   Transform {
     Location {
-      X: 233
-      Y: 781
+      X: 3086.49414
+      Y: 2899.7334
       Z: 108
     }
     Rotation {
@@ -300,8 +300,8 @@ Objects {
   Name: "G3"
   Transform {
     Location {
-      X: 132
-      Y: 780
+      X: 2985.49414
+      Y: 2898.7334
       Z: 108
     }
     Rotation {
@@ -359,8 +359,8 @@ Objects {
   Name: "G2"
   Transform {
     Location {
-      X: 33
-      Y: 775
+      X: 2886.49414
+      Y: 2893.7334
       Z: 108
     }
     Rotation {
@@ -418,8 +418,8 @@ Objects {
   Name: "G1"
   Transform {
     Location {
-      X: -63
-      Y: 776
+      X: 2790.49414
+      Y: 2894.7334
       Z: 108
     }
     Rotation {

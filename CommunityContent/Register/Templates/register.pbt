@@ -337,6 +337,6 @@ Assets {
   Marketplace {
     Description: "Its a register, or a computer, or whatever you want it to be!"
   }
-  SerializationVersion: 91
+  SerializationVersion: 94
   DirectlyPublished: true
 }

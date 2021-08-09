@@ -2,7 +2,7 @@ Assets {
   Id: 2389185649951466394
   Name: "Custom- Horse Fur"
   PlatformAssetType: 13
-  SerializationVersion: 91
+  SerializationVersion: 94
   CustomMaterialAsset {
     BaseMaterialId: 7183163874023653448
     ParameterOverrides {

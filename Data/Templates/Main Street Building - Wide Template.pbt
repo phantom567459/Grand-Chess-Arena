@@ -6360,7 +6360,7 @@ Assets {
           Location {
             X: -799.999451
             Y: 399.999725
-            Z: -6.10351563e-05
+            Z: -6.10351562e-05
           }
           Rotation {
           }
@@ -6411,7 +6411,7 @@ Assets {
           Location {
             X: -0.000690460089
             Y: 399.999756
-            Z: -6.10351563e-05
+            Z: -6.10351562e-05
           }
           Rotation {
           }
@@ -6462,7 +6462,7 @@ Assets {
           Location {
             X: 799.999084
             Y: 399.999664
-            Z: -6.10351563e-05
+            Z: -6.10351562e-05
           }
           Rotation {
           }
@@ -6513,7 +6513,7 @@ Assets {
           Location {
             X: 799.999451
             Y: -399.999847
-            Z: -6.10351563e-05
+            Z: -6.10351562e-05
           }
           Rotation {
           }
@@ -6564,7 +6564,7 @@ Assets {
           Location {
             X: -0.000286102266
             Y: -399.999878
-            Z: -6.10351563e-05
+            Z: -6.10351562e-05
           }
           Rotation {
           }
@@ -6615,7 +6615,7 @@ Assets {
           Location {
             X: -800.000061
             Y: -399.999786
-            Z: -6.10351563e-05
+            Z: -6.10351562e-05
           }
           Rotation {
           }
@@ -6889,7 +6889,7 @@ Assets {
           Location {
             X: -864.998474
             Y: 399.999268
-            Z: -6.10351563e-05
+            Z: -6.10351562e-05
           }
           Rotation {
           }
@@ -6932,7 +6932,7 @@ Assets {
           Location {
             X: -65.0006638
             Y: 399.999329
-            Z: -6.10351563e-05
+            Z: -6.10351562e-05
           }
           Rotation {
           }
@@ -6975,7 +6975,7 @@ Assets {
           Location {
             X: 734.999084
             Y: 399.999237
-            Z: -6.10351563e-05
+            Z: -6.10351562e-05
           }
           Rotation {
           }
@@ -7018,7 +7018,7 @@ Assets {
           Location {
             X: -65.0002518
             Y: -399.999817
-            Z: -6.10351563e-05
+            Z: -6.10351562e-05
           }
           Rotation {
           }
@@ -7061,7 +7061,7 @@ Assets {
           Location {
             X: 734.999451
             Y: -399.999786
-            Z: -6.10351563e-05
+            Z: -6.10351562e-05
           }
           Rotation {
           }
@@ -18545,5 +18545,5 @@ Assets {
       AssetId: "Main_Street_Building_-_Wide_Template"
     }
   }
-  SerializationVersion: 91
+  SerializationVersion: 94
 }

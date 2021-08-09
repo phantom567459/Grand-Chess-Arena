@@ -414,7 +414,7 @@ Assets {
         Name: "Craftsman Roof 01 Beam"
         Transform {
           Location {
-            X: 101.976563
+            X: 101.976562
             Y: -119.042969
             Z: 1553.63867
           }
@@ -544,7 +544,7 @@ Assets {
         Name: "Large Wood Beam 8m"
         Transform {
           Location {
-            X: 318.382813
+            X: 318.382812
             Y: -307.011719
             Z: 1094.5271
           }
@@ -844,8 +844,8 @@ Assets {
         Name: "Large Wood Beam 8m"
         Transform {
           Location {
-            X: 100.476563
-            Y: -594.820313
+            X: 100.476562
+            Y: -594.820312
             Z: 922.957275
           }
           Rotation {
@@ -1844,7 +1844,7 @@ Assets {
         Transform {
           Location {
             X: -330.294922
-            Y: -333.507813
+            Y: -333.507812
             Z: 998.679932
           }
           Rotation {
@@ -2180,7 +2180,7 @@ Assets {
         Transform {
           Location {
             X: -4.06054688
-            Y: -28.0195313
+            Y: -28.0195312
             Z: 1281.67871
           }
           Rotation {
@@ -2264,7 +2264,7 @@ Assets {
         Transform {
           Location {
             X: -25.4511719
-            Y: -41.1445313
+            Y: -41.1445312
             Z: 1247.83301
           }
           Rotation {
@@ -2768,7 +2768,7 @@ Assets {
         Transform {
           Location {
             X: -91.6933594
-            Y: -140.101563
+            Y: -140.101562
             Z: 1024.52051
           }
           Rotation {
@@ -2936,7 +2936,7 @@ Assets {
         Transform {
           Location {
             X: -111.134766
-            Y: -169.132813
+            Y: -169.132812
             Z: 955.571289
           }
           Rotation {
@@ -4112,7 +4112,7 @@ Assets {
         Transform {
           Location {
             X: -320.498047
-            Y: 514.914063
+            Y: 514.914062
             Z: 915.793213
           }
           Rotation {
@@ -4447,7 +4447,7 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: 3.20507813
+            X: 3.20507812
             Y: -153.542969
             Z: 1460.40503
           }
@@ -4616,7 +4616,7 @@ Assets {
         Transform {
           Location {
             X: -37.0957031
-            Y: -139.164063
+            Y: -139.164062
             Z: 1385.32764
           }
           Rotation {
@@ -4784,7 +4784,7 @@ Assets {
         Transform {
           Location {
             X: -65.3769531
-            Y: -107.632813
+            Y: -107.632812
             Z: 1309.91187
           }
           Rotation {
@@ -4952,7 +4952,7 @@ Assets {
         Transform {
           Location {
             X: -95.7519531
-            Y: -87.3007813
+            Y: -87.3007812
             Z: 1237.09229
           }
           Rotation {
@@ -5036,7 +5036,7 @@ Assets {
         Transform {
           Location {
             X: -107.046875
-            Y: -73.7539063
+            Y: -73.7539062
             Z: 1204.28711
           }
           Rotation {
@@ -5288,7 +5288,7 @@ Assets {
         Transform {
           Location {
             X: 364.658203
-            Y: 261.914063
+            Y: 261.914062
             Z: 1565.10181
           }
           Rotation {
@@ -6687,7 +6687,7 @@ Assets {
         Transform {
           Location {
             X: 208.251953
-            Y: -30.6289063
+            Y: -30.6289062
             Z: 1293.58716
           }
           Rotation {
@@ -7107,7 +7107,7 @@ Assets {
         Transform {
           Location {
             X: 298.960938
-            Y: -78.7539063
+            Y: -78.7539062
             Z: 1104.06152
           }
           Rotation {
@@ -7633,7 +7633,7 @@ Assets {
         Transform {
           Location {
             X: 64.71875
-            Y: -504.726563
+            Y: -504.726562
             Z: 973.883789
           }
           Rotation {
@@ -7708,7 +7708,7 @@ Assets {
         Transform {
           Location {
             X: 38.3339844
-            Y: -485.945313
+            Y: -485.945312
             Z: 204.819336
           }
           Rotation {
@@ -8661,8 +8661,8 @@ Assets {
         Name: "Craftsman Wall 01 Half "
         Transform {
           Location {
-            X: 55.3164063
-            Y: 169.445313
+            X: 55.3164062
+            Y: 169.445312
             Z: 198.553955
           }
           Rotation {
@@ -9207,7 +9207,7 @@ Assets {
         Transform {
           Location {
             X: 514.417969
-            Y: 58.4414063
+            Y: 58.4414062
             Z: 1104.84277
           }
           Rotation {
@@ -9472,7 +9472,7 @@ Assets {
         Transform {
           Location {
             X: 260.017578
-            Y: -201.757813
+            Y: -201.757812
             Z: 372.670654
           }
           Rotation {
@@ -9723,7 +9723,7 @@ Assets {
         Name: "Large Round Wood Beam 8m"
         Transform {
           Location {
-            X: -64.3476563
+            X: -64.3476562
             Y: -464.78125
             Z: 811.197754
           }
@@ -10503,7 +10503,7 @@ Assets {
         Transform {
           Location {
             X: -373.087891
-            Y: 271.257813
+            Y: 271.257812
             Z: 1003.83105
           }
           Rotation {
@@ -10842,7 +10842,7 @@ Assets {
         Name: "Large Round Wood Beam 8m"
         Transform {
           Location {
-            X: 333.132813
+            X: 333.132812
             Y: 228.304688
             Z: 1358.73413
           }
@@ -11291,7 +11291,7 @@ Assets {
         Transform {
           Location {
             X: 565.8125
-            Y: 169.632813
+            Y: 169.632812
             Z: 872.008057
           }
           Rotation {
@@ -11470,7 +11470,7 @@ Assets {
         Transform {
           Location {
             X: 124.644531
-            Y: -452.070313
+            Y: -452.070312
             Z: 34.2440186
           }
           Rotation {
@@ -11735,7 +11735,7 @@ Assets {
         Transform {
           Location {
             X: 316.925781
-            Y: -106.257813
+            Y: -106.257812
             Z: 35.7885742
           }
           Rotation {
@@ -12234,7 +12234,7 @@ Assets {
         Transform {
           Location {
             X: 194.652344
-            Y: -10.9726563
+            Y: -10.9726562
             Z: 758.232422
           }
           Rotation {
@@ -12305,7 +12305,7 @@ Assets {
         Transform {
           Location {
             X: 249.171875
-            Y: -43.9257813
+            Y: -43.9257812
             Z: 760.104
           }
           Rotation {
@@ -13432,7 +13432,7 @@ Assets {
         Name: "Large Round Wood Beam 8m"
         Transform {
           Location {
-            X: -206.101563
+            X: -206.101562
             Y: 335.898438
             Z: 788.712769
           }
@@ -13965,7 +13965,7 @@ Assets {
         Transform {
           Location {
             X: -121.416016
-            Y: -32.4414063
+            Y: -32.4414062
           }
           Rotation {
             Yaw: 151.342026
@@ -14144,7 +14144,7 @@ Assets {
         Transform {
           Location {
             X: -226.714844
-            Y: -260.039063
+            Y: -260.039062
             Z: 34.8652954
           }
           Rotation {
@@ -14858,7 +14858,7 @@ Assets {
         Transform {
           Location {
             X: -20.3925781
-            Y: -168.257813
+            Y: -168.257812
             Z: 809.32666
           }
           Rotation {
@@ -15082,7 +15082,7 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: 67.1445313
+            X: 67.1445312
             Y: -176.484375
             Z: 859.055908
           }
@@ -15671,7 +15671,7 @@ Assets {
         Transform {
           Location {
             X: 138.488281
-            Y: -65.8476563
+            Y: -65.8476562
             Z: 1113.37292
           }
           Rotation {
@@ -16091,7 +16091,7 @@ Assets {
         Transform {
           Location {
             X: 173.207031
-            Y: 26.3007813
+            Y: 26.3007812
             Z: 1290.50134
           }
           Rotation {
@@ -16594,7 +16594,7 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: 212.414063
+            X: 212.414062
             Y: -447.058594
             Z: 1152.64209
           }
@@ -17266,8 +17266,8 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: -195.601563
-            Y: 472.570313
+            X: -195.601562
+            Y: 472.570312
             Z: 929.686829
           }
           Rotation {
@@ -17855,7 +17855,7 @@ Assets {
         Transform {
           Location {
             X: -267.232422
-            Y: 356.851563
+            Y: 356.851562
             Z: 1185.80457
           }
           Rotation {
@@ -18023,7 +18023,7 @@ Assets {
         Transform {
           Location {
             X: -287.529297
-            Y: 321.226563
+            Y: 321.226562
             Z: 1255.47961
           }
           Rotation {
@@ -18637,7 +18637,7 @@ Assets {
         Transform {
           Location {
             X: -135.199219
-            Y: 92.0507813
+            Y: 92.0507812
             Z: 1110.96362
           }
           Rotation {
@@ -18888,7 +18888,7 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: -163.976563
+            X: -163.976562
             Y: 38.6484375
             Z: 1225.41235
           }
@@ -20178,7 +20178,7 @@ Assets {
         Transform {
           Location {
             X: 89.4668
-            Y: 495.664063
+            Y: 495.664062
             Z: 979.474426
           }
           Rotation {
@@ -20837,7 +20837,7 @@ Assets {
         Name: "Large Wood Beam 8m"
         Transform {
           Location {
-            X: -517.476563
+            X: -517.476562
             Y: -99.640625
             Z: 606.228882
           }
@@ -21493,7 +21493,7 @@ Assets {
         Name: "Large Round Wood Beam 8m"
         Transform {
           Location {
-            X: -403.289063
+            X: -403.289062
             Y: -212.246094
             Z: 1143.46582
           }
@@ -22537,7 +22537,7 @@ Assets {
         Name: "Craftsman Wall 01 Half "
         Transform {
           Location {
-            X: 193.132813
+            X: 193.132812
             Y: -196.074219
             Z: 185.279541
           }
@@ -24380,7 +24380,7 @@ Assets {
         Transform {
           Location {
             X: 325.572266
-            Y: 296.539063
+            Y: 296.539062
             Z: 1309.45154
           }
           Rotation {
@@ -24464,7 +24464,7 @@ Assets {
         Transform {
           Location {
             X: 288.4375
-            Y: 295.914063
+            Y: 295.914062
             Z: 1334.71899
           }
           Rotation {
@@ -24632,7 +24632,7 @@ Assets {
         Transform {
           Location {
             X: 222.541016
-            Y: 304.445313
+            Y: 304.445312
             Z: 1378.48706
           }
           Rotation {
@@ -25220,7 +25220,7 @@ Assets {
         Transform {
           Location {
             X: 165.986328
-            Y: -176.820313
+            Y: -176.820312
             Z: 1309.21533
           }
           Rotation {
@@ -25556,7 +25556,7 @@ Assets {
         Transform {
           Location {
             X: 273.771484
-            Y: 461.101563
+            Y: 461.101562
             Z: 1459.70789
           }
           Rotation {
@@ -25640,7 +25640,7 @@ Assets {
         Transform {
           Location {
             X: 254.998047
-            Y: 477.757813
+            Y: 477.757812
             Z: 1493.55334
           }
           Rotation {
@@ -25892,7 +25892,7 @@ Assets {
         Transform {
           Location {
             X: -53.75
-            Y: -402.195313
+            Y: -402.195312
             Z: 1550.29626
           }
           Rotation {
@@ -26593,7 +26593,7 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: -195.257813
+            X: -195.257812
             Y: -441.367188
             Z: 1344.99792
           }
@@ -26678,7 +26678,7 @@ Assets {
         Transform {
           Location {
             X: -217.203125
-            Y: -439.882813
+            Y: -439.882812
             Z: 1306.56982
           }
           Rotation {
@@ -27266,7 +27266,7 @@ Assets {
         Transform {
           Location {
             X: -472.708984
-            Y: -241.914063
+            Y: -241.914062
             Z: 1615.11938
           }
           Rotation {
@@ -27601,7 +27601,7 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: -534.101563
+            X: -534.101562
             Y: -193.3125
             Z: 1466.88416
           }
@@ -27937,7 +27937,7 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: 335.164063
+            X: 335.164062
             Y: 480.722656
             Z: 1363.44763
           }
@@ -28189,7 +28189,7 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: 286.882813
+            X: 286.882812
             Y: 504.800781
             Z: 1469.5293
           }
@@ -28609,7 +28609,7 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: 203.851563
+            X: 203.851562
             Y: 552.605469
             Z: 1655.13513
           }
@@ -28778,7 +28778,7 @@ Assets {
         Transform {
           Location {
             X: 169.144531
-            Y: 584.664063
+            Y: 584.664062
             Z: 1726.6875
           }
           Rotation {
@@ -29392,7 +29392,7 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: -285.601563
+            X: -285.601562
             Y: -419.078125
             Z: 1164.80103
           }
@@ -29551,7 +29551,7 @@ Assets {
         Name: "Large Wood Beam 8m"
         Transform {
           Location {
-            X: 178.851563
+            X: 178.851562
             Y: -171.25
             Z: 517.759583
           }
@@ -29702,7 +29702,7 @@ Assets {
         Transform {
           Location {
             X: -185.410156
-            Y: -279.476563
+            Y: -279.476562
             Z: 606.228943
           }
           Rotation {
@@ -30547,7 +30547,7 @@ Assets {
         Transform {
           Location {
             X: -25.2265625
-            Y: -406.570313
+            Y: -406.570312
             Z: 882.069031
           }
           Rotation {
@@ -31184,7 +31184,7 @@ Assets {
           Location {
             X: 185.042969
             Y: -4.3046875
-            Z: 375.539063
+            Z: 375.539062
           }
           Rotation {
             Pitch: 90
@@ -31365,7 +31365,7 @@ Assets {
         Transform {
           Location {
             X: 247.40625
-            Y: 92.3632813
+            Y: 92.3632812
             Z: 1026.78516
           }
           Rotation {
@@ -31747,7 +31747,7 @@ Assets {
         Transform {
           Location {
             X: 247.40625
-            Y: 92.3632813
+            Y: 92.3632812
             Z: 905.627319
           }
           Rotation {
@@ -31818,7 +31818,7 @@ Assets {
         Transform {
           Location {
             X: 257.720703
-            Y: 380.226563
+            Y: 380.226562
             Z: 391.469727
           }
           Rotation {
@@ -31999,7 +31999,7 @@ Assets {
         Name: "Fantasy Castle Door 01"
         Transform {
           Location {
-            X: 1.66601563
+            X: 1.66601562
             Y: 414.113281
             Z: 733.445251
           }
@@ -32109,7 +32109,7 @@ Assets {
         Transform {
           Location {
             X: -140.916016
-            Y: 459.070313
+            Y: 459.070312
             Z: 373.859924
           }
           Rotation {
@@ -32183,7 +32183,7 @@ Assets {
         Name: "Craftsman Wall 01 Half "
         Transform {
           Location {
-            X: -149.726563
+            X: -149.726562
             Y: 272.746094
             Z: 228.935181
           }
@@ -32652,7 +32652,7 @@ Assets {
         Name: "Large Wood Beam 8m"
         Transform {
           Location {
-            X: -377.695313
+            X: -377.695312
             Y: -73.03125
             Z: 255.41571
           }
@@ -33132,7 +33132,7 @@ Assets {
         Name: "Large Wood Beam 8m"
         Transform {
           Location {
-            X: 296.976563
+            X: 296.976562
             Y: -539.046875
             Z: 931.371643
           }
@@ -34062,7 +34062,7 @@ Assets {
         Transform {
           Location {
             X: -359.855469
-            Y: 31.8320313
+            Y: 31.8320312
             Z: 1146.97266
           }
           Rotation {
@@ -34303,7 +34303,7 @@ Assets {
         Name: "Whitebox Wall 01 Triangle Top"
         Transform {
           Location {
-            X: -155.445313
+            X: -155.445312
             Y: -330.890625
             Z: 988.729736
           }
@@ -34388,7 +34388,7 @@ Assets {
         Transform {
           Location {
             X: 420.890625
-            Y: -40.6601563
+            Y: -40.6601562
             Z: 955.584106
           }
           Rotation {
@@ -34640,7 +34640,7 @@ Assets {
         Transform {
           Location {
             X: 368.738281
-            Y: -26.8476563
+            Y: -26.8476562
             Z: 1061.66577
           }
           Rotation {
@@ -34808,7 +34808,7 @@ Assets {
         Transform {
           Location {
             X: 334.03125
-            Y: -15.3945313
+            Y: -15.3945312
             Z: 1134.48535
           }
           Rotation {
@@ -34892,7 +34892,7 @@ Assets {
         Transform {
           Location {
             X: 312.121094
-            Y: -13.3945313
+            Y: -13.3945312
             Z: 1172.91357
           }
           Rotation {
@@ -35059,7 +35059,7 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: 277.757813
+            X: 277.757812
             Y: 3.1796875
             Z: 1247.27148
           }
@@ -35144,7 +35144,7 @@ Assets {
         Transform {
           Location {
             X: 255.658203
-            Y: 10.4726563
+            Y: 10.4726562
             Z: 1284.97827
           }
           Rotation {
@@ -35228,7 +35228,7 @@ Assets {
         Transform {
           Location {
             X: 237.28125
-            Y: 27.5664063
+            Y: 27.5664062
             Z: 1318.82373
           }
           Rotation {
@@ -35648,7 +35648,7 @@ Assets {
         Transform {
           Location {
             X: -163.425781
-            Y: -426.507813
+            Y: -426.507812
             Z: 1026.21509
           }
           Rotation {
@@ -35983,7 +35983,7 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: -92.3007813
+            X: -92.3007812
             Y: -449.988281
             Z: 1170.26807
           }
@@ -36235,8 +36235,8 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: -35.8320313
-            Y: -473.851563
+            X: -35.8320312
+            Y: -473.851562
             Z: 1282.33276
           }
           Rotation {
@@ -36320,7 +36320,7 @@ Assets {
         Transform {
           Location {
             X: -17.4589844
-            Y: -490.945313
+            Y: -490.945312
             Z: 1316.17822
           }
           Rotation {
@@ -36403,7 +36403,7 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: 3.10351563
+            X: 3.10351562
             Y: -486.707031
             Z: 1352.00781
           }
@@ -36656,7 +36656,7 @@ Assets {
         Transform {
           Location {
             X: 101.980469
-            Y: -187.945313
+            Y: -187.945312
             Z: 1088.26599
           }
           Rotation {
@@ -36908,7 +36908,7 @@ Assets {
         Transform {
           Location {
             X: 120.435547
-            Y: -138.351563
+            Y: -138.351562
             Z: 1191.00183
           }
           Rotation {
@@ -36991,7 +36991,7 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: 113.164063
+            X: 113.164062
             Y: -117.332031
             Z: 1230.03467
           }
@@ -37076,7 +37076,7 @@ Assets {
         Transform {
           Location {
             X: 111.609375
-            Y: -95.3945313
+            Y: -95.3945312
             Z: 1268.46289
           }
           Rotation {
@@ -37327,7 +37327,7 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: 126.070313
+            X: 126.070312
             Y: -35.8203125
             Z: 1380.52759
           }
@@ -38251,7 +38251,7 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: -402.726563
+            X: -402.726562
             Y: 216.488281
             Z: 1308.09595
           }
@@ -38924,7 +38924,7 @@ Assets {
         Transform {
           Location {
             X: -210.921875
-            Y: -35.0351563
+            Y: -35.0351562
             Z: 1234.94336
           }
           Rotation {
@@ -39008,7 +39008,7 @@ Assets {
         Transform {
           Location {
             X: -195.375
-            Y: -43.3632813
+            Y: -43.3632812
             Z: 1267.74854
           }
           Rotation {
@@ -39176,7 +39176,7 @@ Assets {
         Transform {
           Location {
             X: -159.59375
-            Y: -50.8320313
+            Y: -50.8320312
             Z: 1340.56812
           }
           Rotation {
@@ -39596,7 +39596,7 @@ Assets {
         Transform {
           Location {
             X: -58.6230469
-            Y: -82.6132813
+            Y: -82.6132812
             Z: 1524.90649
           }
           Rotation {
@@ -39764,7 +39764,7 @@ Assets {
         Transform {
           Location {
             X: -23.2050781
-            Y: -74.2382813
+            Y: -74.2382812
             Z: 1593.1123
           }
           Rotation {
@@ -40267,7 +40267,7 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: 237.039063
+            X: 237.039062
             Y: 429.519531
             Z: 1343.21362
           }
@@ -41260,7 +41260,7 @@ Assets {
         Transform {
           Location {
             X: -23.8300781
-            Y: 23.1132813
+            Y: 23.1132812
             Z: 988.729736
           }
           Rotation {
@@ -41343,8 +41343,8 @@ Assets {
         Name: "Large Wood Beam 8m"
         Transform {
           Location {
-            X: 376.382813
-            Y: -63.9414063
+            X: 376.382812
+            Y: -63.9414062
             Z: 965.487915
           }
           Rotation {
@@ -42367,7 +42367,7 @@ Assets {
           Location {
             X: 78.8144531
             Y: -41.9492188
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
           }
@@ -42612,7 +42612,7 @@ Assets {
         Transform {
           Location {
             X: 93.1855469
-            Y: 163.882813
+            Y: 163.882812
             Z: 640.816284
           }
           Rotation {
@@ -42962,7 +42962,7 @@ Assets {
         Name: "Ring - Thin"
         Transform {
           Location {
-            X: 45.8945313
+            X: 45.8945312
             Y: 75.4765625
             Z: 640.816528
           }
@@ -44423,6 +44423,6 @@ Assets {
   Marketplace {
     Description: "Small homes for suburban areas or poor areas of cities. \r\nCan be used in a small village as well, however, they do not have interior, there is space for it, but it will require a little work.\r\nYou can use these to fill in blank spots in your city and make it feel more alive and more detailed. \r\nThis little bundle includes four different houses of different shapes and size, which can be manipulated around as you see fit :D\r\n\r\n - Fexel"
   }
-  SerializationVersion: 91
+  SerializationVersion: 94
   DirectlyPublished: true
 }

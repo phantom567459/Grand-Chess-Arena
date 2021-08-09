@@ -5,11 +5,12 @@ Objects {
   Name: "Cafe Table"
   Transform {
     Location {
-      X: 4806.75146
-      Y: -1304.08191
+      X: 8815.34766
+      Y: 40.0236816
       Z: 149.899445
     }
     Rotation {
+      Yaw: -1.60791016
     }
     Scale {
       X: 1
@@ -52,11 +53,12 @@ Objects {
   Name: "Cafe Table"
   Transform {
     Location {
-      X: 4801.8877
-      Y: -1677.74
+      X: 8800.00195
+      Y: -333.351074
       Z: 149.899445
     }
     Rotation {
+      Yaw: -1.60791016
     }
     Scale {
       X: 1
@@ -99,12 +101,12 @@ Objects {
   Name: "Counter - Drawers"
   Transform {
     Location {
-      X: 5126.79883
-      Y: -1101.5481
+      X: 9140.94922
+      Y: 233.497314
       Z: 149.899475
     }
     Rotation {
-      Yaw: 3.51628375
+      Yaw: 1.90837348
     }
     Scale {
       X: 1
@@ -149,12 +151,12 @@ Objects {
   Name: "Counter - Drawers"
   Transform {
     Location {
-      X: 5134.12793
-      Y: -1207.74927
+      X: 9145.29688
+      Y: 127.132324
       Z: 151.428558
     }
     Rotation {
-      Yaw: 3.5162847
+      Yaw: 1.90837455
     }
     Scale {
       X: 1
@@ -220,15 +222,15 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 5176.16699
-            Y: -1133.74048
+            X: 9189.39648
+            Y: 199.932373
             Z: 293.31604
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: 44.7801743
+            Yaw: 43.1722603
           }
         }
         Overrides {
@@ -251,11 +253,12 @@ Objects {
   Name: "Cafe Table"
   Transform {
     Location {
-      X: 4430.90479
-      Y: -1697.82581
+      X: 8428.6
+      Y: -343.019043
       Z: 149.899445
     }
     Rotation {
+      Yaw: -1.60791016
     }
     Scale {
       X: 1
@@ -298,11 +301,12 @@ Objects {
   Name: "Cafe Table"
   Transform {
     Location {
-      X: 4423.05322
-      Y: -1390.68701
+      X: 8429.36914
+      Y: -35.7810059
       Z: 149.899475
     }
     Rotation {
+      Yaw: -1.60791016
     }
     Scale {
       X: 1

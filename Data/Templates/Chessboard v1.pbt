@@ -24314,7 +24314,7 @@ Assets {
         Name: "Pawn"
         Transform {
           Location {
-            X: 599.414063
+            X: 599.414062
             Y: -12.8269196
             Z: 1.32080078
           }
@@ -25639,7 +25639,7 @@ Assets {
         Name: "Pawn"
         Transform {
           Location {
-            X: 111.914063
+            X: 111.914062
             Y: 3.81469727e-05
           }
           Rotation {
@@ -25726,7 +25726,7 @@ Assets {
         Name: "Pawn"
         Transform {
           Location {
-            X: 324.257813
+            X: 324.257812
             Y: 0.000114440918
           }
           Rotation {
@@ -37760,6 +37760,7 @@ Assets {
           MinYaw: -50
           MaxYaw: 50
           DoesPositionOffsetSpring: true
+          UseAsAudioListener: true
         }
       }
       Objects {
@@ -37814,6 +37815,7 @@ Assets {
           MinYaw: -50
           MaxYaw: 50
           DoesPositionOffsetSpring: true
+          UseAsAudioListener: true
         }
       }
       Objects {
@@ -38829,5 +38831,5 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 91
+  SerializationVersion: 94
 }

@@ -1,7 +1,7 @@
 Name: "Chessboard Mini_3"
-RootId: 2155575710867322408
+RootId: 4052853027226648744
 Objects {
-  Id: 13108055468127650526
+  Id: 3396867529758165675
   Name: "Golden Trims"
   Transform {
     Location {
@@ -18,7 +18,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2155575710867322408
+  ParentId: 4052853027226648744
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
@@ -71,7 +71,7 @@ Objects {
   }
 }
 Objects {
-  Id: 6709111359031743480
+  Id: 11071701406988447652
   Name: "Golden Trims"
   Transform {
     Location {
@@ -88,7 +88,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2155575710867322408
+  ParentId: 4052853027226648744
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
@@ -141,7 +141,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2770926245271664708
+  Id: 230759929752186613
   Name: "Golden Trims"
   Transform {
     Location {
@@ -157,7 +157,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2155575710867322408
+  ParentId: 4052853027226648744
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
@@ -210,7 +210,7 @@ Objects {
   }
 }
 Objects {
-  Id: 678022213447086655
+  Id: 4554917976093190138
   Name: "Golden Trims"
   Transform {
     Location {
@@ -226,7 +226,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2155575710867322408
+  ParentId: 4052853027226648744
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
@@ -279,7 +279,7 @@ Objects {
   }
 }
 Objects {
-  Id: 7603534243579847917
+  Id: 17619311072759297808
   Name: "Golden Trims"
   Transform {
     Location {
@@ -296,7 +296,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2155575710867322408
+  ParentId: 4052853027226648744
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
@@ -349,7 +349,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8490490572425585512
+  Id: 7386566898169849801
   Name: "Golden Trims"
   Transform {
     Location {
@@ -366,7 +366,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2155575710867322408
+  ParentId: 4052853027226648744
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
@@ -419,7 +419,7 @@ Objects {
   }
 }
 Objects {
-  Id: 17248780810970537677
+  Id: 1212518404385465714
   Name: "Golden Trims"
   Transform {
     Location {
@@ -435,7 +435,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2155575710867322408
+  ParentId: 4052853027226648744
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
@@ -488,7 +488,7 @@ Objects {
   }
 }
 Objects {
-  Id: 225714303319385461
+  Id: 15435296857639478664
   Name: "Golden Trims"
   Transform {
     Location {
@@ -504,7 +504,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2155575710867322408
+  ParentId: 4052853027226648744
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
@@ -557,7 +557,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10935914560925490688
+  Id: 5051596756410029277
   Name: "Edge"
   Transform {
     Location {
@@ -573,7 +573,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2155575710867322408
+  ParentId: 4052853027226648744
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -634,7 +634,7 @@ Objects {
   }
 }
 Objects {
-  Id: 277554036947420916
+  Id: 2990658572178832725
   Name: "Client Tiles"
   Transform {
     Location {
@@ -649,8 +649,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2155575710867322408
-  ChildIds: 6109228059215193936
+  ParentId: 4052853027226648744
+  ChildIds: 14239843324262540343
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -672,7 +672,7 @@ Objects {
   }
 }
 Objects {
-  Id: 6109228059215193936
+  Id: 14239843324262540343
   Name: "Tiles"
   Transform {
     Location {
@@ -685,7 +685,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 277554036947420916
+  ParentId: 2990658572178832725
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -709,7 +709,7 @@ Objects {
   }
 }
 Objects {
-  Id: 14042189131126986430
+  Id: 2957314531446856653
   Name: "White Captured"
   Transform {
     Location {
@@ -725,7 +725,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2155575710867322408
+  ParentId: 4052853027226648744
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -749,7 +749,7 @@ Objects {
   }
 }
 Objects {
-  Id: 15468200567707107702
+  Id: 5449727514012095723
   Name: "Black Captured"
   Transform {
     Location {
@@ -765,7 +765,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2155575710867322408
+  ParentId: 4052853027226648744
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -789,7 +789,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1311881383094038193
+  Id: 8703892146406918716
   Name: "Pieces"
   Transform {
     Location {
@@ -802,9 +802,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2155575710867322408
-  ChildIds: 7580858057781659668
-  ChildIds: 7098905123443049333
+  ParentId: 4052853027226648744
+  ChildIds: 5856184898997005965
+  ChildIds: 15359048396015664049
   Collidable_v2 {
     Value: "mc:ecollisionsetting:forceoff"
   }
@@ -827,7 +827,7 @@ Objects {
   }
 }
 Objects {
-  Id: 7098905123443049333
+  Id: 15359048396015664049
   Name: "White"
   Transform {
     Location {
@@ -842,7 +842,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1311881383094038193
+  ParentId: 8703892146406918716
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -866,7 +866,7 @@ Objects {
   }
 }
 Objects {
-  Id: 7580858057781659668
+  Id: 5856184898997005965
   Name: "Black"
   Transform {
     Location {
@@ -881,7 +881,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1311881383094038193
+  ParentId: 8703892146406918716
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -895,7 +895,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Black_4"
+    FilePartitionName: "Black_5"
   }
   InstanceHistory {
     SelfId: 7580858057781659668
@@ -905,7 +905,7 @@ Objects {
   }
 }
 Objects {
-  Id: 742897985430614104
+  Id: 343066093766669323
   Name: "Coordinates"
   Transform {
     Location {
@@ -921,7 +921,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2155575710867322408
+  ParentId: 4052853027226648744
   UnregisteredParameters {
   }
   Collidable_v2 {

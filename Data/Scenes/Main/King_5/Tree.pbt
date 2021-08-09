@@ -43,6 +43,8 @@ Objects {
   Name: "Top Ring"
   Transform {
     Location {
+      X: -0.0132194981
+      Y: 11089.3184
       Z: 215
     }
     Rotation {
@@ -101,6 +103,8 @@ Objects {
   Name: "Top Piece Top"
   Transform {
     Location {
+      X: -0.0132194981
+      Y: 11089.3184
       Z: 195
     }
     Rotation {
@@ -159,6 +163,8 @@ Objects {
   Name: "Top Piece Bottom"
   Transform {
     Location {
+      X: -0.0132194981
+      Y: 11089.3184
       Z: 195
     }
     Rotation {
@@ -218,6 +224,8 @@ Objects {
   Name: "Trunk Ring Top"
   Transform {
     Location {
+      X: -0.0132194981
+      Y: 11089.3184
       Z: 140
     }
     Rotation {
@@ -276,6 +284,8 @@ Objects {
   Name: "Trunk Ring Bottom"
   Transform {
     Location {
+      X: -0.0132194981
+      Y: 11089.3184
       Z: 120
     }
     Rotation {
@@ -334,6 +344,8 @@ Objects {
   Name: "Trunk Ring Middle"
   Transform {
     Location {
+      X: -0.0132194981
+      Y: 11089.3184
       Z: 130
     }
     Rotation {
@@ -392,6 +404,8 @@ Objects {
   Name: "Base Ring Top"
   Transform {
     Location {
+      X: -0.0132194981
+      Y: 11089.3184
       Z: -15
     }
     Rotation {
@@ -450,6 +464,8 @@ Objects {
   Name: "Base 2"
   Transform {
     Location {
+      X: -0.0132194981
+      Y: 11089.3184
       Z: -60
     }
     Rotation {
@@ -508,6 +524,8 @@ Objects {
   Name: "Felt"
   Transform {
     Location {
+      X: -0.0132194981
+      Y: 11089.3184
       Z: -120
     }
     Rotation {
@@ -582,6 +600,8 @@ Objects {
   Name: "Ring"
   Transform {
     Location {
+      X: -0.0132194981
+      Y: 11089.3184
       Z: 120
     }
     Rotation {
@@ -636,6 +656,8 @@ Objects {
   Name: "Trunk - Top"
   Transform {
     Location {
+      X: -0.0132194981
+      Y: 11089.3184
       Z: -5
     }
     Rotation {
@@ -690,6 +712,8 @@ Objects {
   Name: "Base"
   Transform {
     Location {
+      X: -0.0132194981
+      Y: 11089.3184
       Z: -100
     }
     Rotation {

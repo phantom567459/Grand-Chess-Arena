@@ -1,7 +1,7 @@
 Name: "Decoration_3"
-RootId: 12869019261299139077
+RootId: 13089024973109186071
 Objects {
-  Id: 6824897912119079009
+  Id: 3874483560083878312
   Name: "Decoration Piece 5"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 0.15
     }
   }
-  ParentId: 12869019261299139077
+  ParentId: 13089024973109186071
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -58,7 +58,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10055042471784694229
+  Id: 11566891033863651927
   Name: "Decoration Piece 4"
   Transform {
     Location {
@@ -72,7 +72,7 @@ Objects {
       Z: 0.25
     }
   }
-  ParentId: 12869019261299139077
+  ParentId: 13089024973109186071
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -117,7 +117,7 @@ Objects {
   }
 }
 Objects {
-  Id: 3674108364014266334
+  Id: 15940659281011931148
   Name: "Decoration Piece 3"
   Transform {
     Location {
@@ -132,7 +132,7 @@ Objects {
       Z: 0.25
     }
   }
-  ParentId: 12869019261299139077
+  ParentId: 13089024973109186071
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -173,7 +173,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1990173252158358754
+  Id: 15599704652665806821
   Name: "Decoration Piece 2"
   Transform {
     Location {
@@ -188,7 +188,7 @@ Objects {
       Z: 0.25
     }
   }
-  ParentId: 12869019261299139077
+  ParentId: 13089024973109186071
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -233,7 +233,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5661818880404097396
+  Id: 14307906383156086543
   Name: "Decoration Piece 1"
   Transform {
     Location {
@@ -248,7 +248,7 @@ Objects {
       Z: 0.25
     }
   }
-  ParentId: 12869019261299139077
+  ParentId: 13089024973109186071
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

@@ -1,7 +1,7 @@
 Name: "Pawns_11"
-RootId: 3476202047494169947
+RootId: 15709005580172898450
 Objects {
-  Id: 15599550599973716675
+  Id: 8037919392988941156
   Name: "Pawn"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3476202047494169947
+  ParentId: 15709005580172898450
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -41,11 +41,11 @@ Objects {
   }
 }
 Objects {
-  Id: 6715831014845896553
+  Id: 18100950097450391983
   Name: "Pawn"
   Transform {
     Location {
-      X: 599.414063
+      X: 599.414062
       Y: -12.8269196
       Z: 1.32080078
     }
@@ -57,7 +57,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3476202047494169947
+  ParentId: 15709005580172898450
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -81,7 +81,7 @@ Objects {
   }
 }
 Objects {
-  Id: 6149521302432099609
+  Id: 9555266089150211764
   Name: "Pawn"
   Transform {
     Location {
@@ -97,7 +97,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3476202047494169947
+  ParentId: 15709005580172898450
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -121,7 +121,7 @@ Objects {
   }
 }
 Objects {
-  Id: 493196251311716811
+  Id: 6625128966007360977
   Name: "Pawn"
   Transform {
     Location {
@@ -136,7 +136,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3476202047494169947
+  ParentId: 15709005580172898450
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -160,7 +160,7 @@ Objects {
   }
 }
 Objects {
-  Id: 3904747535445877554
+  Id: 10981202082223476320
   Name: "Pawn"
   Transform {
     Location {
@@ -176,7 +176,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3476202047494169947
+  ParentId: 15709005580172898450
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -200,7 +200,7 @@ Objects {
   }
 }
 Objects {
-  Id: 4590789240800693856
+  Id: 17435931335555854423
   Name: "Pawn"
   Transform {
     Location {
@@ -216,7 +216,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3476202047494169947
+  ParentId: 15709005580172898450
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -240,7 +240,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16940938541922002552
+  Id: 11588393713162799653
   Name: "Pawn"
   Transform {
     Location {
@@ -256,7 +256,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3476202047494169947
+  ParentId: 15709005580172898450
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -280,7 +280,7 @@ Objects {
   }
 }
 Objects {
-  Id: 18050225871621333919
+  Id: 10620691608293104885
   Name: "Pawn"
   Transform {
     Location {
@@ -296,7 +296,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3476202047494169947
+  ParentId: 15709005580172898450
   UnregisteredParameters {
   }
   Collidable_v2 {

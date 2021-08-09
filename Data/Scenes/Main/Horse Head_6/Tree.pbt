@@ -1,7 +1,7 @@
 Name: "Horse Head_6"
-RootId: 16570600200404957861
+RootId: 9850414015947736181
 Objects {
-  Id: 11091991107471734560
+  Id: 10199540291947309238
   Name: "Neck"
   Transform {
     Location {
@@ -18,7 +18,7 @@ Objects {
       Z: 4.5
     }
   }
-  ParentId: 16570600200404957861
+  ParentId: 9850414015947736181
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -71,7 +71,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16628622752106295842
+  Id: 6898872054293088847
   Name: "Bottom of Throat"
   Transform {
     Location {
@@ -86,7 +86,7 @@ Objects {
       Z: 1.60000014
     }
   }
-  ParentId: 16570600200404957861
+  ParentId: 9850414015947736181
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -127,7 +127,7 @@ Objects {
   }
 }
 Objects {
-  Id: 6400343775217054928
+  Id: 1085405722131843677
   Name: "Throat I guess"
   Transform {
     Location {
@@ -142,7 +142,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16570600200404957861
+  ParentId: 9850414015947736181
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -183,7 +183,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5475145321104111183
+  Id: 8571582380775040338
   Name: "Back of Head"
   Transform {
     Location {
@@ -199,7 +199,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16570600200404957861
+  ParentId: 9850414015947736181
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -244,7 +244,7 @@ Objects {
   }
 }
 Objects {
-  Id: 14116942557758870759
+  Id: 10088480033850169254
   Name: "Ear"
   Transform {
     Location {
@@ -261,7 +261,7 @@ Objects {
       Z: 0.45
     }
   }
-  ParentId: 16570600200404957861
+  ParentId: 9850414015947736181
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -306,7 +306,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2968881159785380576
+  Id: 9242228545822062075
   Name: "Head"
   Transform {
     Location {
@@ -323,7 +323,7 @@ Objects {
       Z: 0.680049837
     }
   }
-  ParentId: 16570600200404957861
+  ParentId: 9850414015947736181
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -364,7 +364,7 @@ Objects {
   }
 }
 Objects {
-  Id: 4144243555603448541
+  Id: 2906441040339368521
   Name: "Snout"
   Transform {
     Location {
@@ -382,7 +382,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16570600200404957861
+  ParentId: 9850414015947736181
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -423,7 +423,7 @@ Objects {
   }
 }
 Objects {
-  Id: 13808396660838205197
+  Id: 10871625709698776094
   Name: "Eye 2"
   Transform {
     Location {
@@ -441,7 +441,7 @@ Objects {
       Z: 0.05
     }
   }
-  ParentId: 16570600200404957861
+  ParentId: 9850414015947736181
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -482,7 +482,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2942564665753010576
+  Id: 14503302463614227576
   Name: "Eye 1"
   Transform {
     Location {
@@ -500,7 +500,7 @@ Objects {
       Z: 0.05
     }
   }
-  ParentId: 16570600200404957861
+  ParentId: 9850414015947736181
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -541,7 +541,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16747564629823345937
+  Id: 3119146765608435295
   Name: "Mouth"
   Transform {
     Location {
@@ -558,7 +558,7 @@ Objects {
       Z: 0.25
     }
   }
-  ParentId: 16570600200404957861
+  ParentId: 9850414015947736181
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "Free to use <3 \r\n\r\n(Not very good at this type of structures)"
   }
-  SerializationVersion: 91
+  SerializationVersion: 94
 }

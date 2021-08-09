@@ -1,7 +1,7 @@
 Name: "Knight_4"
-RootId: 9284589475421473120
+RootId: 5153179867500526939
 Objects {
-  Id: 1207877646261255963
+  Id: 13478567651882648784
   Name: "Horse Head"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9284589475421473120
+  ParentId: 5153179867500526939
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -41,7 +41,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16614919608517203091
+  Id: 8937150024387629541
   Name: "Base Ring Top"
   Transform {
     Location {
@@ -55,7 +55,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 9284589475421473120
+  ParentId: 5153179867500526939
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -109,7 +109,7 @@ Objects {
   }
 }
 Objects {
-  Id: 18156654903906276008
+  Id: 6204445007726601736
   Name: "Base 2"
   Transform {
     Location {
@@ -123,7 +123,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 9284589475421473120
+  ParentId: 5153179867500526939
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -177,7 +177,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10061794943632174677
+  Id: 8721525619667079781
   Name: "Felt"
   Transform {
     Location {
@@ -191,7 +191,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 9284589475421473120
+  ParentId: 5153179867500526939
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -252,7 +252,7 @@ Objects {
   }
 }
 Objects {
-  Id: 14417577730689400712
+  Id: 15484432203481815047
   Name: "Base"
   Transform {
     Location {
@@ -266,7 +266,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 9284589475421473120
+  ParentId: 5153179867500526939
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

@@ -2,7 +2,7 @@ Assets {
   Id: 2394138943404527492
   Name: "Custom Sugar"
   PlatformAssetType: 13
-  SerializationVersion: 91
+  SerializationVersion: 94
   CustomMaterialAsset {
     BaseMaterialId: 1357742270085564357
     ParameterOverrides {

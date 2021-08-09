@@ -69,7 +69,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "UI_3"
+    FilePartitionName: "UI_15"
   }
   InstanceHistory {
     SelfId: 219538731183617982
@@ -107,7 +107,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "SFX_3"
+    FilePartitionName: "SFX_15"
   }
   InstanceHistory {
     SelfId: 11994234212324883865
@@ -121,7 +121,7 @@ Objects {
   Name: "BlackCamera"
   Transform {
     Location {
-      X: 54
+      X: 4820.56445
       Y: 18.1018066
       Z: 62
     }
@@ -168,6 +168,7 @@ Objects {
     MinYaw: -50
     MaxYaw: 50
     DoesPositionOffsetSpring: true
+    UseAsAudioListener: true
   }
   InstanceHistory {
     SelfId: 18047848671796056105
@@ -181,8 +182,8 @@ Objects {
   Name: "WhiteCamera"
   Transform {
     Location {
-      X: -96
-      Y: 16.8404541
+      X: 4670.56445
+      Y: 16.840332
       Z: 62
     }
     Rotation {
@@ -227,6 +228,7 @@ Objects {
     MinYaw: -50
     MaxYaw: 50
     DoesPositionOffsetSpring: true
+    UseAsAudioListener: true
   }
   InstanceHistory {
     SelfId: 5717955329696222322
@@ -240,7 +242,7 @@ Objects {
   Name: "BlackChair"
   Transform {
     Location {
-      X: 226
+      X: 4992.56445
       Y: 17
       Z: -103
     }
@@ -300,7 +302,7 @@ Objects {
       Z: 70
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
       X: 1.2
@@ -344,12 +346,12 @@ Objects {
   Name: "WhiteChair"
   Transform {
     Location {
-      X: -254
+      X: 4512.56348
       Y: 17
       Z: -103
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -399,7 +401,7 @@ Objects {
   Name: "WhiteTrigger"
   Transform {
     Location {
-      X: -1.19579315
+      X: -1.19579697
       Y: 32.2268028
       Z: 70
     }
@@ -552,7 +554,7 @@ Objects {
   Name: "A1"
   Transform {
     Location {
-      X: -89
+      X: 4677.56445
       Y: -71
       Z: 5
     }
@@ -620,7 +622,7 @@ Objects {
   Name: "B1"
   Transform {
     Location {
-      X: -89
+      X: 4677.56445
       Y: -51
       Z: 5
     }
@@ -673,7 +675,7 @@ Objects {
   Name: "C1"
   Transform {
     Location {
-      X: -89
+      X: 4677.56445
       Y: -31
       Z: 5
     }
@@ -726,7 +728,7 @@ Objects {
   Name: "D1"
   Transform {
     Location {
-      X: -89
+      X: 4677.56445
       Y: -11
       Z: 5
     }
@@ -779,7 +781,7 @@ Objects {
   Name: "E1"
   Transform {
     Location {
-      X: -89
+      X: 4677.56445
       Y: 9
       Z: 5
     }
@@ -832,7 +834,7 @@ Objects {
   Name: "F1"
   Transform {
     Location {
-      X: -89
+      X: 4677.56445
       Y: 29
       Z: 5
     }
@@ -885,7 +887,7 @@ Objects {
   Name: "G1"
   Transform {
     Location {
-      X: -89
+      X: 4677.56445
       Y: 49
       Z: 5
     }
@@ -938,7 +940,7 @@ Objects {
   Name: "H1"
   Transform {
     Location {
-      X: -89
+      X: 4677.56445
       Y: 69
       Z: 5
     }
@@ -991,7 +993,7 @@ Objects {
   Name: "A2"
   Transform {
     Location {
-      X: -69
+      X: 4697.56348
       Y: -71
       Z: 5
     }
@@ -1059,7 +1061,7 @@ Objects {
   Name: "B2"
   Transform {
     Location {
-      X: -69
+      X: 4697.56348
       Y: -51
       Z: 5
     }
@@ -1112,7 +1114,7 @@ Objects {
   Name: "C2"
   Transform {
     Location {
-      X: -69
+      X: 4697.56348
       Y: -31
       Z: 5
     }
@@ -1165,7 +1167,7 @@ Objects {
   Name: "D2"
   Transform {
     Location {
-      X: -69
+      X: 4697.56348
       Y: -11
       Z: 5
     }
@@ -1218,7 +1220,7 @@ Objects {
   Name: "E2"
   Transform {
     Location {
-      X: -69
+      X: 4697.56348
       Y: 9
       Z: 5
     }
@@ -1271,7 +1273,7 @@ Objects {
   Name: "F2"
   Transform {
     Location {
-      X: -69
+      X: 4697.56348
       Y: 29
       Z: 5
     }
@@ -1324,7 +1326,7 @@ Objects {
   Name: "G2"
   Transform {
     Location {
-      X: -69
+      X: 4697.56348
       Y: 49
       Z: 5
     }
@@ -1377,7 +1379,7 @@ Objects {
   Name: "H2"
   Transform {
     Location {
-      X: -69
+      X: 4697.56348
       Y: 69
       Z: 5
     }
@@ -1430,7 +1432,7 @@ Objects {
   Name: "A3"
   Transform {
     Location {
-      X: -49
+      X: 4717.56348
       Y: -71
       Z: 5
     }
@@ -1498,7 +1500,7 @@ Objects {
   Name: "B3"
   Transform {
     Location {
-      X: -49
+      X: 4717.56348
       Y: -51
       Z: 5
     }
@@ -1551,7 +1553,7 @@ Objects {
   Name: "C3"
   Transform {
     Location {
-      X: -49
+      X: 4717.56348
       Y: -31
       Z: 5
     }
@@ -1604,7 +1606,7 @@ Objects {
   Name: "D3"
   Transform {
     Location {
-      X: -49
+      X: 4717.56348
       Y: -11
       Z: 5
     }
@@ -1657,7 +1659,7 @@ Objects {
   Name: "E3"
   Transform {
     Location {
-      X: -49
+      X: 4717.56348
       Y: 9
       Z: 5
     }
@@ -1710,7 +1712,7 @@ Objects {
   Name: "F3"
   Transform {
     Location {
-      X: -49
+      X: 4717.56348
       Y: 29
       Z: 5
     }
@@ -1763,7 +1765,7 @@ Objects {
   Name: "G3"
   Transform {
     Location {
-      X: -49
+      X: 4717.56348
       Y: 49
       Z: 5
     }
@@ -1816,7 +1818,7 @@ Objects {
   Name: "H3"
   Transform {
     Location {
-      X: -49
+      X: 4717.56348
       Y: 69
       Z: 5
     }
@@ -1869,7 +1871,7 @@ Objects {
   Name: "A4"
   Transform {
     Location {
-      X: -29
+      X: 4737.56445
       Y: -71
       Z: 5
     }
@@ -1937,7 +1939,7 @@ Objects {
   Name: "B4"
   Transform {
     Location {
-      X: -29
+      X: 4737.56445
       Y: -51
       Z: 5
     }
@@ -1990,7 +1992,7 @@ Objects {
   Name: "C4"
   Transform {
     Location {
-      X: -29
+      X: 4737.56445
       Y: -31
       Z: 5
     }
@@ -2043,7 +2045,7 @@ Objects {
   Name: "D4"
   Transform {
     Location {
-      X: -29
+      X: 4737.56445
       Y: -11
       Z: 5
     }
@@ -2096,7 +2098,7 @@ Objects {
   Name: "E4"
   Transform {
     Location {
-      X: -29
+      X: 4737.56445
       Y: 9
       Z: 5
     }
@@ -2149,7 +2151,7 @@ Objects {
   Name: "F4"
   Transform {
     Location {
-      X: -29
+      X: 4737.56445
       Y: 29
       Z: 5
     }
@@ -2202,7 +2204,7 @@ Objects {
   Name: "G4"
   Transform {
     Location {
-      X: -29
+      X: 4737.56445
       Y: 49
       Z: 5
     }
@@ -2255,7 +2257,7 @@ Objects {
   Name: "H4"
   Transform {
     Location {
-      X: -29
+      X: 4737.56445
       Y: 69
       Z: 5
     }
@@ -2308,7 +2310,7 @@ Objects {
   Name: "A5"
   Transform {
     Location {
-      X: -9
+      X: 4757.56348
       Y: -71
       Z: 5
     }
@@ -2376,7 +2378,7 @@ Objects {
   Name: "B5"
   Transform {
     Location {
-      X: -9
+      X: 4757.56348
       Y: -51
       Z: 5
     }
@@ -2429,7 +2431,7 @@ Objects {
   Name: "C5"
   Transform {
     Location {
-      X: -9
+      X: 4757.56348
       Y: -31
       Z: 5
     }
@@ -2482,7 +2484,7 @@ Objects {
   Name: "D5"
   Transform {
     Location {
-      X: -9
+      X: 4757.56348
       Y: -11
       Z: 5
     }
@@ -2535,7 +2537,7 @@ Objects {
   Name: "E5"
   Transform {
     Location {
-      X: -9
+      X: 4757.56348
       Y: 9
       Z: 5
     }
@@ -2588,7 +2590,7 @@ Objects {
   Name: "F5"
   Transform {
     Location {
-      X: -9
+      X: 4757.56348
       Y: 29
       Z: 5
     }
@@ -2641,7 +2643,7 @@ Objects {
   Name: "G5"
   Transform {
     Location {
-      X: -9
+      X: 4757.56348
       Y: 49
       Z: 5
     }
@@ -2694,7 +2696,7 @@ Objects {
   Name: "H5"
   Transform {
     Location {
-      X: -9
+      X: 4757.56348
       Y: 69
       Z: 5
     }
@@ -2747,7 +2749,7 @@ Objects {
   Name: "A6"
   Transform {
     Location {
-      X: 10
+      X: 4776.56348
       Y: -71
       Z: 5
     }
@@ -2815,7 +2817,7 @@ Objects {
   Name: "B6"
   Transform {
     Location {
-      X: 10
+      X: 4776.56348
       Y: -51
       Z: 5
     }
@@ -2868,7 +2870,7 @@ Objects {
   Name: "C6"
   Transform {
     Location {
-      X: 10
+      X: 4776.56348
       Y: -31
       Z: 5
     }
@@ -2921,7 +2923,7 @@ Objects {
   Name: "D6"
   Transform {
     Location {
-      X: 10
+      X: 4776.56348
       Y: -11
       Z: 5
     }
@@ -2974,7 +2976,7 @@ Objects {
   Name: "E6"
   Transform {
     Location {
-      X: 10
+      X: 4776.56348
       Y: 9
       Z: 5
     }
@@ -3027,7 +3029,7 @@ Objects {
   Name: "F6"
   Transform {
     Location {
-      X: 10
+      X: 4776.56348
       Y: 29
       Z: 5
     }
@@ -3080,7 +3082,7 @@ Objects {
   Name: "G6"
   Transform {
     Location {
-      X: 10
+      X: 4776.56348
       Y: 49
       Z: 5
     }
@@ -3133,7 +3135,7 @@ Objects {
   Name: "H6"
   Transform {
     Location {
-      X: 10
+      X: 4776.56348
       Y: 69
       Z: 5
     }
@@ -3186,7 +3188,7 @@ Objects {
   Name: "A7"
   Transform {
     Location {
-      X: 30
+      X: 4796.56348
       Y: -71
       Z: 5
     }
@@ -3254,7 +3256,7 @@ Objects {
   Name: "B7"
   Transform {
     Location {
-      X: 30
+      X: 4796.56348
       Y: -51
       Z: 5
     }
@@ -3307,7 +3309,7 @@ Objects {
   Name: "C7"
   Transform {
     Location {
-      X: 30
+      X: 4796.56348
       Y: -31
       Z: 5
     }
@@ -3360,7 +3362,7 @@ Objects {
   Name: "D7"
   Transform {
     Location {
-      X: 30
+      X: 4796.56348
       Y: -11
       Z: 5
     }
@@ -3413,7 +3415,7 @@ Objects {
   Name: "E7"
   Transform {
     Location {
-      X: 30
+      X: 4796.56348
       Y: 9
       Z: 5
     }
@@ -3466,7 +3468,7 @@ Objects {
   Name: "F7"
   Transform {
     Location {
-      X: 30
+      X: 4796.56348
       Y: 29
       Z: 5
     }
@@ -3519,7 +3521,7 @@ Objects {
   Name: "G7"
   Transform {
     Location {
-      X: 30
+      X: 4796.56348
       Y: 49
       Z: 5
     }
@@ -3572,7 +3574,7 @@ Objects {
   Name: "H7"
   Transform {
     Location {
-      X: 30
+      X: 4796.56348
       Y: 69
       Z: 5
     }
@@ -3625,7 +3627,7 @@ Objects {
   Name: "A8"
   Transform {
     Location {
-      X: 50
+      X: 4816.56348
       Y: -71
       Z: 5
     }
@@ -3693,7 +3695,7 @@ Objects {
   Name: "B8"
   Transform {
     Location {
-      X: 50
+      X: 4816.56348
       Y: -51
       Z: 5
     }
@@ -3746,7 +3748,7 @@ Objects {
   Name: "C8"
   Transform {
     Location {
-      X: 50
+      X: 4816.56348
       Y: -31
       Z: 5
     }
@@ -3799,7 +3801,7 @@ Objects {
   Name: "D8"
   Transform {
     Location {
-      X: 50
+      X: 4816.56348
       Y: -11
       Z: 5
     }
@@ -3852,7 +3854,7 @@ Objects {
   Name: "E8"
   Transform {
     Location {
-      X: 50
+      X: 4816.56348
       Y: 9
       Z: 5
     }
@@ -3905,7 +3907,7 @@ Objects {
   Name: "F8"
   Transform {
     Location {
-      X: 50
+      X: 4816.56348
       Y: 29
       Z: 5
     }
@@ -3958,7 +3960,7 @@ Objects {
   Name: "G8"
   Transform {
     Location {
-      X: 50
+      X: 4816.56348
       Y: 49
       Z: 5
     }
@@ -4011,7 +4013,7 @@ Objects {
   Name: "H8"
   Transform {
     Location {
-      X: 50
+      X: 4816.56348
       Y: 69
       Z: 5
     }
@@ -4064,7 +4066,7 @@ Objects {
   Name: "Craftsman End Table"
   Transform {
     Location {
-      X: -21
+      X: 4745.56348
       Y: 16
       Z: -97
     }

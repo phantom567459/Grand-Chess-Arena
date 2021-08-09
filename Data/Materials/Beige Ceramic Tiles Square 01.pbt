@@ -2,7 +2,7 @@ Assets {
   Id: 10679900741424003816
   Name: "Beige Ceramic Tiles Square 01"
   PlatformAssetType: 13
-  SerializationVersion: 91
+  SerializationVersion: 94
   CustomMaterialAsset {
     BaseMaterialId: 14797755684488147728
     ParameterOverrides {

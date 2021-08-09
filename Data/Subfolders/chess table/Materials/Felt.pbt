@@ -2,7 +2,7 @@ Assets {
   Id: 14270684000641202322
   Name: "Felt"
   PlatformAssetType: 13
-  SerializationVersion: 91
+  SerializationVersion: 94
   CustomMaterialAsset {
     BaseMaterialId: 1630421927122873739
     ParameterOverrides {

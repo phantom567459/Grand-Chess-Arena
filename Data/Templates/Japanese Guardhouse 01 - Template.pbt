@@ -761,7 +761,7 @@ Assets {
         Transform {
           Location {
             X: 1200.00061
-            Y: -0.000122070313
+            Y: -0.000122070312
           }
           Rotation {
             Yaw: 180
@@ -901,7 +901,7 @@ Assets {
         Transform {
           Location {
             X: -1199.99377
-            Y: -0.000122070313
+            Y: -0.000122070312
           }
           Rotation {
             Yaw: 89.999939
@@ -5153,7 +5153,7 @@ Assets {
           Location {
             X: -550.001953
             Y: -25
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
           }
@@ -14922,7 +14922,7 @@ Assets {
           Location {
             X: -550.001953
             Y: -25
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
           }
@@ -15163,7 +15163,7 @@ Assets {
           Location {
             X: -550.001953
             Y: 150
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
             Yaw: -90
@@ -20792,5 +20792,5 @@ Assets {
       AssetId: "Japanese_Guardhouse_01_-_Template"
     }
   }
-  SerializationVersion: 91
+  SerializationVersion: 94
 }

@@ -1,7 +1,7 @@
 Name: "Bishop_7"
-RootId: 1953621617430356924
+RootId: 13700577902051604257
 Objects {
-  Id: 8393107093346632191
+  Id: 8998050389458220288
   Name: "Top Sphere"
   Transform {
     Location {
@@ -15,7 +15,7 @@ Objects {
       Z: 0.2
     }
   }
-  ParentId: 1953621617430356924
+  ParentId: 13700577902051604257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -60,7 +60,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8327031927912350456
+  Id: 13277139304597065999
   Name: "Top Tip"
   Transform {
     Location {
@@ -74,7 +74,7 @@ Objects {
       Z: 0.673767686
     }
   }
-  ParentId: 1953621617430356924
+  ParentId: 13700577902051604257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -115,7 +115,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11301557876492591938
+  Id: 7119922174599092094
   Name: "Top Bottom"
   Transform {
     Location {
@@ -129,7 +129,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 1953621617430356924
+  ParentId: 13700577902051604257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -174,7 +174,7 @@ Objects {
   }
 }
 Objects {
-  Id: 12437655239498232865
+  Id: 15623711349873549192
   Name: "Trunk Ring Top"
   Transform {
     Location {
@@ -188,7 +188,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 1953621617430356924
+  ParentId: 13700577902051604257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -233,7 +233,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5234737814235753189
+  Id: 8902914083080775474
   Name: "Trunk Ring Bottom"
   Transform {
     Location {
@@ -247,7 +247,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 1953621617430356924
+  ParentId: 13700577902051604257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -292,7 +292,7 @@ Objects {
   }
 }
 Objects {
-  Id: 13855224608317916653
+  Id: 13199861406364356749
   Name: "Trunk Ring Middle"
   Transform {
     Location {
@@ -306,7 +306,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 1953621617430356924
+  ParentId: 13700577902051604257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -351,7 +351,7 @@ Objects {
   }
 }
 Objects {
-  Id: 6306821966683126645
+  Id: 17900091387367498020
   Name: "Base Ring Top"
   Transform {
     Location {
@@ -365,7 +365,7 @@ Objects {
       Z: 0.75
     }
   }
-  ParentId: 1953621617430356924
+  ParentId: 13700577902051604257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -410,7 +410,7 @@ Objects {
   }
 }
 Objects {
-  Id: 6458472683587228496
+  Id: 17061813442293819755
   Name: "Base 2"
   Transform {
     Location {
@@ -424,7 +424,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 1953621617430356924
+  ParentId: 13700577902051604257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -469,7 +469,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11218020851343739039
+  Id: 1199199688187409812
   Name: "Felt"
   Transform {
     Location {
@@ -483,7 +483,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 1953621617430356924
+  ParentId: 13700577902051604257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -544,7 +544,7 @@ Objects {
   }
 }
 Objects {
-  Id: 13871705990985811779
+  Id: 10361212379319330381
   Name: "Ring"
   Transform {
     Location {
@@ -558,7 +558,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1953621617430356924
+  ParentId: 13700577902051604257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -599,7 +599,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11248295082678885978
+  Id: 10077163571008843875
   Name: "Trunk - Top"
   Transform {
     Location {
@@ -613,7 +613,7 @@ Objects {
       Z: 2.5
     }
   }
-  ParentId: 1953621617430356924
+  ParentId: 13700577902051604257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -654,7 +654,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9907809725900986648
+  Id: 5533700498864175580
   Name: "Base"
   Transform {
     Location {
@@ -668,7 +668,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 1953621617430356924
+  ParentId: 13700577902051604257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

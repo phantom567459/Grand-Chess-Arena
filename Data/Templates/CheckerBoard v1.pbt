@@ -2296,7 +2296,7 @@ Assets {
         Name: "Pawn"
         Transform {
           Location {
-            X: -1132.82813
+            X: -1132.82812
             Y: 253.576172
             Z: 39.4571533
           }
@@ -2572,7 +2572,7 @@ Assets {
         Name: "Pawn"
         Transform {
           Location {
-            X: -718.226563
+            X: -718.226562
             Y: 653.847656
             Z: 39.4571533
           }
@@ -2711,7 +2711,7 @@ Assets {
         Transform {
           Location {
             X: 863.160156
-            Y: 657.914063
+            Y: 657.914062
             Z: 39.4571533
           }
           Rotation {
@@ -2779,7 +2779,7 @@ Assets {
         Name: "Pawn"
         Transform {
           Location {
-            X: 1626.57813
+            X: 1626.57812
             Y: 652.970703
             Z: 39.4571533
           }
@@ -3031,7 +3031,7 @@ Assets {
         Name: "Pawn"
         Transform {
           Location {
-            X: -699.351563
+            X: -699.351562
             Y: 1163.38477
             Z: 39.4563
           }
@@ -3170,7 +3170,7 @@ Assets {
         Transform {
           Location {
             X: -1093.5918
-            Y: 763.132813
+            Y: 763.132812
             Z: 39.4563
           }
           Rotation {
@@ -5119,7 +5119,7 @@ Assets {
         Name: "Pawn"
         Transform {
           Location {
-            X: 599.414063
+            X: 599.414062
             Y: -12.8269196
             Z: 1.32080078
           }
@@ -6444,7 +6444,7 @@ Assets {
         Name: "Pawn"
         Transform {
           Location {
-            X: 111.914063
+            X: 111.914062
             Y: 3.81469727e-05
           }
           Rotation {
@@ -6531,7 +6531,7 @@ Assets {
         Name: "Pawn"
         Transform {
           Location {
-            X: 324.257813
+            X: 324.257812
             Y: 0.000114440918
           }
           Rotation {
@@ -18973,6 +18973,7 @@ Assets {
           MinYaw: -50
           MaxYaw: 50
           DoesPositionOffsetSpring: true
+          UseAsAudioListener: true
         }
       }
       Objects {
@@ -19027,6 +19028,7 @@ Assets {
           MinYaw: -50
           MaxYaw: 50
           DoesPositionOffsetSpring: true
+          UseAsAudioListener: true
         }
       }
       Objects {
@@ -19507,5 +19509,5 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 91
+  SerializationVersion: 94
 }

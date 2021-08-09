@@ -45,7 +45,7 @@ Objects {
   Name: "Pawn"
   Transform {
     Location {
-      X: 599.414063
+      X: 599.414062
       Y: -12.8269196
       Z: 1.32080078
     }

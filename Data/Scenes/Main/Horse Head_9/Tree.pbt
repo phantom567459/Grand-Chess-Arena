@@ -5,7 +5,8 @@ Objects {
   Name: "Neck"
   Transform {
     Location {
-      X: -15
+      X: 7826.00146
+      Y: 7841.01074
       Z: 110
     }
     Rotation {
@@ -114,14 +115,15 @@ Objects {
   Name: "Bottom of Throat"
   Transform {
     Location {
-      X: -15
+      X: 7826.00146
+      Y: 7841.01074
       Z: -15
     }
     Rotation {
     }
     Scale {
       X: 1
-      Y: 0.496052444
+      Y: 0.496052474
       Z: 1.60000014
     }
   }
@@ -183,14 +185,15 @@ Objects {
   Name: "Throat I guess"
   Transform {
     Location {
-      X: -15
+      X: 7826.00146
+      Y: 7841.01074
       Z: 65
     }
     Rotation {
     }
     Scale {
       X: 0.5
-      Y: 0.2
+      Y: 0.200000018
       Z: 1
     }
   }
@@ -252,7 +255,8 @@ Objects {
   Name: "Back of Head"
   Transform {
     Location {
-      X: -15
+      X: 7826.00146
+      Y: 7841.01074
       Z: 105
     }
     Rotation {
@@ -322,8 +326,8 @@ Objects {
   Name: "Ear"
   Transform {
     Location {
-      X: -40
-      Y: 17.7736816
+      X: 7801.00586
+      Y: 7858.78809
       Z: 140
     }
     Rotation {
@@ -393,17 +397,18 @@ Objects {
   Name: "Head"
   Transform {
     Location {
-      X: -60
+      X: 7781.00537
+      Y: 7841.01074
       Z: 70
     }
     Rotation {
       Yaw: 89.9999924
-      Roll: -24.2248611
+      Roll: -24.2248535
     }
     Scale {
       X: 0.35
-      Y: 0.815483212
-      Z: 0.680049837
+      Y: 0.815483272
+      Z: 0.680049896
     }
   }
   ParentId: 8493700924395790366
@@ -464,7 +469,8 @@ Objects {
   Name: "Snout"
   Transform {
     Location {
-      X: -65
+      X: 7776.01074
+      Y: 7841.02051
       Z: 85
     }
     Rotation {
@@ -536,8 +542,8 @@ Objects {
   Name: "Eye 2"
   Transform {
     Location {
-      X: -60
-      Y: -17.5
+      X: 7781.00781
+      Y: 7823.50488
       Z: 105
     }
     Rotation {
@@ -547,7 +553,7 @@ Objects {
     Scale {
       X: 0.075
       Y: 0.075
-      Z: 0.05
+      Z: 0.0500000045
     }
   }
   ParentId: 8493700924395790366
@@ -608,8 +614,8 @@ Objects {
   Name: "Eye 1"
   Transform {
     Location {
-      X: -60
-      Y: 17.5
+      X: 7781.01172
+      Y: 7858.50488
       Z: 105
     }
     Rotation {
@@ -619,7 +625,7 @@ Objects {
     Scale {
       X: 0.075
       Y: 0.075
-      Z: 0.05
+      Z: 0.0500000045
     }
   }
   ParentId: 8493700924395790366
@@ -680,11 +686,12 @@ Objects {
   Name: "Mouth"
   Transform {
     Location {
-      X: -95
+      X: 7746.00391
+      Y: 7841.01
       Z: 45
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
       Roll: 33.9300499
     }
     Scale {

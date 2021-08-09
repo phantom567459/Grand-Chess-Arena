@@ -1,7 +1,7 @@
 Name: "Black"
-RootId: 6277027144402087170
+RootId: 5280225069104660166
 Objects {
-  Id: 9055511539305699796
+  Id: 12723795623626107210
   Name: "Pawn - Black"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6277027144402087170
+  ParentId: 5280225069104660166
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -41,7 +41,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1513741931247262454
+  Id: 2273454291066421269
   Name: "Pawn - Black"
   Transform {
     Location {
@@ -57,7 +57,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6277027144402087170
+  ParentId: 5280225069104660166
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -81,7 +81,7 @@ Objects {
   }
 }
 Objects {
-  Id: 17703391787221252906
+  Id: 6611674965990923501
   Name: "Pawn - Black"
   Transform {
     Location {
@@ -97,7 +97,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6277027144402087170
+  ParentId: 5280225069104660166
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -121,7 +121,7 @@ Objects {
   }
 }
 Objects {
-  Id: 14563190468417035819
+  Id: 4896428863163416912
   Name: "Pawn - Black"
   Transform {
     Location {
@@ -137,7 +137,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6277027144402087170
+  ParentId: 5280225069104660166
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -161,7 +161,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5110059789363444970
+  Id: 8741538333067149059
   Name: "Pawn - Black"
   Transform {
     Location {
@@ -177,7 +177,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6277027144402087170
+  ParentId: 5280225069104660166
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -201,7 +201,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9426781615247413378
+  Id: 18302585452089880744
   Name: "Pawn - Black"
   Transform {
     Location {
@@ -217,7 +217,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6277027144402087170
+  ParentId: 5280225069104660166
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -241,7 +241,7 @@ Objects {
   }
 }
 Objects {
-  Id: 13538493494995712762
+  Id: 7479374644851597541
   Name: "Pawn - Black"
   Transform {
     Location {
@@ -257,7 +257,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6277027144402087170
+  ParentId: 5280225069104660166
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -281,7 +281,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5220185592500614982
+  Id: 10760162183076684482
   Name: "Pawn - Black"
   Transform {
     Location {
@@ -297,7 +297,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6277027144402087170
+  ParentId: 5280225069104660166
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -321,7 +321,7 @@ Objects {
   }
 }
 Objects {
-  Id: 12984187126001152578
+  Id: 4024692888534881820
   Name: "Rook"
   Transform {
     Location {
@@ -337,7 +337,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6277027144402087170
+  ParentId: 5280225069104660166
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -361,7 +361,7 @@ Objects {
   }
 }
 Objects {
-  Id: 6692118643848217662
+  Id: 14805388237059149795
   Name: "Knight"
   Transform {
     Location {
@@ -378,7 +378,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6277027144402087170
+  ParentId: 5280225069104660166
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -402,7 +402,7 @@ Objects {
   }
 }
 Objects {
-  Id: 17391006333262457868
+  Id: 15595317216314459513
   Name: "Bishop"
   Transform {
     Location {
@@ -418,7 +418,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6277027144402087170
+  ParentId: 5280225069104660166
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -442,7 +442,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10541732743285863783
+  Id: 8443415803746407110
   Name: "King"
   Transform {
     Location {
@@ -459,7 +459,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6277027144402087170
+  ParentId: 5280225069104660166
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -483,7 +483,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1378582303723025125
+  Id: 2168528969215982490
   Name: "Queen"
   Transform {
     Location {
@@ -499,7 +499,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6277027144402087170
+  ParentId: 5280225069104660166
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -523,7 +523,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1953621617430356924
+  Id: 13700577902051604257
   Name: "Bishop"
   Transform {
     Location {
@@ -539,7 +539,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6277027144402087170
+  ParentId: 5280225069104660166
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -563,7 +563,7 @@ Objects {
   }
 }
 Objects {
-  Id: 12331836442778648706
+  Id: 8358563576628247137
   Name: "Knight"
   Transform {
     Location {
@@ -580,7 +580,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6277027144402087170
+  ParentId: 5280225069104660166
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -604,7 +604,7 @@ Objects {
   }
 }
 Objects {
-  Id: 4998060063999277350
+  Id: 6276281623436470767
   Name: "Rook"
   Transform {
     Location {
@@ -620,7 +620,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6277027144402087170
+  ParentId: 5280225069104660166
   UnregisteredParameters {
   }
   Collidable_v2 {

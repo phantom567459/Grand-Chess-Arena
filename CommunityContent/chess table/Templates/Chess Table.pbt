@@ -54,7 +54,7 @@ Assets {
           Location {
             X: -4.31317139
             Y: 5.52636719
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
           }
@@ -13803,7 +13803,7 @@ Assets {
         Name: "Pawn"
         Transform {
           Location {
-            X: 599.414063
+            X: 599.414062
             Y: -12.8269196
             Z: 1.32080078
           }
@@ -26596,7 +26596,7 @@ Assets {
         Name: "Pawn"
         Transform {
           Location {
-            X: 111.914063
+            X: 111.914062
             Y: 3.81469727e-05
           }
           Rotation {
@@ -26685,7 +26685,7 @@ Assets {
         Name: "Pawn"
         Transform {
           Location {
-            X: 324.257813
+            X: 324.257812
             Y: 0.000114440918
           }
           Rotation {
@@ -35123,7 +35123,7 @@ Assets {
         Transform {
           Location {
             X: 100
-            Y: 8.82226563
+            Y: 8.82226562
           }
           Rotation {
             Pitch: -50.4284668
@@ -35162,6 +35162,7 @@ Assets {
           }
           MinPitch: -89
           MaxPitch: 89
+          UseAsAudioListener: true
         }
       }
       Objects {
@@ -35170,7 +35171,7 @@ Assets {
         Transform {
           Location {
             X: -120
-            Y: 8.82226563
+            Y: 8.82226562
           }
           Rotation {
             Pitch: -50.4284668
@@ -35207,6 +35208,7 @@ Assets {
           }
           MinPitch: -89
           MaxPitch: 89
+          UseAsAudioListener: true
         }
       }
       Objects {
@@ -38692,7 +38694,7 @@ Assets {
         Transform {
           Location {
             X: -5.38543701
-            Y: 1.88476563
+            Y: 1.88476562
             Z: 192.697021
           }
           Rotation {
@@ -39484,6 +39486,6 @@ Assets {
   Marketplace {
     Description: "A  chess table"
   }
-  SerializationVersion: 91
+  SerializationVersion: 94
   DirectlyPublished: true
 }

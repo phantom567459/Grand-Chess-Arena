@@ -1,7 +1,7 @@
 Name: "White Side Letters_1"
-RootId: 1942741985275627900
+RootId: 6679584688457919314
 Objects {
-  Id: 4860501543790697207
+  Id: 14760698539364698565
   Name: "H"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 5
     }
   }
-  ParentId: 1942741985275627900
+  ParentId: 6679584688457919314
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -56,7 +56,7 @@ Objects {
   }
 }
 Objects {
-  Id: 15292206936215205872
+  Id: 4125931282436724083
   Name: "G"
   Transform {
     Location {
@@ -72,7 +72,7 @@ Objects {
       Z: 5
     }
   }
-  ParentId: 1942741985275627900
+  ParentId: 6679584688457919314
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -111,7 +111,7 @@ Objects {
   }
 }
 Objects {
-  Id: 15689873028250883794
+  Id: 14635233209318434484
   Name: "F"
   Transform {
     Location {
@@ -127,7 +127,7 @@ Objects {
       Z: 5
     }
   }
-  ParentId: 1942741985275627900
+  ParentId: 6679584688457919314
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -166,7 +166,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5182831724968611120
+  Id: 6603021464186365337
   Name: "E"
   Transform {
     Location {
@@ -182,7 +182,7 @@ Objects {
       Z: 5
     }
   }
-  ParentId: 1942741985275627900
+  ParentId: 6679584688457919314
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -221,7 +221,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16909652997781474575
+  Id: 8773206385029924340
   Name: "D"
   Transform {
     Location {
@@ -238,7 +238,7 @@ Objects {
       Z: 5
     }
   }
-  ParentId: 1942741985275627900
+  ParentId: 6679584688457919314
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -277,7 +277,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2682114131981144641
+  Id: 3972301396075413250
   Name: "C"
   Transform {
     Location {
@@ -294,7 +294,7 @@ Objects {
       Z: 5
     }
   }
-  ParentId: 1942741985275627900
+  ParentId: 6679584688457919314
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -333,7 +333,7 @@ Objects {
   }
 }
 Objects {
-  Id: 14540817316462266796
+  Id: 3862939938752226083
   Name: "B"
   Transform {
     Location {
@@ -350,7 +350,7 @@ Objects {
       Z: 5
     }
   }
-  ParentId: 1942741985275627900
+  ParentId: 6679584688457919314
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -389,7 +389,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5387687914037043009
+  Id: 16838625812616565710
   Name: "A"
   Transform {
     Location {
@@ -406,7 +406,7 @@ Objects {
       Z: 5
     }
   }
-  ParentId: 1942741985275627900
+  ParentId: 6679584688457919314
   UnregisteredParameters {
   }
   Collidable_v2 {

@@ -12411,6 +12411,6 @@ Assets {
   Marketplace {
     Description: "WIP - Art only\r\n\r\nA start menu for RTS games with calendar, inbox, leaderboard and settings fuctions at the top\r\nOn the left side you have a button for missions (go and fight other players or for the campaign mode)\r\nSquads (which characters and or players you want to take with you on missions)\r\nShop (buy upgrades, equipment and resources)\r\nBase (designing your own base  to either defend and upgrade it or a place where your squads stay to recharge)\r\n\r\nThe icon of a player running is a place holder of your main character that you choose from your squad or yourself"
   }
-  SerializationVersion: 91
+  SerializationVersion: 94
   DirectlyPublished: true
 }

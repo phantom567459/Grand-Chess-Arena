@@ -369,6 +369,100 @@ function dumpBoardToPanel()
 end
 
 
+function BoardUpdate1(serverColors)
+    print("Update colors")
+    for i,v in pairs(serverColors) do
+        if serverColors[i] ~= "EMPTY" then
+            colors[i] = serverColors[i]
+        elseif serverPieces[i] == "EMPTY" then 
+            colors[i] = "EMPTY"
+        end
+    end
+end
+
+function BoardUpdate2(serverPieces)
+    print("Update pieces")
+    local availableRooks = {white[1],white[8]}
+    local availableRooks2 = {black[1],black[8]}
+    local availableKnights = {white[2],white[7]}
+    local availableKnights2 = {black[2],black[7]}
+    local availableBishops = {white[3],white[6]}
+    local availableBishops2 = {black[3],black[6]}
+    local availableQueens = {white[4]}
+    local availableQueens2 = {black[4]}
+    local availableKing = {white[5]}
+    local availableKing2 = {black[5]}
+    local availablePawns = {white[9],white[10],white[11],white[12],white[13],white[14],white[15],white[16]}
+    local availablePawns2 = {black[9],black[10],black[11],black[12],black[13],black[14],black[15],black[16]}
+    
+    for i,v in pairs(serverPieces) do
+        if serverPieces[i] ~= "EMPTY" then
+            if colors[i] == "WHITE" then 
+                if serverPieces[i] == "ROOK" then 
+                    pieces[i] = availableRooks[1]
+                    table.remove(availableRooks[1])
+                end
+                if serverPieces[i] == "KNIGHT" then 
+                    pieces[i] = availableKnights[1]
+                    table.remove(availableKnights[1])
+                end
+                if serverPieces[i] == "BISHOP" then 
+                    pieces[i] = availableBishops[1]
+                    table.remove(availableBishops[1])
+                end
+                if serverPieces[i] == "QUEEN" then 
+                    pieces[i] = availableQueens[1]
+                    table.remove(availableQueens[1])
+                end
+                if serverPieces[i] == "KING" then 
+                    pieces[i] = availableKing[1]
+                    table.remove(availableKing[1])
+                end
+                if serverPieces[i] == "PAWN" then 
+                    pieces[i] = availablePawns[1]
+                    table.remove(availablePawns[1])
+                end
+            elseif colors[i] == "BLACK" then 
+                if serverPieces[i] == "ROOK" then 
+                    pieces[i] = availableRooks2[1]
+                    table.remove(availableRooks2[1])
+                end
+                if serverPieces[i] == "KNIGHT" then 
+                    pieces[i] = availableKnights2[1]
+                    table.remove(availableKnights2[1])
+                end
+                if serverPieces[i] == "BISHOP" then 
+                    pieces[i] = availableBishops2[1]
+                    table.remove(availableBishops2[1])
+                end
+                if serverPieces[i] == "QUEEN" then 
+                    pieces[i] = availableQueens2[1]
+                    table.remove(availableQueens2[1])
+                end
+                if serverPieces[i] == "KING" then 
+                    pieces[i] = availableKing2[1]
+                    table.remove(availableKing2[1])
+                end
+                if serverPieces[i] == "PAWN" then 
+                    pieces[i] = availablePawns2[1]
+                    table.remove(availablePawns2[1])
+                end
+            else
+                print("Honestly we should never hit this")
+            end
+        elseif serverPieces[i] == "EMPTY" then 
+            pieces[i] = "EMPTY"
+        end
+        for i,v in pairs(pieces) do
+            if pieces[i] ~= "EMPTY" then 
+                pieces[i]:SetWorldPosition(squares:FindDescendantByName(board[i]):GetWorldPosition()+Vector3.New(0,0,5),.5)
+            end
+        end
+    end
+end
+
+Events.Connect("Spectating Colors", BoardUpdate1)
+Events.Connect("Spectating Pieces", BoardUpdate2)
 dumpBoard.clickedEvent:Connect(dumpBoardToPanel)
 Events.Connect("Move Piece",MovePiece)
 Events.Connect("End Game",EndGame)

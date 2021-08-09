@@ -2,7 +2,7 @@ Assets {
   Id: 11447184571848149635
   Name: "Custom Base Material from Fantasy Castle Stairs Spiral 02 - Large 3m"
   PlatformAssetType: 13
-  SerializationVersion: 91
+  SerializationVersion: 94
   CustomMaterialAsset {
     BaseMaterialId: 4678303240613028269
     ParameterOverrides {

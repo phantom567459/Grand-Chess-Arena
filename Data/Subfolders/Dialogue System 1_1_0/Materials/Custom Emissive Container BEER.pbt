@@ -2,7 +2,7 @@ Assets {
   Id: 11244779362030213094
   Name: "Custom Emissive Container BEER"
   PlatformAssetType: 13
-  SerializationVersion: 91
+  SerializationVersion: 94
   CustomMaterialAsset {
     BaseMaterialId: 18280303351516875622
     ParameterOverrides {

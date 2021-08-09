@@ -1,7 +1,7 @@
 Name: "Bishops_9"
-RootId: 17020537625026966924
+RootId: 15900864671130242584
 Objects {
-  Id: 16673746033669331534
+  Id: 12846898450463209103
   Name: "Bishop"
   Transform {
     Location {
@@ -16,7 +16,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17020537625026966924
+  ParentId: 15900864671130242584
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30,17 +30,17 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Bishop - Black"
+    FilePartitionName: "Bishop_46"
   }
   InstanceHistory {
-    SelfId: 16673746033669331534
-    SubobjectId: 17314376093986085377
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 16572792651874479630
+    SubobjectId: 17789376305157225400
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 12125686163528135485
+  Id: 7436866256723832653
   Name: "Bishop"
   Transform {
     Location {
@@ -55,7 +55,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17020537625026966924
+  ParentId: 15900864671130242584
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -69,12 +69,12 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Bishop - Black_2"
+    FilePartitionName: "Bishop_47"
   }
   InstanceHistory {
-    SelfId: 12125686163528135485
-    SubobjectId: 13793146516661646194
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 8398099143303085044
+    SubobjectId: 7463281305256242754
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }

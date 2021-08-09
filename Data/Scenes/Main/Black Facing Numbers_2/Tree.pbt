@@ -5,7 +5,8 @@ Objects {
   Name: "1"
   Transform {
     Location {
-      Y: 1400
+      X: -11089.4062
+      Y: 1399.99756
     }
     Rotation {
       Pitch: 90
@@ -60,7 +61,8 @@ Objects {
   Name: "2"
   Transform {
     Location {
-      Y: 1000
+      X: -11089.4092
+      Y: 1000.01099
     }
     Rotation {
       Pitch: 90
@@ -115,7 +117,8 @@ Objects {
   Name: "3"
   Transform {
     Location {
-      Y: 600
+      X: -11089.3936
+      Y: 600.003662
     }
     Rotation {
       Pitch: 90
@@ -170,7 +173,8 @@ Objects {
   Name: "4"
   Transform {
     Location {
-      Y: 200
+      X: -11089.3643
+      Y: 199.992676
     }
     Rotation {
       Pitch: 90
@@ -225,7 +229,8 @@ Objects {
   Name: "5"
   Transform {
     Location {
-      Y: -200
+      X: -11089.3643
+      Y: -200.013428
     }
     Rotation {
       Pitch: 90
@@ -280,7 +285,8 @@ Objects {
   Name: "6"
   Transform {
     Location {
-      Y: -600
+      X: -11089.3936
+      Y: -600.008545
     }
     Rotation {
       Pitch: 90
@@ -335,7 +341,8 @@ Objects {
   Name: "7"
   Transform {
     Location {
-      Y: -1000
+      X: -11089.3936
+      Y: -1000.02319
     }
     Rotation {
       Pitch: 90
@@ -391,11 +398,12 @@ Objects {
   Name: "8"
   Transform {
     Location {
-      Y: -1400
+      X: -11089.3936
+      Y: -1400.02075
     }
     Rotation {
       Pitch: 90
-      Yaw: -7.12502289
+      Yaw: -7.12503052
       Roll: 82.8749847
     }
     Scale {

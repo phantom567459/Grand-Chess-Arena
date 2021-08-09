@@ -5,7 +5,8 @@ Objects {
   Name: "H8"
   Transform {
     Location {
-      X: 1400
+      X: 12489.1758
+      Y: 24.5092773
     }
     Rotation {
     }
@@ -61,7 +62,7 @@ Objects {
   Name: "Glow"
   Transform {
     Location {
-      Z: 7.35635376
+      Z: 7.35626221
     }
     Rotation {
     }
@@ -128,7 +129,8 @@ Objects {
   Name: "G8"
   Transform {
     Location {
-      X: 1000
+      X: 12089.166
+      Y: 24.5092773
     }
     Rotation {
     }
@@ -184,7 +186,7 @@ Objects {
   Name: "Glow"
   Transform {
     Location {
-      Z: 7.35635376
+      Z: 7.35626221
     }
     Rotation {
     }
@@ -251,7 +253,8 @@ Objects {
   Name: "F8"
   Transform {
     Location {
-      X: 600
+      X: 11689.1719
+      Y: 24.519043
     }
     Rotation {
     }
@@ -307,7 +310,7 @@ Objects {
   Name: "Glow"
   Transform {
     Location {
-      Z: 7.35635376
+      Z: 7.35626221
     }
     Rotation {
     }
@@ -374,7 +377,8 @@ Objects {
   Name: "E8"
   Transform {
     Location {
-      X: 200
+      X: 11289.1904
+      Y: 24.5166016
     }
     Rotation {
     }
@@ -430,7 +434,7 @@ Objects {
   Name: "Glow"
   Transform {
     Location {
-      Z: 7.35635376
+      Z: 7.35626221
     }
     Rotation {
     }
@@ -497,7 +501,8 @@ Objects {
   Name: "D8"
   Transform {
     Location {
-      X: -200
+      X: 10889.1689
+      Y: 24.510498
     }
     Rotation {
     }
@@ -553,7 +558,7 @@ Objects {
   Name: "Glow"
   Transform {
     Location {
-      Z: 7.35635376
+      Z: 7.35626221
     }
     Rotation {
     }
@@ -620,7 +625,8 @@ Objects {
   Name: "C8"
   Transform {
     Location {
-      X: -600
+      X: 10489.1797
+      Y: 24.5141602
     }
     Rotation {
     }
@@ -676,7 +682,7 @@ Objects {
   Name: "Glow"
   Transform {
     Location {
-      Z: 7.35635376
+      Z: 7.35626221
     }
     Rotation {
     }
@@ -743,7 +749,8 @@ Objects {
   Name: "B8"
   Transform {
     Location {
-      X: -1000
+      X: 10089.2031
+      Y: 24.5147705
     }
     Rotation {
     }
@@ -799,7 +806,7 @@ Objects {
   Name: "Glow"
   Transform {
     Location {
-      Z: 7.35635376
+      Z: 7.35626221
     }
     Rotation {
     }
@@ -866,7 +873,8 @@ Objects {
   Name: "A8"
   Transform {
     Location {
-      X: -1400
+      X: 9689.21484
+      Y: 24.5141602
     }
     Rotation {
     }
@@ -922,7 +930,7 @@ Objects {
   Name: "Glow"
   Transform {
     Location {
-      Z: 7.35635376
+      Z: 7.35626221
     }
     Rotation {
     }

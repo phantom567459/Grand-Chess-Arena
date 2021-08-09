@@ -387,5 +387,5 @@ Assets {
       AssetId: "Road_1-Lane_Straight"
     }
   }
-  SerializationVersion: 91
+  SerializationVersion: 94
 }

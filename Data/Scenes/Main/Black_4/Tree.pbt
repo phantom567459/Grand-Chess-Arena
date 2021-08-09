@@ -1,7 +1,7 @@
 Name: "Black_4"
-RootId: 7580858057781659668
+RootId: 7352453329490609157
 Objects {
-  Id: 7901498506161633213
+  Id: 7000192325688216376
   Name: "Pawn - Black"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7580858057781659668
+  ParentId: 7352453329490609157
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -41,7 +41,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16551833638029389336
+  Id: 4171887167494253834
   Name: "Pawn - Black"
   Transform {
     Location {
@@ -57,7 +57,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7580858057781659668
+  ParentId: 7352453329490609157
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -81,7 +81,7 @@ Objects {
   }
 }
 Objects {
-  Id: 3278264509617177364
+  Id: 4479385539240460065
   Name: "Pawn - Black"
   Transform {
     Location {
@@ -97,7 +97,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7580858057781659668
+  ParentId: 7352453329490609157
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -121,7 +121,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2838293353731845346
+  Id: 2769856122201160853
   Name: "Pawn - Black"
   Transform {
     Location {
@@ -137,7 +137,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7580858057781659668
+  ParentId: 7352453329490609157
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -161,7 +161,7 @@ Objects {
   }
 }
 Objects {
-  Id: 12014928802945784321
+  Id: 13204117749867295292
   Name: "Pawn - Black"
   Transform {
     Location {
@@ -177,7 +177,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7580858057781659668
+  ParentId: 7352453329490609157
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -201,7 +201,7 @@ Objects {
   }
 }
 Objects {
-  Id: 7060897902455440751
+  Id: 10304744386736479374
   Name: "Pawn - Black"
   Transform {
     Location {
@@ -217,7 +217,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7580858057781659668
+  ParentId: 7352453329490609157
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -241,7 +241,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1151935151548526827
+  Id: 2958425320743567230
   Name: "Pawn - Black"
   Transform {
     Location {
@@ -257,7 +257,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7580858057781659668
+  ParentId: 7352453329490609157
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -281,7 +281,7 @@ Objects {
   }
 }
 Objects {
-  Id: 4988382571217824841
+  Id: 18292883173704147463
   Name: "Pawn - Black"
   Transform {
     Location {
@@ -297,7 +297,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7580858057781659668
+  ParentId: 7352453329490609157
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -321,7 +321,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2364685215900671227
+  Id: 12386364489656847596
   Name: "Rook"
   Transform {
     Location {
@@ -337,7 +337,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7580858057781659668
+  ParentId: 7352453329490609157
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -351,7 +351,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Rook_38"
+    FilePartitionName: "Rook_34"
   }
   InstanceHistory {
     SelfId: 2364685215900671227
@@ -361,7 +361,7 @@ Objects {
   }
 }
 Objects {
-  Id: 4389029627098575866
+  Id: 15470522466574685060
   Name: "Knight"
   Transform {
     Location {
@@ -378,7 +378,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7580858057781659668
+  ParentId: 7352453329490609157
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -392,7 +392,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Knight_38"
+    FilePartitionName: "Knight_34"
   }
   InstanceHistory {
     SelfId: 4389029627098575866
@@ -402,7 +402,7 @@ Objects {
   }
 }
 Objects {
-  Id: 14326636208213383589
+  Id: 11355753184921004079
   Name: "Bishop"
   Transform {
     Location {
@@ -418,7 +418,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7580858057781659668
+  ParentId: 7352453329490609157
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -432,7 +432,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Bishop_38"
+    FilePartitionName: "Bishop_34"
   }
   InstanceHistory {
     SelfId: 14326636208213383589
@@ -442,7 +442,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10707974703563935399
+  Id: 4838408591907216310
   Name: "King"
   Transform {
     Location {
@@ -459,7 +459,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7580858057781659668
+  ParentId: 7352453329490609157
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -483,7 +483,7 @@ Objects {
   }
 }
 Objects {
-  Id: 14074922849737339188
+  Id: 16266197667072640167
   Name: "Queen"
   Transform {
     Location {
@@ -499,7 +499,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7580858057781659668
+  ParentId: 7352453329490609157
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -513,7 +513,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Queen_14"
+    FilePartitionName: "Queen_12"
   }
   InstanceHistory {
     SelfId: 14074922849737339188
@@ -523,7 +523,7 @@ Objects {
   }
 }
 Objects {
-  Id: 17771589726184293901
+  Id: 3352274765196980799
   Name: "Bishop"
   Transform {
     Location {
@@ -539,7 +539,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7580858057781659668
+  ParentId: 7352453329490609157
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -553,7 +553,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Bishop_39"
+    FilePartitionName: "Bishop_35"
   }
   InstanceHistory {
     SelfId: 17771589726184293901
@@ -563,7 +563,7 @@ Objects {
   }
 }
 Objects {
-  Id: 15879011388873519260
+  Id: 13772962678995240975
   Name: "Knight"
   Transform {
     Location {
@@ -580,7 +580,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7580858057781659668
+  ParentId: 7352453329490609157
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -594,7 +594,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Knight_39"
+    FilePartitionName: "Knight_35"
   }
   InstanceHistory {
     SelfId: 15879011388873519260
@@ -604,7 +604,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5274551951078036650
+  Id: 2100308829881840358
   Name: "Rook"
   Transform {
     Location {
@@ -620,7 +620,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7580858057781659668
+  ParentId: 7352453329490609157
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -634,7 +634,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Rook_39"
+    FilePartitionName: "Rook_35"
   }
   InstanceHistory {
     SelfId: 5274551951078036650

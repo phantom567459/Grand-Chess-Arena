@@ -5,9 +5,9 @@ Objects {
   Name: "A"
   Transform {
     Location {
-      X: 469.879
-      Y: 12.2319031
-      Z: 2.91193032
+      X: 11246.5469
+      Y: -28244.5332
+      Z: 68.545845
     }
     Rotation {
       Pitch: 6.83018879e-06
@@ -66,9 +66,9 @@ Objects {
   Name: "B"
   Transform {
     Location {
-      X: -49.9871292
-      Y: -1.30127907
-      Z: -0.309778482
+      X: 10726.623
+      Y: -28258.0977
+      Z: 65.3239822
     }
     Rotation {
       Pitch: 6.83018879e-06
@@ -125,9 +125,9 @@ Objects {
   Name: "C"
   Transform {
     Location {
-      X: -559.855835
-      Y: -14.5742035
-      Z: -3.46951866
+      X: 10216.7793
+      Y: -28271.3711
+      Z: 62.1643829
     }
     Rotation {
     }
@@ -183,9 +183,9 @@ Objects {
   Name: "D"
   Transform {
     Location {
-      X: -1059.72717
-      Y: -27.5868225
-      Z: -6.56730366
+      X: 9716.89355
+      Y: -28284.3848
+      Z: 59.0662766
     }
     Rotation {
       Yaw: 1.2424041e-16
@@ -242,9 +242,9 @@ Objects {
   Name: "E"
   Transform {
     Location {
-      X: -1559.59839
-      Y: -40.5996704
-      Z: -9.66508865
+      X: 9217.0459
+      Y: -28297.3809
+      Z: 55.9686279
     }
     Rotation {
       Yaw: 1.49088493e-16
@@ -301,9 +301,9 @@ Objects {
   Name: "F"
   Transform {
     Location {
-      X: -2049.47241
-      Y: -53.354187
-      Z: -12.7009163
+      X: 8727.15723
+      Y: -28310.1523
+      Z: 52.9328041
     }
     Rotation {
     }
@@ -359,9 +359,9 @@ Objects {
   Name: "G"
   Transform {
     Location {
-      X: -2539.34619
-      Y: -66.1053467
-      Z: -15.7367468
+      X: 8237.28516
+      Y: -28322.8867
+      Z: 49.8971138
     }
     Rotation {
     }
@@ -417,12 +417,11 @@ Objects {
   Name: "H"
   Transform {
     Location {
-      X: -3029.22
-      Y: -78.8568115
-      Z: -18.7725754
+      X: 7747.4292
+      Y: -28335.6406
+      Z: 46.8612213
     }
     Rotation {
-      Roll: -5.336085e-07
     }
     Scale {
       X: 1

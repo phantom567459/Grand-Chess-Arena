@@ -40,5 +40,5 @@ Assets {
     Version: "1.0.0"
     Description: "Basic cartoony looking building to go into your builds!"
   }
-  SerializationVersion: 91
+  SerializationVersion: 94
 }

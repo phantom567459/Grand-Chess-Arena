@@ -63,27 +63,41 @@ local colors = util.CopyTable(COLOR_LAYOUT)
 local legalMove,lastMove,enpassantLegal,promoted
 local hasKingMoved = {false,false} --check first slot for white king, second slot for black king
 local hasRookMoved = {false,false,false,false} --a1,h1,a8,h8 rooks
+local teamToMove = 1
 
 function MovePiece(player,startSquare,endSquare)
     local pieceToMove,colorOfPiece,player2,physicalBoard
+    local spectators = {}
     --FIND PLAYER2 First
     for i,v in pairs(_G.games_in_progress) do 
         if (_G.games_in_progress[i].white == player) then
             player2 = _G.games_in_progress[i].black
+            spectators = _G.games_in_progress[i].spectators
             physicalBoard = _G.games_in_progress[i].board
 
             if physicalBoard ~= tostring(script.parent.parent.id) then
                 --print("WRONG BOARD")
                 return 
             end
+
+            if teamToMove ~= 1 then
+                print("Not your turn!")
+                return 
+            end
             break
         end
         if (_G.games_in_progress[i].black == player) then
             player2 = _G.games_in_progress[i].white
+            spectators = _G.games_in_progress[i].spectators
             physicalBoard = _G.games_in_progress[i].board
 
             if physicalBoard ~= tostring(script.parent.parent.id) then
                 --print("WRONG BOARD")
+                return 
+            end
+
+            if teamToMove ~= 2 then 
+                print("Not your turn!")
                 return 
             end
             break
@@ -113,7 +127,8 @@ function MovePiece(player,startSquare,endSquare)
                     if pieceToMove == "PAWN" then
                         legalMove = PawnRules(i,k,colorOfPiece)
                         if legalMove == false then
-                            Events.BroadcastToPlayer(player,"ILLEGAL MOVE")
+                            --Events.BroadcastToPlayer(player,"ILLEGAL MOVE")
+                            Events.Broadcast("WaveEventToPlayer",player,"ILLEGAL MOVE")
                             print("ILLEGAL MOVE")
                             return
                         end
@@ -124,35 +139,40 @@ function MovePiece(player,startSquare,endSquare)
                     elseif pieceToMove == "ROOK" then
                         legalMove = RookRules(i,k,colorOfPiece)
                         if legalMove == false then
-                            Events.BroadcastToPlayer(player,"ILLEGAL MOVE")
+                            --Events.BroadcastToPlayer(player,"ILLEGAL MOVE")
+                            Events.Broadcast("WaveEventToPlayer",player,"ILLEGAL MOVE")
                             print("ILLEGAL MOVE")
                             return
                         end
                     elseif pieceToMove == "KNIGHT" then
                         legalMove = KnightRules(i,k,colorOfPiece)
                         if legalMove == false then
-                            Events.BroadcastToPlayer(player,"ILLEGAL MOVE")
+                            --Events.BroadcastToPlayer(player,"ILLEGAL MOVE")
+                            Events.Broadcast("WaveEventToPlayer",player,"ILLEGAL MOVE")
                             print("ILLEGAL MOVE")
                             return
                         end
                     elseif pieceToMove == "BISHOP" then
                         legalMove = BishopRules(i,k,colorOfPiece)
                         if legalMove == false then
-                            Events.BroadcastToPlayer(player,"ILLEGAL MOVE")
+                            --Events.BroadcastToPlayer(player,"ILLEGAL MOVE")
+                            Events.Broadcast("WaveEventToPlayer",player,"ILLEGAL MOVE")
                             print("ILLEGAL MOVE")
                             return
                         end
                     elseif pieceToMove == "QUEEN" then
                         legalMove = QueenRules(i,k,colorOfPiece)
                         if legalMove == false then
-                            Events.BroadcastToPlayer(player,"ILLEGAL MOVE")
+                            --Events.BroadcastToPlayer(player,"ILLEGAL MOVE")
+                            Events.Broadcast("WaveEventToPlayer",player,"ILLEGAL MOVE")
                             print("ILLEGAL MOVE")
                             return
                         end
                     elseif pieceToMove == "KING" then
                         legalMove = KingRules(i,k,colorOfPiece)
                         if legalMove == false then
-                            Events.BroadcastToPlayer(player,"ILLEGAL MOVE")
+                            --Events.BroadcastToPlayer(player,"ILLEGAL MOVE")
+                            Events.Broadcast("WaveEventToPlayer",player,"ILLEGAL MOVE")
                             print("ILLEGAL MOVE")
                             return
                         end
@@ -169,7 +189,8 @@ function MovePiece(player,startSquare,endSquare)
                             if colors[y]==colorOfPiece then 
                                 legalMove = Check(y,colorOfPiece)
                                 if legalMove == false then
-                                    Events.BroadcastToPlayer(player,"ILLEGAL MOVE")
+                                    --Events.BroadcastToPlayer(player,"ILLEGAL MOVE")
+                                    Events.Broadcast("WaveEventToPlayer",player,"ILLEGAL MOVE")
                                     print("KING IN CHECK")
                                     pieces[i] = pieceToMove
                                     colors[i] = colorOfPiece
@@ -195,14 +216,13 @@ function MovePiece(player,startSquare,endSquare)
                                 end 
                                 legalMove = Checkmate(y,opposite)
                                 if legalMove == false then
-                                    --Events.BroadcastToPlayer(player,"CHECKMATE WIN")
-                                    --Events.BroadcastToPlayer(player2,"CHECKMATE LOSE")
-                                    Events.BroadcastToPlayer(player,"Move Piece",physicalBoard,colorOfPiece,pieceToMove,startSquare,endSquare)
-                                    Events.BroadcastToPlayer(player2,"Move Piece",physicalBoard,colorOfPiece,pieceToMove,startSquare,endSquare)
+                                    --Events.BroadcastToPlayer(player,"Move Piece",physicalBoard,colorOfPiece,pieceToMove,startSquare,endSquare)
+                                    --Events.BroadcastToPlayer(player2,"Move Piece",physicalBoard,colorOfPiece,pieceToMove,startSquare,endSquare)
+                                    Events.Broadcast("WaveEventToPlayers", {player, player2}, "Move Piece",physicalBoard,colorOfPiece,pieceToMove,startSquare,endSquare)
                                     Task.Wait(0.5)
                                     Events.BroadcastToPlayer(player,"Checkmate Win")
                                     Events.BroadcastToPlayer(player2,"Checkmate Lose")
-                                    Task.Wait(2)
+                                    Task.Wait(5)
                                     EndGame(player2)  --?? maybe not the best way to do this
                                     return
                                 end
@@ -238,12 +258,21 @@ function MovePiece(player,startSquare,endSquare)
         end
     end
     print("Moving",colorOfPiece,pieceToMove,"from",startSquare,"to",endSquare)
-    
+    if teamToMove == 1 then
+        teamToMove = 2
+    elseif teamToMove == 2 then 
+        teamToMove = 1
+    else 
+        print("Uh oh")
+    end
     
     --Find the second player so we can send him the move as well
     
     Events.BroadcastToPlayer(player,"Move Piece",physicalBoard,colorOfPiece,pieceToMove,startSquare,endSquare)
     Events.BroadcastToPlayer(player2,"Move Piece",physicalBoard,colorOfPiece,pieceToMove,startSquare,endSquare)
+    for i,v in pairs(spectators) do 
+        Events.BroadcastToPlayer(spectators[i],"Move Piece",physicalBoard,colorOfPiece,pieceToMove,startSquare,endSquare)
+    end
 end
 
 function PawnRules(ssv,esv,colorOfPiece) --ssv = start square value and esv = end square value
@@ -1293,9 +1322,11 @@ function EndGame(player)
     --If client wishes to end game, then they may do so
     --player is the player who resigned
     local player2,boardParent
+    local spectators = {}
     for i,v in pairs(_G.games_in_progress) do 
         if (_G.games_in_progress[i].white == player) then
             player2 = _G.games_in_progress[i].black
+            spectators = _G.games_in_progress[i].spectators
             boardParent = World.FindObjectById(v.board)
             table.remove(_G.games_in_progress,i)
             break
@@ -1310,6 +1341,7 @@ function EndGame(player)
 
     local propWhiteChair = boardParent:FindChildByName("WhiteChair")
 	local propBlackChair = boardParent:FindChildByName("BlackChair")
+    local spectatorTrigger = boardParent:FindChildByName("SpectatorTrigger")
 	local Trigger1 = propWhiteChair:FindChildByName("WhiteTrigger")
 	local Trigger2 = propBlackChair:FindChildByName("BlackTrigger")
 
@@ -1331,6 +1363,7 @@ function EndGame(player)
     --make board useable again
     Trigger1.isInteractable = true
 	Trigger2.isInteractable = true
+    spectatorTrigger.isInteractable = false
 
     --reset virtual board
     --repopulate
@@ -1418,6 +1451,27 @@ function OnPlayerLeft(player)
 	end
 end
 
+function GetSpectatorData(player,board)
+    if board ~= tostring(script.parent.parent.id) then
+        --print("WRONG BOARD")
+        return 
+    end
+    for i,v in pairs(_G.games_in_progress) do
+        if _G.games_in_progress.board == board then 
+            table.insert(_G.games_in_progress[i].spectators,player)
+            print("Inserted player into Spectators table")
+            break
+        end
+    end
+    Events.BroadcastToPlayer(player,"Spectating colors",colors)
+    print("Sent Colors?")
+    Task.Wait(5)
+    Events.BroadcastToPlayer(player,"Spectating pieces",pieces)
+    print("Sent Pieces?")
+end
+
+
 Events.ConnectForPlayer("Move",MovePiece)
 Events.ConnectForPlayer("End Game",EndGame)
+Events.ConnectForPlayer("Spectator at",GetSpectatorData)
 Game.playerLeftEvent:Connect(OnPlayerLeft)

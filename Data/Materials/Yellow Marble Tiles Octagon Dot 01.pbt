@@ -2,7 +2,7 @@ Assets {
   Id: 3380749477099417509
   Name: "Yellow Marble Tiles Octagon Dot 01"
   PlatformAssetType: 13
-  SerializationVersion: 91
+  SerializationVersion: 94
   CustomMaterialAsset {
     BaseMaterialId: 14510807013688689338
     ParameterOverrides {

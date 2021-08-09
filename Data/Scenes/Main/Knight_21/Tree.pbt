@@ -45,6 +45,8 @@ Objects {
   Name: "Base Ring Top"
   Transform {
     Location {
+      X: -7841.35156
+      Y: -7841.36768
       Z: -40
     }
     Rotation {
@@ -113,6 +115,8 @@ Objects {
   Name: "Base 2"
   Transform {
     Location {
+      X: -7841.35156
+      Y: -7841.36768
       Z: -70
     }
     Rotation {
@@ -181,6 +185,8 @@ Objects {
   Name: "Felt"
   Transform {
     Location {
+      X: -7841.35156
+      Y: -7841.36768
       Z: -120
     }
     Rotation {
@@ -256,6 +262,8 @@ Objects {
   Name: "Base"
   Transform {
     Location {
+      X: -7841.35156
+      Y: -7841.36768
       Z: -100
     }
     Rotation {

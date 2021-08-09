@@ -1,7 +1,7 @@
 Name: "Row 8_4"
-RootId: 13080599226969389690
+RootId: 11440802684259288494
 Objects {
-  Id: 12618358065141703285
+  Id: 5301416738095997882
   Name: "H8"
   Transform {
     Location {
@@ -15,27 +15,13 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13080599226969389690
-  ChildIds: 15325762917922239444
+  ParentId: 11440802684259288494
+  ChildIds: 2590461721727197402
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
       AssetReference {
-        Id: 15435989879601907688
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Trim:color"
-      Color {
-        R: 1
-        G: 1
-        B: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Building_Floor:color"
-      Color {
-        A: 1
+        Id: 16559120484092626874
       }
     }
   }
@@ -64,14 +50,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 12618358065141703285
-    SubobjectId: 13272503038717387322
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 8897757800658805624
+    SubobjectId: 7522634191879648974
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 15325762917922239444
+  Id: 2590461721727197402
   Name: "Glow"
   Transform {
     Location {
@@ -85,7 +71,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12618358065141703285
+  ParentId: 5301416738095997882
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -131,14 +117,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 15325762917922239444
-    SubobjectId: 14095144042864440219
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 5815324536732365136
+    SubobjectId: 4875923650198414566
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 12732085704909379205
+  Id: 16732780742651771571
   Name: "G8"
   Transform {
     Location {
@@ -152,21 +138,13 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13080599226969389690
-  ChildIds: 2853808455034777637
+  ParentId: 11440802684259288494
+  ChildIds: 12210304474928258821
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
       AssetReference {
-        Id: 15435989879601907688
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Trim:color"
-      Color {
-        R: 0.546875
-        G: 0.225472942
-        B: 0.0928580314
+        Id: 18011936559153226333
       }
     }
   }
@@ -195,14 +173,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 12732085704909379205
-    SubobjectId: 12077944478544811722
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 13582055916484900167
+    SubobjectId: 12638168756759568625
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 2853808455034777637
+  Id: 12210304474928258821
   Name: "Glow"
   Transform {
     Location {
@@ -216,7 +194,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12732085704909379205
+  ParentId: 16732780742651771571
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -262,14 +240,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 2853808455034777637
-    SubobjectId: 3510218721268641898
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 8889498497836814103
+    SubobjectId: 7512914205006469793
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 13583122857799321217
+  Id: 1962996073737705049
   Name: "F8"
   Transform {
     Location {
@@ -283,27 +261,13 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13080599226969389690
-  ChildIds: 6240457024601562221
+  ParentId: 11440802684259288494
+  ChildIds: 4817009171124633785
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
       AssetReference {
-        Id: 15435989879601907688
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Trim:color"
-      Color {
-        R: 1
-        G: 1
-        B: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Building_Floor:color"
-      Color {
-        A: 1
+        Id: 16559120484092626874
       }
     }
   }
@@ -332,14 +296,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 13583122857799321217
-    SubobjectId: 12370540154452969166
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 6968286185192183748
+    SubobjectId: 8334684336535061106
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 6240457024601562221
+  Id: 4817009171124633785
   Name: "Glow"
   Transform {
     Location {
@@ -353,7 +317,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13583122857799321217
+  ParentId: 1962996073737705049
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -399,14 +363,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 6240457024601562221
-    SubobjectId: 4735113237912722466
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 5250810789820255949
+    SubobjectId: 6611368867955301243
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 12014683620044613244
+  Id: 8494933075647201382
   Name: "E8"
   Transform {
     Location {
@@ -420,21 +384,13 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13080599226969389690
-  ChildIds: 12986392121657657231
+  ParentId: 11440802684259288494
+  ChildIds: 11530519015653598876
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
       AssetReference {
-        Id: 15435989879601907688
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Trim:color"
-      Color {
-        R: 0.546875
-        G: 0.225472942
-        B: 0.0928580314
+        Id: 18011936559153226333
       }
     }
   }
@@ -463,14 +419,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 12014683620044613244
-    SubobjectId: 12794926548373775923
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 5368400061702849697
+    SubobjectId: 6457756192338923799
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 12986392121657657231
+  Id: 11530519015653598876
   Name: "Glow"
   Transform {
     Location {
@@ -484,7 +440,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12014683620044613244
+  ParentId: 8494933075647201382
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -530,14 +486,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 12986392121657657231
-    SubobjectId: 11751263803594508224
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 10905747201856544938
+    SubobjectId: 9531326756566709532
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 13900271582920257912
+  Id: 9757121219047658889
   Name: "D8"
   Transform {
     Location {
@@ -551,27 +507,13 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13080599226969389690
-  ChildIds: 7343444058963336731
+  ParentId: 11440802684259288494
+  ChildIds: 4525397832638930419
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
       AssetReference {
-        Id: 15435989879601907688
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Trim:color"
-      Color {
-        R: 1
-        G: 1
-        B: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Building_Floor:color"
-      Color {
-        A: 1
+        Id: 16559120484092626874
       }
     }
   }
@@ -600,14 +542,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 13900271582920257912
-    SubobjectId: 15549699867714859319
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 5439631720851091658
+    SubobjectId: 6369101809772766588
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 7343444058963336731
+  Id: 4525397832638930419
   Name: "Glow"
   Transform {
     Location {
@@ -621,7 +563,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13900271582920257912
+  ParentId: 9757121219047658889
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -667,14 +609,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 7343444058963336731
-    SubobjectId: 8270061962009271892
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 103561265766524926
+    SubobjectId: 1328843430432600648
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 7790707897520524098
+  Id: 3969411718230307927
   Name: "C8"
   Transform {
     Location {
@@ -688,21 +630,13 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13080599226969389690
-  ChildIds: 921312096497052196
+  ParentId: 11440802684259288494
+  ChildIds: 6541114492002575327
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
       AssetReference {
-        Id: 15435989879601907688
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Trim:color"
-      Color {
-        R: 0.546875
-        G: 0.225472942
-        B: 0.0928580314
+        Id: 18011936559153226333
       }
     }
   }
@@ -731,14 +665,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 7790707897520524098
-    SubobjectId: 8877203380858293005
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 11928540894253386498
+    SubobjectId: 13156242517076385460
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 921312096497052196
+  Id: 6541114492002575327
   Name: "Glow"
   Transform {
     Location {
@@ -752,7 +686,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7790707897520524098
+  ParentId: 3969411718230307927
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -798,14 +732,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 921312096497052196
-    SubobjectId: 2010055170498767467
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 3530681692688318509
+    SubobjectId: 2585466580546786715
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 15756885289917131447
+  Id: 11401907668061239842
   Name: "B8"
   Transform {
     Location {
@@ -819,27 +753,13 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13080599226969389690
-  ChildIds: 15569251547559320763
+  ParentId: 11440802684259288494
+  ChildIds: 13907757445180938661
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
       AssetReference {
-        Id: 15435989879601907688
-      }
-    }
-    Overrides {
-      Name: "ma:Building_Floor:color"
-      Color {
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Trim:color"
-      Color {
-        R: 0.546875
-        G: 0.225472942
-        B: 0.0928580314
+        Id: 16559120484092626874
       }
     }
   }
@@ -868,14 +788,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 15756885289917131447
-    SubobjectId: 14810014047812496120
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 3715383933983235128
+    SubobjectId: 2346760663734978958
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 15569251547559320763
+  Id: 13907757445180938661
   Name: "Glow"
   Transform {
     Location {
@@ -889,7 +809,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15756885289917131447
+  ParentId: 11401907668061239842
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -935,14 +855,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 15569251547559320763
-    SubobjectId: 14933119651776257268
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 14341743657568951055
+    SubobjectId: 15282674780853030585
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 4629829485674924147
+  Id: 10965736492649416047
   Name: "A8"
   Transform {
     Location {
@@ -956,36 +876,13 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13080599226969389690
-  ChildIds: 18055898829492323499
+  ParentId: 11440802684259288494
+  ChildIds: 13624596099260312707
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
       AssetReference {
-        Id: 15435989879601907688
-      }
-    }
-    Overrides {
-      Name: "ma:Building_Ceiling:id"
-      AssetReference {
-        Id: 15435989879601907688
-      }
-    }
-    Overrides {
-      Name: "ma:Building_Floor:color"
-      Color {
-        R: 0.869
-        G: 0.869
-        B: 0.869
-        A: 0.864
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Trim:color"
-      Color {
-        R: 0.546875
-        G: 0.225472942
-        B: 0.0928580314
+        Id: 18011936559153226333
       }
     }
   }
@@ -1014,14 +911,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 4629829485674924147
-    SubobjectId: 6299545890444445756
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 5797262729937971764
+    SubobjectId: 4857958892419383170
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 18055898829492323499
+  Id: 13624596099260312707
   Name: "Glow"
   Transform {
     Location {
@@ -1035,7 +932,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4629829485674924147
+  ParentId: 10965736492649416047
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -1081,9 +978,9 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 18055898829492323499
-    SubobjectId: 17131550791018349796
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 7850712992681245083
+    SubobjectId: 9218228230102985773
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }

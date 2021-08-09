@@ -1,7 +1,7 @@
 Name: "Bishops_11"
-RootId: 13596465767050987414
+RootId: 1552839922686963567
 Objects {
-  Id: 16572792651874479630
+  Id: 2741142563768721765
   Name: "Bishop"
   Transform {
     Location {
@@ -16,7 +16,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13596465767050987414
+  ParentId: 1552839922686963567
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30,7 +30,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Bishop_34"
+    FilePartitionName: "Bishop_38"
   }
   InstanceHistory {
     SelfId: 16572792651874479630
@@ -40,7 +40,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8398099143303085044
+  Id: 4666958925874830697
   Name: "Bishop"
   Transform {
     Location {
@@ -55,7 +55,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13596465767050987414
+  ParentId: 1552839922686963567
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -69,7 +69,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Bishop_35"
+    FilePartitionName: "Bishop_39"
   }
   InstanceHistory {
     SelfId: 8398099143303085044

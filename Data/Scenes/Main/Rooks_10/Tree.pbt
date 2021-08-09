@@ -1,7 +1,7 @@
 Name: "Rooks_10"
-RootId: 15189553151735659901
+RootId: 1369188098387660640
 Objects {
-  Id: 13519149017575096804
+  Id: 4838530940088980874
   Name: "Rook"
   Transform {
     Location {
@@ -16,7 +16,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15189553151735659901
+  ParentId: 1369188098387660640
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30,7 +30,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Rook_32"
+    FilePartitionName: "Rook_36"
   }
   InstanceHistory {
     SelfId: 13519149017575096804
@@ -40,7 +40,7 @@ Objects {
   }
 }
 Objects {
-  Id: 858641805498721631
+  Id: 12149977624047129426
   Name: "Rook"
   Transform {
     Location {
@@ -55,7 +55,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15189553151735659901
+  ParentId: 1369188098387660640
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -69,7 +69,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Rook_33"
+    FilePartitionName: "Rook_37"
   }
   InstanceHistory {
     SelfId: 858641805498721631

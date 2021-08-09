@@ -111,7 +111,7 @@ Objects {
   Transform {
     Location {
       X: 170.361282
-      Y: -133.25676
+      Y: -687.722351
       Z: 271.112915
     }
     Rotation {
@@ -157,6 +157,7 @@ Objects {
     MinYaw: -50
     MaxYaw: 50
     DoesPositionOffsetSpring: true
+    UseAsAudioListener: true
   }
 }
 Objects {
@@ -202,13 +203,13 @@ Objects {
     Overrides {
       Name: "cs:Black"
       ObjectReference {
-        SelfId: 6277027144402087170
+        SelfId: 7352453329490609157
       }
     }
     Overrides {
       Name: "cs:White"
       ObjectReference {
-        SelfId: 12288356297329514618
+        SelfId: 11015778145467560207
       }
     }
     Overrides {

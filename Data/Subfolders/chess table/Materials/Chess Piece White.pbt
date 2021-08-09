@@ -2,7 +2,7 @@ Assets {
   Id: 17124646104806739641
   Name: "Chess Piece White"
   PlatformAssetType: 13
-  SerializationVersion: 91
+  SerializationVersion: 94
   CustomMaterialAsset {
     BaseMaterialId: 7034271320763119631
     ParameterOverrides {

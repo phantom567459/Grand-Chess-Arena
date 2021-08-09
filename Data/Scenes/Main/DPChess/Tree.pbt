@@ -5,6 +5,7 @@ Objects {
   Name: "NEWchessboard"
   Transform {
     Location {
+      X: 3736.25977
     }
     Rotation {
     }

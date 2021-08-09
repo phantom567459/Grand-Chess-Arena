@@ -43,6 +43,7 @@ Objects {
   Name: "Type Sound"
   Transform {
     Location {
+      Y: -554.465576
     }
     Rotation {
     }
@@ -86,6 +87,7 @@ Objects {
   Name: "Click Sound"
   Transform {
     Location {
+      Y: -554.465576
     }
     Rotation {
     }

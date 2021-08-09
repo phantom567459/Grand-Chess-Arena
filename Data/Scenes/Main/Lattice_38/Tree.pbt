@@ -5,8 +5,8 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 72.2297363
-      Y: 1.16796875
+      X: 72.2174301
+      Y: 11089.9512
     }
     Rotation {
     }
@@ -74,8 +74,8 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -72.3156738
-      Y: 1.16796875
+      X: -72.3192368
+      Y: 11089.9512
     }
     Rotation {
     }

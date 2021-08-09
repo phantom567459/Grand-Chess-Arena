@@ -1,7 +1,7 @@
 Name: "Coordinates_2"
-RootId: 343066093766669323
+RootId: 9704041049047006914
 Objects {
-  Id: 15011549939830019386
+  Id: 17995690575538165725
   Name: "White Facing Numbers"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 343066093766669323
+  ParentId: 9704041049047006914
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -41,7 +41,7 @@ Objects {
   }
 }
 Objects {
-  Id: 4085076179707995210
+  Id: 5559843863979905208
   Name: "Black Facing Numbers"
   Transform {
     Location {
@@ -56,7 +56,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 343066093766669323
+  ParentId: 9704041049047006914
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -80,7 +80,7 @@ Objects {
   }
 }
 Objects {
-  Id: 3055023488959569027
+  Id: 15461353710945646204
   Name: "White Side Letters"
   Transform {
     Location {
@@ -96,7 +96,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 343066093766669323
+  ParentId: 9704041049047006914
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -120,7 +120,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1556838609772986317
+  Id: 13755174810896239936
   Name: "Black Side Letters"
   Transform {
     Location {
@@ -135,7 +135,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 343066093766669323
+  ParentId: 9704041049047006914
   UnregisteredParameters {
   }
   Collidable_v2 {

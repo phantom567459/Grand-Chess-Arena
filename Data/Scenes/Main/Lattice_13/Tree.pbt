@@ -1,7 +1,7 @@
 Name: "Lattice_13"
-RootId: 6948782082035170227
+RootId: 7639332975903480145
 Objects {
-  Id: 16744926055173925404
+  Id: 8238455654336438841
   Name: "Cube"
   Transform {
     Location {
@@ -16,7 +16,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 6948782082035170227
+  ParentId: 7639332975903480145
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -61,7 +61,7 @@ Objects {
   }
 }
 Objects {
-  Id: 18074898855073367301
+  Id: 4206748148327112654
   Name: "Cube"
   Transform {
     Location {
@@ -76,7 +76,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 6948782082035170227
+  ParentId: 7639332975903480145
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

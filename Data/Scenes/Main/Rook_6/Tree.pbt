@@ -1,7 +1,7 @@
 Name: "Rook_6"
-RootId: 12984187126001152578
+RootId: 4024692888534881820
 Objects {
-  Id: 11517412123249667303
+  Id: 6626399961829063994
   Name: "Top"
   Transform {
     Location {
@@ -15,7 +15,7 @@ Objects {
       Z: 0.76
     }
   }
-  ParentId: 12984187126001152578
+  ParentId: 4024692888534881820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -60,7 +60,7 @@ Objects {
   }
 }
 Objects {
-  Id: 3493430720254270283
+  Id: 14362868224716539948
   Name: "Lattice"
   Transform {
     Location {
@@ -75,7 +75,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12984187126001152578
+  ParentId: 4024692888534881820
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -99,7 +99,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16137590581669455315
+  Id: 16010044227493022352
   Name: "Lattice"
   Transform {
     Location {
@@ -114,7 +114,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12984187126001152578
+  ParentId: 4024692888534881820
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -138,7 +138,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16253708289407502539
+  Id: 14934881493219848491
   Name: "Lattice"
   Transform {
     Location {
@@ -153,7 +153,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12984187126001152578
+  ParentId: 4024692888534881820
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -177,7 +177,7 @@ Objects {
   }
 }
 Objects {
-  Id: 339106756971000024
+  Id: 15825268162729436617
   Name: "Lattice"
   Transform {
     Location {
@@ -191,7 +191,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12984187126001152578
+  ParentId: 4024692888534881820
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -215,7 +215,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9438943184441960437
+  Id: 14003059227739974962
   Name: "Middle"
   Transform {
     Location {
@@ -229,7 +229,7 @@ Objects {
       Z: 3.5
     }
   }
-  ParentId: 12984187126001152578
+  ParentId: 4024692888534881820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -274,7 +274,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9932901109661947394
+  Id: 2894428462312135852
   Name: "Felt"
   Transform {
     Location {
@@ -288,7 +288,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 12984187126001152578
+  ParentId: 4024692888534881820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -349,7 +349,7 @@ Objects {
   }
 }
 Objects {
-  Id: 12021951170126622866
+  Id: 9412713175711419218
   Name: "Ring"
   Transform {
     Location {
@@ -363,7 +363,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12984187126001152578
+  ParentId: 4024692888534881820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -404,7 +404,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9165744230051632066
+  Id: 11461558096432693879
   Name: "Trunk - Bottom"
   Transform {
     Location {
@@ -418,7 +418,7 @@ Objects {
       Z: 1.5
     }
   }
-  ParentId: 12984187126001152578
+  ParentId: 4024692888534881820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -463,7 +463,7 @@ Objects {
   }
 }
 Objects {
-  Id: 3786219016721579165
+  Id: 14202013946553171403
   Name: "Base"
   Transform {
     Location {
@@ -477,7 +477,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 12984187126001152578
+  ParentId: 4024692888534881820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

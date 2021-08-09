@@ -1,7 +1,7 @@
 Name: "White Captured_4"
-RootId: 9457694121851132381
+RootId: 1162219390809353937
 Objects {
-  Id: 7910045239088934279
+  Id: 17098985688625200953
   Name: "Pawns"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9457694121851132381
+  ParentId: 1162219390809353937
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34,14 +34,14 @@ Objects {
     FilePartitionName: "Pawns_8"
   }
   InstanceHistory {
-    SelfId: 7910045239088934279
-    SubobjectId: 8856943032622411208
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 3766269624171463733
+    SubobjectId: 2835744013231755651
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 6036476281154993486
+  Id: 13342962354250804574
   Name: "Queen"
   Transform {
     Location {
@@ -57,7 +57,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9457694121851132381
+  ParentId: 1162219390809353937
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -71,17 +71,17 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Queen - White_1"
+    FilePartitionName: "Queen_16"
   }
   InstanceHistory {
-    SelfId: 6036476281154993486
-    SubobjectId: 4965730750053645569
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 13246203889208478318
+    SubobjectId: 11875169930538147800
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 4178296628228631849
+  Id: 3241253794753226418
   Name: "Bishops"
   Transform {
     Location {
@@ -97,7 +97,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9457694121851132381
+  ParentId: 1162219390809353937
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -114,14 +114,14 @@ Objects {
     FilePartitionName: "Bishops_8"
   }
   InstanceHistory {
-    SelfId: 4178296628228631849
-    SubobjectId: 3373271274736954726
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 1063749859072901068
+    SubobjectId: 2152121110154603130
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 6906791542467536377
+  Id: 12301019929688468665
   Name: "Knights"
   Transform {
     Location {
@@ -137,7 +137,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9457694121851132381
+  ParentId: 1162219390809353937
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -154,14 +154,14 @@ Objects {
     FilePartitionName: "Knights_8"
   }
   InstanceHistory {
-    SelfId: 6906791542467536377
-    SubobjectId: 5257341988714128822
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 12371366642822580915
+    SubobjectId: 13308418413585342213
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 6370980775895520144
+  Id: 16280155288702607270
   Name: "Rooks"
   Transform {
     Location {
@@ -177,7 +177,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9457694121851132381
+  ParentId: 1162219390809353937
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -194,9 +194,9 @@ Objects {
     FilePartitionName: "Rooks_8"
   }
   InstanceHistory {
-    SelfId: 6370980775895520144
-    SubobjectId: 5712336454842471391
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 15189553151735659901
+    SubobjectId: 13966452435822405835
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }

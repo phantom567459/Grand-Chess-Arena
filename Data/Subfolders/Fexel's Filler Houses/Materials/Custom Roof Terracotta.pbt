@@ -2,7 +2,7 @@ Assets {
   Id: 13167786509593672151
   Name: "Custom Roof Terracotta"
   PlatformAssetType: 13
-  SerializationVersion: 91
+  SerializationVersion: 94
   CustomMaterialAsset {
     BaseMaterialId: 4593284969455772767
     ParameterOverrides {

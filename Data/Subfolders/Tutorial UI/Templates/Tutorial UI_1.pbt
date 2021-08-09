@@ -4417,6 +4417,6 @@ Assets {
   Marketplace {
     Description: "Starter template for Tutorial UI. \r\nHelp users learn how to play your game!\r\n\r\nCustom parameters for keybinding for toggle and speed. "
   }
-  SerializationVersion: 91
+  SerializationVersion: 94
   DirectlyPublished: true
 }

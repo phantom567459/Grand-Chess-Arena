@@ -5,6 +5,8 @@ Objects {
   Name: "Base"
   Transform {
     Location {
+      X: -0.380859375
+      Y: -95333.3281
       Z: -100
     }
     Rotation {

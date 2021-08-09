@@ -5,6 +5,8 @@ Objects {
   Name: "Felt"
   Transform {
     Location {
+      X: -11089.3643
+      Y: -0.00244140625
       Z: -120
     }
     Rotation {
@@ -80,6 +82,8 @@ Objects {
   Name: "Sphere"
   Transform {
     Location {
+      X: -11089.3643
+      Y: -0.00244140625
       Z: 165
     }
     Rotation {
@@ -147,6 +151,8 @@ Objects {
   Name: "Ring"
   Transform {
     Location {
+      X: -11089.3643
+      Y: -0.00244140625
       Z: 110
     }
     Rotation {
@@ -214,6 +220,8 @@ Objects {
   Name: "Trunk - Top"
   Transform {
     Location {
+      X: -11089.3643
+      Y: -0.00244140625
       Z: -5
     }
     Rotation {
@@ -281,6 +289,8 @@ Objects {
   Name: "Trunk - Bottom"
   Transform {
     Location {
+      X: -11089.3643
+      Y: -0.00244140625
       Z: -80
     }
     Rotation {
@@ -348,6 +358,8 @@ Objects {
   Name: "Base"
   Transform {
     Location {
+      X: -11089.3643
+      Y: -0.00244140625
       Z: -100
     }
     Rotation {

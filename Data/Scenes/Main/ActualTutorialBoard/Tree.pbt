@@ -5,8 +5,8 @@ Objects {
   Name: "TileCollision"
   Transform {
     Location {
-      X: 261.089691
-      Y: 35.2549362
+      X: -11020.9951
+      Y: 10.3149414
       Z: -42.2650146
     }
     Rotation {
@@ -110,8 +110,8 @@ Objects {
   Name: "A1"
   Transform {
     Location {
-      X: -89
-      Y: -71
+      X: -88.590065
+      Y: 483.452484
       Z: 5
     }
     Rotation {
@@ -178,8 +178,8 @@ Objects {
   Name: "B1"
   Transform {
     Location {
-      X: -89
-      Y: -51
+      X: -88.5901871
+      Y: 503.451385
       Z: 5
     }
     Rotation {
@@ -231,8 +231,8 @@ Objects {
   Name: "C1"
   Transform {
     Location {
-      X: -89
-      Y: -31
+      X: -88.5901642
+      Y: 523.450378
       Z: 5
     }
     Rotation {
@@ -284,8 +284,8 @@ Objects {
   Name: "D1"
   Transform {
     Location {
-      X: -89
-      Y: -11
+      X: -88.5901566
+      Y: 543.450256
       Z: 5
     }
     Rotation {
@@ -337,8 +337,8 @@ Objects {
   Name: "E1"
   Transform {
     Location {
-      X: -89
-      Y: 9
+      X: -88.5900269
+      Y: 563.449463
       Z: 5
     }
     Rotation {
@@ -390,8 +390,8 @@ Objects {
   Name: "F1"
   Transform {
     Location {
-      X: -89
-      Y: 29
+      X: -88.5901489
+      Y: 583.448486
       Z: 5
     }
     Rotation {
@@ -443,8 +443,8 @@ Objects {
   Name: "G1"
   Transform {
     Location {
-      X: -89
-      Y: 49
+      X: -88.5901489
+      Y: 603.448364
       Z: 5
     }
     Rotation {
@@ -496,8 +496,8 @@ Objects {
   Name: "H1"
   Transform {
     Location {
-      X: -89
-      Y: 69
+      X: -88.5901871
+      Y: 623.449951
       Z: 5
     }
     Rotation {
@@ -549,8 +549,8 @@ Objects {
   Name: "A2"
   Transform {
     Location {
-      X: -69
-      Y: -71
+      X: -68.588913
+      Y: 483.452026
       Z: 5
     }
     Rotation {
@@ -617,8 +617,8 @@ Objects {
   Name: "B2"
   Transform {
     Location {
-      X: -69
-      Y: -51
+      X: -68.5889282
+      Y: 503.450806
       Z: 5
     }
     Rotation {
@@ -670,8 +670,8 @@ Objects {
   Name: "C2"
   Transform {
     Location {
-      X: -69
-      Y: -31
+      X: -68.5888748
+      Y: 523.450684
       Z: 5
     }
     Rotation {
@@ -723,8 +723,8 @@ Objects {
   Name: "D2"
   Transform {
     Location {
-      X: -69
-      Y: -11
+      X: -68.5889053
+      Y: 543.449829
       Z: 5
     }
     Rotation {
@@ -776,8 +776,8 @@ Objects {
   Name: "E2"
   Transform {
     Location {
-      X: -69
-      Y: 9
+      X: -68.5889
+      Y: 563.449036
       Z: 5
     }
     Rotation {
@@ -829,8 +829,8 @@ Objects {
   Name: "F2"
   Transform {
     Location {
-      X: -69
-      Y: 29
+      X: -68.588974
+      Y: 583.449646
       Z: 5
     }
     Rotation {
@@ -882,8 +882,8 @@ Objects {
   Name: "G2"
   Transform {
     Location {
-      X: -69
-      Y: 49
+      X: -68.5888748
+      Y: 603.448792
       Z: 5
     }
     Rotation {
@@ -935,8 +935,8 @@ Objects {
   Name: "H2"
   Transform {
     Location {
-      X: -69
-      Y: 69
+      X: -68.5888824
+      Y: 623.448303
       Z: 5
     }
     Rotation {
@@ -988,8 +988,8 @@ Objects {
   Name: "A3"
   Transform {
     Location {
-      X: -49
-      Y: -71
+      X: -48.5880394
+      Y: 483.45163
       Z: 5
     }
     Rotation {
@@ -1056,8 +1056,8 @@ Objects {
   Name: "B3"
   Transform {
     Location {
-      X: -49
-      Y: -51
+      X: -48.5880165
+      Y: 503.451721
       Z: 5
     }
     Rotation {
@@ -1109,8 +1109,8 @@ Objects {
   Name: "C3"
   Transform {
     Location {
-      X: -49
-      Y: -31
+      X: -48.5880737
+      Y: 523.450684
       Z: 5
     }
     Rotation {
@@ -1162,8 +1162,8 @@ Objects {
   Name: "D3"
   Transform {
     Location {
-      X: -49
-      Y: -11
+      X: -48.5880394
+      Y: 543.449097
       Z: 5
     }
     Rotation {
@@ -1215,8 +1215,8 @@ Objects {
   Name: "E3"
   Transform {
     Location {
-      X: -49
-      Y: 9
+      X: -48.588047
+      Y: 563.448669
       Z: 5
     }
     Rotation {
@@ -1268,8 +1268,8 @@ Objects {
   Name: "F3"
   Transform {
     Location {
-      X: -49
-      Y: 29
+      X: -48.5880737
+      Y: 583.44989
       Z: 5
     }
     Rotation {
@@ -1321,8 +1321,8 @@ Objects {
   Name: "G3"
   Transform {
     Location {
-      X: -49
-      Y: 49
+      X: -48.5880051
+      Y: 603.449158
       Z: 5
     }
     Rotation {
@@ -1374,8 +1374,8 @@ Objects {
   Name: "H3"
   Transform {
     Location {
-      X: -49
-      Y: 69
+      X: -48.5880051
+      Y: 623.449524
       Z: 5
     }
     Rotation {
@@ -1427,8 +1427,8 @@ Objects {
   Name: "A4"
   Transform {
     Location {
-      X: -29
-      Y: -71
+      X: -28.5898743
+      Y: 483.452606
       Z: 5
     }
     Rotation {
@@ -1495,8 +1495,8 @@ Objects {
   Name: "B4"
   Transform {
     Location {
-      X: -29
-      Y: -51
+      X: -28.5898762
+      Y: 503.451508
       Z: 5
     }
     Rotation {
@@ -1548,8 +1548,8 @@ Objects {
   Name: "C4"
   Transform {
     Location {
-      X: -29
-      Y: -31
+      X: -28.5898724
+      Y: 523.450378
       Z: 5
     }
     Rotation {
@@ -1601,8 +1601,8 @@ Objects {
   Name: "D4"
   Transform {
     Location {
-      X: -29
-      Y: -11
+      X: -28.5898724
+      Y: 543.450256
       Z: 5
     }
     Rotation {
@@ -1654,8 +1654,8 @@ Objects {
   Name: "E4"
   Transform {
     Location {
-      X: -29
-      Y: 9
+      X: -28.5898762
+      Y: 563.449463
       Z: 5
     }
     Rotation {
@@ -1707,8 +1707,8 @@ Objects {
   Name: "F4"
   Transform {
     Location {
-      X: -29
-      Y: 29
+      X: -28.5898781
+      Y: 583.448608
       Z: 5
     }
     Rotation {
@@ -1760,8 +1760,8 @@ Objects {
   Name: "G4"
   Transform {
     Location {
-      X: -29
-      Y: 49
+      X: -28.58988
+      Y: 603.448486
       Z: 5
     }
     Rotation {
@@ -1813,8 +1813,8 @@ Objects {
   Name: "H4"
   Transform {
     Location {
-      X: -29
-      Y: 69
+      X: -28.5898724
+      Y: 623.450073
       Z: 5
     }
     Rotation {
@@ -1866,8 +1866,8 @@ Objects {
   Name: "A5"
   Transform {
     Location {
-      X: -9
-      Y: -71
+      X: -8.59118748
+      Y: 483.452026
       Z: 5
     }
     Rotation {
@@ -1934,8 +1934,8 @@ Objects {
   Name: "B5"
   Transform {
     Location {
-      X: -9
-      Y: -51
+      X: -8.5912056
+      Y: 503.450806
       Z: 5
     }
     Rotation {
@@ -1987,8 +1987,8 @@ Objects {
   Name: "C5"
   Transform {
     Location {
-      X: -9
-      Y: -31
+      X: -8.59119892
+      Y: 523.450684
       Z: 5
     }
     Rotation {
@@ -2040,8 +2040,8 @@ Objects {
   Name: "D5"
   Transform {
     Location {
-      X: -9
-      Y: -11
+      X: -8.59119797
+      Y: 543.449951
       Z: 5
     }
     Rotation {
@@ -2093,8 +2093,8 @@ Objects {
   Name: "E5"
   Transform {
     Location {
-      X: -9
-      Y: 9
+      X: -8.59119606
+      Y: 563.449158
       Z: 5
     }
     Rotation {
@@ -2146,8 +2146,8 @@ Objects {
   Name: "F5"
   Transform {
     Location {
-      X: -9
-      Y: 29
+      X: -8.59119415
+      Y: 583.449646
       Z: 5
     }
     Rotation {
@@ -2199,8 +2199,8 @@ Objects {
   Name: "G5"
   Transform {
     Location {
-      X: -9
-      Y: 49
+      X: -8.59119606
+      Y: 603.448914
       Z: 5
     }
     Rotation {
@@ -2252,8 +2252,8 @@ Objects {
   Name: "H5"
   Transform {
     Location {
-      X: -9
-      Y: 69
+      X: -8.59120941
+      Y: 623.448303
       Z: 5
     }
     Rotation {
@@ -2305,8 +2305,8 @@ Objects {
   Name: "A6"
   Transform {
     Location {
-      X: 10
-      Y: -71
+      X: 10.4081221
+      Y: 483.451385
       Z: 5
     }
     Rotation {
@@ -2373,8 +2373,8 @@ Objects {
   Name: "B6"
   Transform {
     Location {
-      X: 10
-      Y: -51
+      X: 10.408123
+      Y: 503.451599
       Z: 5
     }
     Rotation {
@@ -2426,8 +2426,8 @@ Objects {
   Name: "C6"
   Transform {
     Location {
-      X: 10
-      Y: -31
+      X: 10.4081202
+      Y: 523.450562
       Z: 5
     }
     Rotation {
@@ -2479,8 +2479,8 @@ Objects {
   Name: "D6"
   Transform {
     Location {
-      X: 10
-      Y: -11
+      X: 10.4081211
+      Y: 543.448853
       Z: 5
     }
     Rotation {
@@ -2532,8 +2532,8 @@ Objects {
   Name: "E6"
   Transform {
     Location {
-      X: 10
-      Y: 9
+      X: 10.4081211
+      Y: 563.448547
       Z: 5
     }
     Rotation {
@@ -2585,8 +2585,8 @@ Objects {
   Name: "F6"
   Transform {
     Location {
-      X: 10
-      Y: 29
+      X: 10.4081278
+      Y: 583.449524
       Z: 5
     }
     Rotation {
@@ -2638,8 +2638,8 @@ Objects {
   Name: "G6"
   Transform {
     Location {
-      X: 10
-      Y: 49
+      X: 10.4081268
+      Y: 603.449646
       Z: 5
     }
     Rotation {
@@ -2691,8 +2691,8 @@ Objects {
   Name: "H6"
   Transform {
     Location {
-      X: 10
-      Y: 69
+      X: 10.4081221
+      Y: 623.449158
       Z: 5
     }
     Rotation {
@@ -2744,8 +2744,8 @@ Objects {
   Name: "A7"
   Transform {
     Location {
-      X: 30
-      Y: -71
+      X: 30.4067554
+      Y: 483.452484
       Z: 5
     }
     Rotation {
@@ -2812,8 +2812,8 @@ Objects {
   Name: "B7"
   Transform {
     Location {
-      X: 30
-      Y: -51
+      X: 30.4067574
+      Y: 503.451141
       Z: 5
     }
     Rotation {
@@ -2865,8 +2865,8 @@ Objects {
   Name: "C7"
   Transform {
     Location {
-      X: 30
-      Y: -31
+      X: 30.4067421
+      Y: 523.450256
       Z: 5
     }
     Rotation {
@@ -2918,8 +2918,8 @@ Objects {
   Name: "D7"
   Transform {
     Location {
-      X: 30
-      Y: -11
+      X: 30.4067364
+      Y: 543.450256
       Z: 5
     }
     Rotation {
@@ -2971,8 +2971,8 @@ Objects {
   Name: "E7"
   Transform {
     Location {
-      X: 30
-      Y: 9
+      X: 30.4067574
+      Y: 563.449341
       Z: 5
     }
     Rotation {
@@ -3024,8 +3024,8 @@ Objects {
   Name: "F7"
   Transform {
     Location {
-      X: 30
-      Y: 29
+      X: 30.4067478
+      Y: 583.448608
       Z: 5
     }
     Rotation {
@@ -3077,8 +3077,8 @@ Objects {
   Name: "G7"
   Transform {
     Location {
-      X: 30
-      Y: 49
+      X: 30.4067535
+      Y: 603.448364
       Z: 5
     }
     Rotation {
@@ -3130,8 +3130,8 @@ Objects {
   Name: "H7"
   Transform {
     Location {
-      X: 30
-      Y: 69
+      X: 30.4067326
+      Y: 623.449951
       Z: 5
     }
     Rotation {
@@ -3183,8 +3183,8 @@ Objects {
   Name: "A8"
   Transform {
     Location {
-      X: 50
-      Y: -71
+      X: 50.4044838
+      Y: 483.451904
       Z: 5
     }
     Rotation {
@@ -3251,8 +3251,8 @@ Objects {
   Name: "B8"
   Transform {
     Location {
-      X: 50
-      Y: -51
+      X: 50.4045
+      Y: 503.450562
       Z: 5
     }
     Rotation {
@@ -3304,8 +3304,8 @@ Objects {
   Name: "C8"
   Transform {
     Location {
-      X: 50
-      Y: -31
+      X: 50.4044647
+      Y: 523.450562
       Z: 5
     }
     Rotation {
@@ -3357,8 +3357,8 @@ Objects {
   Name: "D8"
   Transform {
     Location {
-      X: 50
-      Y: -11
+      X: 50.4044914
+      Y: 543.449707
       Z: 5
     }
     Rotation {
@@ -3410,8 +3410,8 @@ Objects {
   Name: "E8"
   Transform {
     Location {
-      X: 50
-      Y: 9
+      X: 50.4044647
+      Y: 563.448914
       Z: 5
     }
     Rotation {
@@ -3463,8 +3463,8 @@ Objects {
   Name: "F8"
   Transform {
     Location {
-      X: 50
-      Y: 29
+      X: 50.4044838
+      Y: 583.449646
       Z: 5
     }
     Rotation {
@@ -3516,8 +3516,8 @@ Objects {
   Name: "G8"
   Transform {
     Location {
-      X: 50
-      Y: 49
+      X: 50.4044838
+      Y: 603.448792
       Z: 5
     }
     Rotation {
@@ -3569,8 +3569,8 @@ Objects {
   Name: "H8"
   Transform {
     Location {
-      X: 50
-      Y: 69
+      X: 50.4044647
+      Y: 623.448547
       Z: 5
     }
     Rotation {
@@ -3618,12 +3618,248 @@ Objects {
   }
 }
 Objects {
+  Id: 7543845445276438771
+  Name: "Client Tiles"
+  Transform {
+    Location {
+      X: -11244.5811
+      Y: 625.062256
+    }
+    Rotation {
+      Yaw: 1.02452814e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3548898009747876820
+  ChildIds: 16896638882850798651
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  NetworkContext {
+  }
+  InstanceHistory {
+    SelfId: 277554036947420916
+    SubobjectId: 1208369386397700930
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
+  }
+}
+Objects {
+  Id: 16896638882850798651
+  Name: "Tiles"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7543845445276438771
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Tiles"
+  }
+  InstanceHistory {
+    SelfId: 6109228059215193936
+    SubobjectId: 5176530354463699686
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
+  }
+}
+Objects {
+  Id: 656694400043688262
+  Name: "Pieces"
+  Transform {
+    Location {
+      X: -152.027374
+      Y: 6.91319466
+      Z: 14.2211914
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3548898009747876820
+  ChildIds: 7352453329490609157
+  ChildIds: 11015778145467560207
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  NetworkContext {
+  }
+  InstanceHistory {
+    SelfId: 1311881383094038193
+    SubobjectId: 83968920277465863
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
+  }
+}
+Objects {
+  Id: 11015778145467560207
+  Name: "White"
+  Transform {
+    Location {
+      X: -275.000549
+      Y: 699.999756
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 656694400043688262
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "White_4"
+  }
+  InstanceHistory {
+    SelfId: 7098905123443049333
+    SubobjectId: 8186010278917117635
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
+  }
+}
+Objects {
+  Id: 7352453329490609157
+  Name: "Black"
+  Transform {
+    Location {
+      X: -37.4993896
+      Y: -825
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 656694400043688262
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Black_4"
+  }
+  InstanceHistory {
+    SelfId: 7580858057781659668
+    SubobjectId: 8802974170124180898
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
+  }
+}
+Objects {
+  Id: 13921751206543204006
+  Name: "Coordinates"
+  Transform {
+    Location {
+      X: -11044.5811
+      Y: 400.063477
+      Z: 8.99993896
+    }
+    Rotation {
+      Yaw: 1.02452814e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3548898009747876820
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Coordinates"
+  }
+  InstanceHistory {
+    SelfId: 742897985430614104
+    SubobjectId: 1824417080116176366
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
+  }
+}
+Objects {
   Id: 8218999981556959120
   Name: "Golden Trims"
   Transform {
     Location {
-      X: 235.507355
-      Y: 2472.052
+      X: 42.6045227
+      Y: 2471.59668
       Z: -34.375
     }
     Rotation {
@@ -3692,8 +3928,8 @@ Objects {
   Name: "Golden Trims"
   Transform {
     Location {
-      X: 235.508118
-      Y: -1560.88989
+      X: 42.6124573
+      Y: -1561.30847
       Z: -34.375
     }
     Rotation {
@@ -3762,11 +3998,12 @@ Objects {
   Name: "Golden Trims"
   Transform {
     Location {
-      X: 2217.44116
-      Y: 450.000458
+      X: 2024.49084
+      Y: 449.551544
       Z: -34.375
     }
     Rotation {
+      Yaw: 1.02452814e-05
     }
     Scale {
       X: 0.501542807
@@ -3831,11 +4068,12 @@ Objects {
   Name: "Golden Trims"
   Transform {
     Location {
-      X: -1741.77747
-      Y: 449.999695
+      X: -1934.64941
+      Y: 449.550323
       Z: -34.375
     }
     Rotation {
+      Yaw: 1.02452814e-05
     }
     Scale {
       X: 0.501542807
@@ -3900,8 +4138,8 @@ Objects {
   Name: "Golden Trims"
   Transform {
     Location {
-      X: 237.421417
-      Y: 2067.49
+      X: 44.5144653
+      Y: 2067.03418
       Z: -34.375
     }
     Rotation {
@@ -3970,8 +4208,8 @@ Objects {
   Name: "Golden Trims"
   Transform {
     Location {
-      X: 237.42218
-      Y: -1166.30359
+      X: 44.5137787
+      Y: -1166.70374
       Z: -34.375
     }
     Rotation {
@@ -4040,11 +4278,12 @@ Objects {
   Name: "Golden Trims"
   Transform {
     Location {
-      X: 1850.50757
-      Y: 450.000458
+      X: 1657.57593
+      Y: 449.546356
       Z: -34.375
     }
     Rotation {
+      Yaw: 1.02452814e-05
     }
     Scale {
       X: 0.35931614
@@ -4109,14 +4348,15 @@ Objects {
   Name: "Golden Trims"
   Transform {
     Location {
-      X: -1383.28137
-      Y: 449.999695
+      X: -1576.18164
+      Y: 449.55658
       Z: -34.375
     }
     Rotation {
+      Yaw: 1.02452814e-05
     }
     Scale {
-      X: 0.359316111
+      X: 0.35931614
       Y: 40
       Z: 1
     }
@@ -4178,11 +4418,12 @@ Objects {
   Name: "Edge"
   Transform {
     Location {
-      X: 237.5
-      Y: 450
-      Z: -92.881958
+      X: 44.5935822
+      Y: 449.555176
+      Z: -92.8820801
     }
     Rotation {
+      Yaw: 1.02452814e-05
     }
     Scale {
       X: 40
@@ -4246,237 +4487,6 @@ Objects {
   InstanceHistory {
     SelfId: 10935914560925490688
     SubobjectId: 9573175309955976118
-    InstanceId: 1408243180232436835
-    TemplateId: 9483465140194761161
-  }
-}
-Objects {
-  Id: 7543845445276438771
-  Name: "Client Tiles"
-  Transform {
-    Location {
-      X: 37.5
-      Y: 650
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3548898009747876820
-  ChildIds: 16896638882850798651
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  NetworkContext {
-  }
-  InstanceHistory {
-    SelfId: 277554036947420916
-    SubobjectId: 1208369386397700930
-    InstanceId: 1408243180232436835
-    TemplateId: 9483465140194761161
-  }
-}
-Objects {
-  Id: 16896638882850798651
-  Name: "Tiles"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7543845445276438771
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Tiles"
-  }
-  InstanceHistory {
-    SelfId: 6109228059215193936
-    SubobjectId: 5176530354463699686
-    InstanceId: 1408243180232436835
-    TemplateId: 9483465140194761161
-  }
-}
-Objects {
-  Id: 6916630449605588300
-  Name: "Pieces"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3548898009747876820
-  ChildIds: 6277027144402087170
-  ChildIds: 12288356297329514618
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceoff"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  NetworkContext {
-  }
-  InstanceHistory {
-    SelfId: 1311881383094038193
-    SubobjectId: 83968920277465863
-    InstanceId: 1408243180232436835
-    TemplateId: 9483465140194761161
-  }
-}
-Objects {
-  Id: 12288356297329514618
-  Name: "White"
-  Transform {
-    Location {
-      X: -275.000549
-      Y: 699.999756
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 6916630449605588300
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceoff"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceoff"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "White"
-  }
-  InstanceHistory {
-    SelfId: 7098905123443049333
-    SubobjectId: 8186010278917117635
-    InstanceId: 1408243180232436835
-    TemplateId: 9483465140194761161
-  }
-}
-Objects {
-  Id: 6277027144402087170
-  Name: "Black"
-  Transform {
-    Location {
-      X: -37.4993896
-      Y: -825
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 6916630449605588300
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceoff"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceoff"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Black"
-  }
-  InstanceHistory {
-    SelfId: 7580858057781659668
-    SubobjectId: 8802974170124180898
-    InstanceId: 1408243180232436835
-    TemplateId: 9483465140194761161
-  }
-}
-Objects {
-  Id: 13921751206543204006
-  Name: "Coordinates"
-  Transform {
-    Location {
-      X: 237.5
-      Y: 425
-      Z: 9
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3548898009747876820
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Coordinates"
-  }
-  InstanceHistory {
-    SelfId: 742897985430614104
-    SubobjectId: 1824417080116176366
     InstanceId: 1408243180232436835
     TemplateId: 9483465140194761161
   }

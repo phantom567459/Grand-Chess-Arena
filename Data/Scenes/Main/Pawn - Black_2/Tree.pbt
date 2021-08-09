@@ -1,7 +1,7 @@
 Name: "Pawn - Black_2"
-RootId: 17703391787221252906
+RootId: 6611674965990923501
 Objects {
-  Id: 11048864593175511572
+  Id: 14154829929591304459
   Name: "Felt"
   Transform {
     Location {
@@ -15,7 +15,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 17703391787221252906
+  ParentId: 6611674965990923501
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -76,7 +76,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5338378766512128991
+  Id: 12682824061856715181
   Name: "Sphere"
   Transform {
     Location {
@@ -90,7 +90,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17703391787221252906
+  ParentId: 6611674965990923501
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -131,7 +131,7 @@ Objects {
   }
 }
 Objects {
-  Id: 7251282047111087580
+  Id: 12218038934235380879
   Name: "Ring"
   Transform {
     Location {
@@ -145,7 +145,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17703391787221252906
+  ParentId: 6611674965990923501
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -186,7 +186,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9757169216330747346
+  Id: 10057304753993784210
   Name: "Trunk - Top"
   Transform {
     Location {
@@ -200,7 +200,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 17703391787221252906
+  ParentId: 6611674965990923501
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -241,7 +241,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9295731891097007532
+  Id: 10319548829940784819
   Name: "Trunk - Bottom"
   Transform {
     Location {
@@ -255,7 +255,7 @@ Objects {
       Z: 1.5
     }
   }
-  ParentId: 17703391787221252906
+  ParentId: 6611674965990923501
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -300,7 +300,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10351377741385141987
+  Id: 5871007884703493593
   Name: "Base"
   Transform {
     Location {
@@ -314,7 +314,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 17703391787221252906
+  ParentId: 6611674965990923501
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

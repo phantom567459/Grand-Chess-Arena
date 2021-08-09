@@ -1,7 +1,7 @@
 Name: "White Captured_2"
-RootId: 2957314531446856653
+RootId: 12478175451479600267
 Objects {
-  Id: 16893797381693244093
+  Id: 11943564075476775598
   Name: "Pawns"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2957314531446856653
+  ParentId: 12478175451479600267
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -41,7 +41,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10672787289174268829
+  Id: 1235913065432933183
   Name: "Queen"
   Transform {
     Location {
@@ -57,7 +57,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2957314531446856653
+  ParentId: 12478175451479600267
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -71,7 +71,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Queen_9"
+    FilePartitionName: "Queen_10"
   }
   InstanceHistory {
     SelfId: 13246203889208478318
@@ -81,7 +81,7 @@ Objects {
   }
 }
 Objects {
-  Id: 17678534200177487395
+  Id: 14011387728401957707
   Name: "Bishops"
   Transform {
     Location {
@@ -97,7 +97,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2957314531446856653
+  ParentId: 12478175451479600267
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -121,7 +121,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9259514887240818907
+  Id: 512527686443375412
   Name: "Knights"
   Transform {
     Location {
@@ -137,7 +137,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2957314531446856653
+  ParentId: 12478175451479600267
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -161,7 +161,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1369188098387660640
+  Id: 14101538384471797847
   Name: "Rooks"
   Transform {
     Location {
@@ -177,7 +177,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2957314531446856653
+  ParentId: 12478175451479600267
   UnregisteredParameters {
   }
   Collidable_v2 {

@@ -5,7 +5,8 @@ Objects {
   Name: "H2"
   Transform {
     Location {
-      X: 1400
+      X: -9689.33887
+      Y: -0.00305175781
     }
     Rotation {
     }
@@ -61,7 +62,7 @@ Objects {
   Name: "Glow"
   Transform {
     Location {
-      Z: 7.35635376
+      Z: 7.35626221
     }
     Rotation {
     }
@@ -128,7 +129,8 @@ Objects {
   Name: "G2"
   Transform {
     Location {
-      X: 1000
+      X: -10089.3438
+      Y: -0.00610351562
     }
     Rotation {
     }
@@ -184,7 +186,7 @@ Objects {
   Name: "Glow"
   Transform {
     Location {
-      Z: 7.35635376
+      Z: 7.35626221
     }
     Rotation {
     }
@@ -251,7 +253,8 @@ Objects {
   Name: "F2"
   Transform {
     Location {
-      X: 600
+      X: -10489.3643
+      Y: -0.0048828125
     }
     Rotation {
     }
@@ -307,7 +310,7 @@ Objects {
   Name: "Glow"
   Transform {
     Location {
-      Z: 7.35635376
+      Z: 7.35626221
     }
     Rotation {
     }
@@ -374,7 +377,8 @@ Objects {
   Name: "E2"
   Transform {
     Location {
-      X: 200
+      X: -10889.3545
+      Y: -0.00732421875
     }
     Rotation {
     }
@@ -430,7 +434,7 @@ Objects {
   Name: "Glow"
   Transform {
     Location {
-      Z: 7.35635376
+      Z: 7.35626221
     }
     Rotation {
     }
@@ -497,7 +501,8 @@ Objects {
   Name: "D2"
   Transform {
     Location {
-      X: -200
+      X: -11289.3506
+      Y: -0.00366210938
     }
     Rotation {
     }
@@ -553,7 +558,7 @@ Objects {
   Name: "Glow"
   Transform {
     Location {
-      Z: 7.35635376
+      Z: 7.35626221
     }
     Rotation {
     }
@@ -620,7 +625,8 @@ Objects {
   Name: "C2"
   Transform {
     Location {
-      X: -600
+      X: -11689.3496
+      Y: -0.0048828125
     }
     Rotation {
     }
@@ -676,7 +682,7 @@ Objects {
   Name: "Glow"
   Transform {
     Location {
-      Z: 7.35635376
+      Z: 7.35626221
     }
     Rotation {
     }
@@ -743,7 +749,8 @@ Objects {
   Name: "B2"
   Transform {
     Location {
-      X: -1000
+      X: -12089.3545
+      Y: -0.0048828125
     }
     Rotation {
     }
@@ -798,7 +805,8 @@ Objects {
   Name: "A2"
   Transform {
     Location {
-      X: -1400
+      X: -12489.3652
+      Y: -0.00244140625
     }
     Scale {
       X: 1

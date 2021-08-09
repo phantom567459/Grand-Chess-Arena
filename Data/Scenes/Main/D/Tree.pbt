@@ -5,8 +5,8 @@ Objects {
   Name: "D8"
   Transform {
     Location {
-      X: 626
-      Y: 918
+      X: 3479.49414
+      Y: 3036.7334
       Z: 108
     }
     Rotation {
@@ -64,8 +64,8 @@ Objects {
   Name: "D7"
   Transform {
     Location {
-      X: 526
-      Y: 917
+      X: 3379.49414
+      Y: 3035.7334
       Z: 108
     }
     Rotation {
@@ -123,8 +123,8 @@ Objects {
   Name: "D6"
   Transform {
     Location {
-      X: 427
-      Y: 919
+      X: 3280.49414
+      Y: 3037.7334
       Z: 108
     }
     Rotation {
@@ -182,8 +182,8 @@ Objects {
   Name: "D5"
   Transform {
     Location {
-      X: 331
-      Y: 918
+      X: 3184.49414
+      Y: 3036.7334
       Z: 108
     }
     Rotation {
@@ -241,8 +241,8 @@ Objects {
   Name: "D4"
   Transform {
     Location {
-      X: 232
-      Y: 918
+      X: 3085.49414
+      Y: 3036.7334
       Z: 108
     }
     Rotation {
@@ -300,8 +300,8 @@ Objects {
   Name: "D3"
   Transform {
     Location {
-      X: 133
-      Y: 916
+      X: 2986.49414
+      Y: 3034.7334
       Z: 108
     }
     Rotation {
@@ -359,8 +359,8 @@ Objects {
   Name: "D2"
   Transform {
     Location {
-      X: 36
-      Y: 915
+      X: 2889.49414
+      Y: 3033.7334
       Z: 108
     }
     Rotation {
@@ -418,8 +418,8 @@ Objects {
   Name: "D1"
   Transform {
     Location {
-      X: -64
-      Y: 914
+      X: 2789.49414
+      Y: 3032.7334
       Z: 108
     }
     Rotation {

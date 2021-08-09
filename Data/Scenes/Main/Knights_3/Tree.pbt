@@ -1,7 +1,7 @@
 Name: "Knights_3"
-RootId: 6905655566084964753
+RootId: 13007774330051477379
 Objects {
-  Id: 17278281846864817166
+  Id: 7790221747950874399
   Name: "Knight"
   Transform {
     Location {
@@ -18,7 +18,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6905655566084964753
+  ParentId: 13007774330051477379
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -32,7 +32,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Knight_10"
+    FilePartitionName: "Knight_14"
   }
   InstanceHistory {
     SelfId: 11453529270477697189
@@ -42,7 +42,7 @@ Objects {
   }
 }
 Objects {
-  Id: 14430827028943939451
+  Id: 3772046956671980505
   Name: "Knight"
   Transform {
     Location {
@@ -58,7 +58,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6905655566084964753
+  ParentId: 13007774330051477379
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -72,7 +72,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Knight_11"
+    FilePartitionName: "Knight_15"
   }
   InstanceHistory {
     SelfId: 10431590966235393130

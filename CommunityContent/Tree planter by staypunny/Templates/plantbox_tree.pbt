@@ -310,6 +310,6 @@ Assets {
   Marketplace {
     Description: "Just a very basic easily customized planter to place into your town!"
   }
-  SerializationVersion: 91
+  SerializationVersion: 94
   DirectlyPublished: true
 }

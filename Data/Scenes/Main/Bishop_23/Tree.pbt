@@ -5,14 +5,16 @@ Objects {
   Name: "Top Sphere"
   Transform {
     Location {
+      X: -11089.3643
+      Y: -0.00366210938
       Z: 210
     }
     Rotation {
     }
     Scale {
-      X: 0.4
-      Y: 0.4
-      Z: 0.2
+      X: 0.400000036
+      Y: 0.400000036
+      Z: 0.200000018
     }
   }
   ParentId: 10272435188024949932
@@ -64,6 +66,8 @@ Objects {
   Name: "Top Tip"
   Transform {
     Location {
+      X: -11089.3643
+      Y: -0.00366210938
       Z: 185
     }
     Rotation {
@@ -119,6 +123,8 @@ Objects {
   Name: "Top Bottom"
   Transform {
     Location {
+      X: -11089.3643
+      Y: -0.00366210938
       Z: 110
     }
     Rotation {
@@ -178,6 +184,8 @@ Objects {
   Name: "Trunk Ring Top"
   Transform {
     Location {
+      X: -11089.3643
+      Y: -0.00366210938
       Z: 120
     }
     Rotation {
@@ -237,6 +245,8 @@ Objects {
   Name: "Trunk Ring Bottom"
   Transform {
     Location {
+      X: -11089.3643
+      Y: -0.00366210938
       Z: 100
     }
     Rotation {
@@ -296,6 +306,8 @@ Objects {
   Name: "Trunk Ring Middle"
   Transform {
     Location {
+      X: -11089.3643
+      Y: -0.00366210938
       Z: 110
     }
     Rotation {
@@ -355,6 +367,8 @@ Objects {
   Name: "Base Ring Top"
   Transform {
     Location {
+      X: -11089.3643
+      Y: -0.00366210938
       Z: -15
     }
     Rotation {
@@ -414,6 +428,8 @@ Objects {
   Name: "Base 2"
   Transform {
     Location {
+      X: -11089.3643
+      Y: -0.00366210938
       Z: -60
     }
     Rotation {
@@ -473,6 +489,8 @@ Objects {
   Name: "Felt"
   Transform {
     Location {
+      X: -11089.3643
+      Y: -0.00366210938
       Z: -120
     }
     Rotation {
@@ -548,6 +566,8 @@ Objects {
   Name: "Ring"
   Transform {
     Location {
+      X: -11089.3643
+      Y: -0.00366210938
       Z: 100
     }
     Rotation {
@@ -603,6 +623,8 @@ Objects {
   Name: "Trunk - Top"
   Transform {
     Location {
+      X: -11089.3643
+      Y: -0.00366210938
       Z: -5
     }
     Rotation {
@@ -658,6 +680,8 @@ Objects {
   Name: "Base"
   Transform {
     Location {
+      X: -11089.3643
+      Y: -0.00366210938
       Z: -100
     }
     Rotation {

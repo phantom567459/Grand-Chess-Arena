@@ -3052,7 +3052,7 @@ Assets {
         Transform {
           Location {
             X: 3200
-            Y: 0.00512695313
+            Y: 0.00512695312
             Z: 0.000732421875
           }
           Rotation {
@@ -4794,6 +4794,6 @@ Assets {
   Marketplace {
     Description: "Free to use <3 \r\n\r\n(Not very good at this type of structures)"
   }
-  SerializationVersion: 91
+  SerializationVersion: 94
   DirectlyPublished: true
 }

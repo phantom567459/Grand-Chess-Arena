@@ -1,7 +1,7 @@
 Name: "Coordinates_4"
-RootId: 7754903916254084141
+RootId: 4374841179357366624
 Objects {
-  Id: 14663486050337484869
+  Id: 7050911190247808680
   Name: "White Facing Numbers"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7754903916254084141
+  ParentId: 4374841179357366624
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -31,17 +31,17 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "NewFolder"
+    FilePartitionName: "White Facing Numbers_4"
   }
   InstanceHistory {
-    SelfId: 14663486050337484869
-    SubobjectId: 15876072831289454602
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 12530682995279769332
+    SubobjectId: 13761594908050111298
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 9522846119228082753
+  Id: 13446139072480030935
   Name: "Black Facing Numbers"
   Transform {
     Location {
@@ -56,7 +56,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7754903916254084141
+  ParentId: 4374841179357366624
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -70,17 +70,17 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "NewFolder_1"
+    FilePartitionName: "Black Facing Numbers_4"
   }
   InstanceHistory {
-    SelfId: 9522846119228082753
-    SubobjectId: 10595840622037436942
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 1918894315853096665
+    SubobjectId: 702460755000931183
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 8048079652633368046
+  Id: 3719449632576594771
   Name: "White Side Letters"
   Transform {
     Location {
@@ -96,7 +96,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7754903916254084141
+  ParentId: 4374841179357366624
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -110,17 +110,17 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "NewFolder_2"
+    FilePartitionName: "White Side Letters_4"
   }
   InstanceHistory {
-    SelfId: 8048079652633368046
-    SubobjectId: 8690974432031462817
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 9561698530926470745
+    SubobjectId: 10929979303889482735
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 17432560230331197266
+  Id: 7301028890766448776
   Name: "Black Side Letters"
   Transform {
     Location {
@@ -135,7 +135,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7754903916254084141
+  ParentId: 4374841179357366624
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -149,12 +149,12 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "NewFolder_3"
+    FilePartitionName: "Black Side Letters_4"
   }
   InstanceHistory {
-    SelfId: 17432560230331197266
-    SubobjectId: 16627549127399450397
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 7947420634966789857
+    SubobjectId: 9030848198302047063
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }

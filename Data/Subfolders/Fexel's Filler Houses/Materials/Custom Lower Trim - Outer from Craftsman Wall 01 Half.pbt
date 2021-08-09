@@ -2,7 +2,7 @@ Assets {
   Id: 7048726276681564762
   Name: "Custom Lower Trim - Outer from Craftsman Wall 01 Half "
   PlatformAssetType: 13
-  SerializationVersion: 91
+  SerializationVersion: 94
   CustomMaterialAsset {
     BaseMaterialId: 17299611469251270152
     ParameterOverrides {

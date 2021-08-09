@@ -5,8 +5,8 @@ Objects {
   Name: "Golden Trims"
   Transform {
     Location {
-      X: 235.507355
-      Y: 2472.052
+      X: 234.833984
+      Y: -92862.1562
       Z: -34.375
     }
     Rotation {
@@ -73,8 +73,8 @@ Objects {
   Name: "Golden Trims"
   Transform {
     Location {
-      X: 235.508118
-      Y: -1560.88989
+      X: 235.302734
+      Y: -96895.4766
       Z: -34.375
     }
     Rotation {
@@ -141,8 +141,8 @@ Objects {
   Name: "Golden Trims"
   Transform {
     Location {
-      X: 2217.44116
-      Y: 450.000458
+      X: 2217.13867
+      Y: -94884.1094
       Z: -34.375
     }
     Rotation {
@@ -208,8 +208,8 @@ Objects {
   Name: "Golden Trims"
   Transform {
     Location {
-      X: -1741.77747
-      Y: 449.999695
+      X: -1742.17773
+      Y: -94884.9141
       Z: -34.375
     }
     Rotation {
@@ -275,9 +275,9 @@ Objects {
   Name: "Edge"
   Transform {
     Location {
-      X: 237.5
-      Y: 450
-      Z: -92.881958
+      X: 237.177734
+      Y: -94884.1094
+      Z: -92.8820801
     }
     Rotation {
     }
@@ -413,7 +413,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Tiles_4"
+    FilePartitionName: "Tiles_17"
   }
   InstanceHistory {
     SelfId: 2359215587257215862
@@ -453,7 +453,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "White Captured_4"
+    FilePartitionName: "White Captured_16"
   }
   InstanceHistory {
     SelfId: 9457694121851132381
@@ -493,7 +493,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Black Captured_4"
+    FilePartitionName: "Black Captured_16"
   }
   InstanceHistory {
     SelfId: 15409850214792022584
@@ -609,7 +609,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "White_4"
+    FilePartitionName: "White_17"
   }
   InstanceHistory {
     SelfId: 4599364589077469110
@@ -649,7 +649,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Coordinates_4"
+    FilePartitionName: "Coordinates_17"
   }
   InstanceHistory {
     SelfId: 7754903916254084141

@@ -1,24 +1,23 @@
 Name: "OuterWall"
-RootId: 16477794874209396556
+RootId: 5082782956485205366
 Objects {
-  Id: 1151154172067212852
+  Id: 7892768914076552840
   Name: "Cube"
   Transform {
     Location {
-      X: 6531.83936
-      Y: -247.225586
-      Z: 2048.40234
+      X: -5336.63818
+      Y: -195.861206
     }
     Rotation {
-      Yaw: -91.7480774
+      Yaw: -179.158188
     }
     Scale {
-      X: 167.808823
-      Y: 2.04076338
-      Z: 39.3091698
+      X: 1
+      Y: -100.243263
+      Z: 29.5163879
     }
   }
-  ParentId: 16477794874209396556
+  ParentId: 5082782956485205366
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -49,23 +48,23 @@ Objects {
   }
 }
 Objects {
-  Id: 1329023292203680975
+  Id: 6759720878512393529
   Name: "Cube"
   Transform {
     Location {
-      X: -1633.24707
-      Y: -8040.50586
-      Z: 2048.40234
+      X: 5163.5166
+      Y: -2889.74268
     }
     Rotation {
+      Yaw: -84.3480225
     }
     Scale {
-      X: 167.808823
-      Y: 2.04076338
-      Z: 39.3091698
+      X: 1.00000536
+      Y: -113.812805
+      Z: 29.5163879
     }
   }
-  ParentId: 16477794874209396556
+  ParentId: 5082782956485205366
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -96,24 +95,23 @@ Objects {
   }
 }
 Objects {
-  Id: 1745018087381570526
+  Id: 16883221625297576283
   Name: "Cube"
   Transform {
     Location {
-      X: -9157.13574
-      Y: 260.924805
-      Z: 2048.40234
+      X: 216.983398
+      Y: 4652.06738
     }
     Rotation {
-      Yaw: -86.5783386
+      Yaw: 89.9999924
     }
     Scale {
-      X: 167.808823
-      Y: 2.04076338
-      Z: 39.3091698
+      X: 1.00000536
+      Y: -113.812805
+      Z: 29.5163879
     }
   }
-  ParentId: 16477794874209396556
+  ParentId: 5082782956485205366
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -144,23 +142,22 @@ Objects {
   }
 }
 Objects {
-  Id: 16750720445007899444
+  Id: 4098028944719107699
   Name: "Cube"
   Transform {
     Location {
-      X: -1633.24707
-      Y: 7683.35449
-      Z: 2048.40234
+      X: 5334.89453
+      Y: -80.3878174
     }
     Rotation {
     }
     Scale {
-      X: 167.808823
-      Y: 2.04076338
-      Z: 39.3091698
+      X: 1
+      Y: -100.243263
+      Z: 29.5163879
     }
   }
-  ParentId: 16477794874209396556
+  ParentId: 5082782956485205366
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

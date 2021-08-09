@@ -74,8 +74,8 @@ Objects {
   Name: "Base"
   Transform {
     Location {
-      X: 147
-      Y: 2148
+      X: 3000.49414
+      Y: 4266.73145
     }
     Rotation {
     }

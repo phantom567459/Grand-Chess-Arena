@@ -1,7 +1,222 @@
 Name: "UI_3"
-RootId: 15390406744278775466
+RootId: 9805127757625743790
 Objects {
-  Id: 18342930847000057445
+  Id: 9789193534035554016
+  Name: "Checkmate"
+  Transform {
+    Location {
+      X: 1133
+      Y: -1725
+      Z: -103
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9805127757625743790
+  ChildIds: 13881169460205491947
+  ChildIds: 16375835853359432263
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Control {
+    RenderTransformPivot {
+      Anchor {
+        Value: "mc:euianchor:middlecenter"
+      }
+    }
+    Canvas {
+      ContentType {
+        Value: "mc:ecanvascontenttype:dynamic"
+      }
+      Opacity: 1
+    }
+    AnchorLayout {
+      SelfAnchor {
+        Anchor {
+          Value: "mc:euianchor:topleft"
+        }
+      }
+      TargetAnchor {
+        Anchor {
+          Value: "mc:euianchor:topleft"
+        }
+      }
+    }
+  }
+}
+Objects {
+  Id: 16375835853359432263
+  Name: "Lose"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9789193534035554016
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceoff"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Control {
+    Width: 609
+    Height: 60
+    UIY: 300
+    RenderTransformPivot {
+      Anchor {
+        Value: "mc:euianchor:middlecenter"
+      }
+    }
+    Text {
+      Label: "You lost!"
+      Color {
+        R: 0.669999957
+        G: 3.19480876e-07
+        A: 1
+      }
+      Size: 100
+      Justification {
+        Value: "mc:etextjustify:center"
+      }
+      AutoWrapText: true
+      Font {
+        Id: 8375532405131763764
+      }
+      VerticalJustification {
+        Value: "mc:everticaljustification:top"
+      }
+      ShadowColor {
+        A: 1
+      }
+      ShadowOffset {
+      }
+      OutlineColor {
+        A: 1
+      }
+    }
+    AnchorLayout {
+      SelfAnchor {
+        Anchor {
+          Value: "mc:euianchor:middlecenter"
+        }
+      }
+      TargetAnchor {
+        Anchor {
+          Value: "mc:euianchor:topcenter"
+        }
+      }
+    }
+  }
+}
+Objects {
+  Id: 13881169460205491947
+  Name: "Win"
+  Transform {
+    Location {
+      X: 1133
+      Y: -1725
+      Z: -103
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9789193534035554016
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceoff"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Control {
+    Width: 604
+    Height: 60
+    UIY: 300
+    RenderTransformPivot {
+      Anchor {
+        Value: "mc:euianchor:middlecenter"
+      }
+    }
+    Text {
+      Label: "You won!"
+      Color {
+        G: 0.0201321989
+        B: 0.76
+        A: 1
+      }
+      Size: 100
+      Justification {
+        Value: "mc:etextjustify:center"
+      }
+      AutoWrapText: true
+      Font {
+        Id: 8375532405131763764
+      }
+      VerticalJustification {
+        Value: "mc:everticaljustification:top"
+      }
+      ShadowColor {
+        A: 1
+      }
+      ShadowOffset {
+      }
+      OutlineColor {
+        A: 1
+      }
+    }
+    AnchorLayout {
+      SelfAnchor {
+        Anchor {
+          Value: "mc:euianchor:middlecenter"
+        }
+      }
+      TargetAnchor {
+        Anchor {
+          Value: "mc:euianchor:topcenter"
+        }
+      }
+    }
+  }
+}
+Objects {
+  Id: 2413375202345719442
   Name: "NotationSheet"
   Transform {
     Location {
@@ -14,10 +229,10 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15390406744278775466
-  ChildIds: 13851144432756016430
-  ChildIds: 18273407674523181778
-  ChildIds: 17256135651979247358
+  ParentId: 9805127757625743790
+  ChildIds: 10869503425126701157
+  ChildIds: 13935289297535683489
+  ChildIds: 3293104321751114811
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -63,7 +278,7 @@ Objects {
   }
 }
 Objects {
-  Id: 17256135651979247358
+  Id: 3293104321751114811
   Name: "BlackMoves"
   Transform {
     Location {
@@ -76,7 +291,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18342930847000057445
+  ParentId: 2413375202345719442
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -148,7 +363,7 @@ Objects {
   }
 }
 Objects {
-  Id: 18273407674523181778
+  Id: 13935289297535683489
   Name: "WhiteMoves"
   Transform {
     Location {
@@ -161,7 +376,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18342930847000057445
+  ParentId: 2413375202345719442
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -233,7 +448,7 @@ Objects {
   }
 }
 Objects {
-  Id: 13851144432756016430
+  Id: 10869503425126701157
   Name: "UI Image"
   Transform {
     Location {
@@ -246,7 +461,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18342930847000057445
+  ParentId: 2413375202345719442
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -308,7 +523,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10704422151109374813
+  Id: 15251993758611542006
   Name: "UI Container"
   Transform {
     Location {
@@ -321,8 +536,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15390406744278775466
-  ChildIds: 13641978986088008538
+  ParentId: 9805127757625743790
+  ChildIds: 524275440253502796
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -368,7 +583,7 @@ Objects {
   }
 }
 Objects {
-  Id: 13641978986088008538
+  Id: 524275440253502796
   Name: "DumpBoard"
   Transform {
     Location {
@@ -384,7 +599,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10704422151109374813
+  ParentId: 15251993758611542006
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

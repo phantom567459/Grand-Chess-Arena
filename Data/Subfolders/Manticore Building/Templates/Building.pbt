@@ -2693,6 +2693,6 @@ Assets {
   Marketplace {
     Description: "Basic cartoony looking building to go into your builds!"
   }
-  SerializationVersion: 91
+  SerializationVersion: 94
   DirectlyPublished: true
 }

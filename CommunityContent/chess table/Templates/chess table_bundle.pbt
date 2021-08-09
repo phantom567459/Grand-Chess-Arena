@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "A  chess table"
   }
-  SerializationVersion: 91
+  SerializationVersion: 94
 }

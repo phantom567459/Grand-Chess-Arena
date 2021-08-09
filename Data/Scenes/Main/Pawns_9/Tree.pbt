@@ -1,7 +1,7 @@
 Name: "Pawns_9"
-RootId: 4613452876030539869
+RootId: 3196112842235798497
 Objects {
-  Id: 11488146229735265285
+  Id: 3138725902844199720
   Name: "Pawn"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4613452876030539869
+  ParentId: 3196112842235798497
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34,18 +34,18 @@ Objects {
     FilePartitionName: "Pawn_72"
   }
   InstanceHistory {
-    SelfId: 11488146229735265285
-    SubobjectId: 9818435281456665674
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 15599550599973716675
+    SubobjectId: 14655365189078177653
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 15951797282815020629
+  Id: 5521343397094890365
   Name: "Pawn"
   Transform {
     Location {
-      X: 599.414063
+      X: 599.414062
       Y: -12.8269196
       Z: 1.32080078
     }
@@ -57,7 +57,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4613452876030539869
+  ParentId: 3196112842235798497
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -74,14 +74,14 @@ Objects {
     FilePartitionName: "Pawn_73"
   }
   InstanceHistory {
-    SelfId: 15951797282815020629
-    SubobjectId: 14577067753015152154
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 6715831014845896553
+    SubobjectId: 5633300386073527007
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 1762214462792988020
+  Id: 113132975309954726
   Name: "Pawn"
   Transform {
     Location {
@@ -97,7 +97,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4613452876030539869
+  ParentId: 3196112842235798497
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -114,14 +114,14 @@ Objects {
     FilePartitionName: "Pawn_74"
   }
   InstanceHistory {
-    SelfId: 1762214462792988020
-    SubobjectId: 1105820938738005307
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 6149521302432099609
+    SubobjectId: 5064739132113336495
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 4393703253606844849
+  Id: 8197861227586820510
   Name: "Pawn"
   Transform {
     Location {
@@ -136,7 +136,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4613452876030539869
+  ParentId: 3196112842235798497
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -153,14 +153,14 @@ Objects {
     FilePartitionName: "Pawn_75"
   }
   InstanceHistory {
-    SelfId: 4393703253606844849
-    SubobjectId: 3158605723953842686
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 493196251311716811
+    SubobjectId: 1569155940798049405
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 5239529469149778195
+  Id: 762673188803426593
   Name: "Pawn"
   Transform {
     Location {
@@ -176,7 +176,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4613452876030539869
+  ParentId: 3196112842235798497
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -193,14 +193,14 @@ Objects {
     FilePartitionName: "Pawn_76"
   }
   InstanceHistory {
-    SelfId: 5239529469149778195
-    SubobjectId: 6888962297954505052
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 3904747535445877554
+    SubobjectId: 2679254006766663300
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 13460340378344133157
+  Id: 2531370393149798562
   Name: "Pawn"
   Transform {
     Location {
@@ -216,7 +216,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4613452876030539869
+  ParentId: 3196112842235798497
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -233,14 +233,14 @@ Objects {
     FilePartitionName: "Pawn_77"
   }
   InstanceHistory {
-    SelfId: 13460340378344133157
-    SubobjectId: 12529210689663963754
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 4590789240800693856
+    SubobjectId: 3218717068343335894
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 8912672136550596191
+  Id: 16804424956956190929
   Name: "Pawn"
   Transform {
     Location {
@@ -256,7 +256,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4613452876030539869
+  ParentId: 3196112842235798497
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -273,14 +273,14 @@ Objects {
     FilePartitionName: "Pawn_78"
   }
   InstanceHistory {
-    SelfId: 8912672136550596191
-    SubobjectId: 7826168638546689552
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 16940938541922002552
+    SubobjectId: 17871587049123296206
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }
 Objects {
-  Id: 18247169078093285567
+  Id: 10688019588069558841
   Name: "Pawn"
   Transform {
     Location {
@@ -296,7 +296,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4613452876030539869
+  ParentId: 3196112842235798497
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -313,9 +313,9 @@ Objects {
     FilePartitionName: "Pawn_79"
   }
   InstanceHistory {
-    SelfId: 18247169078093285567
-    SubobjectId: 16867943671352264944
-    InstanceId: 5655958521715101439
-    TemplateId: 1064720167043638364
+    SelfId: 18050225871621333919
+    SubobjectId: 16816903528697378345
+    InstanceId: 1408243180232436835
+    TemplateId: 9483465140194761161
   }
 }

@@ -3142,7 +3142,7 @@ Assets {
         Transform {
           Location {
             X: 1600
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
             Yaw: -90.000061
@@ -3208,7 +3208,7 @@ Assets {
           Location {
             X: 1600
             Y: -800
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
             Yaw: -90.000061
@@ -3816,7 +3816,7 @@ Assets {
         Name: "Craftsman Part - Inside Upper Trim 01"
         Transform {
           Location {
-            X: -6.10351563e-05
+            X: -6.10351562e-05
             Y: -1619.99976
             Z: 590
           }
@@ -4481,7 +4481,7 @@ Assets {
           Location {
             X: 80.7573242
             Y: 234.999756
-            Z: 6.10351563e-05
+            Z: 6.10351562e-05
           }
           Rotation {
             Yaw: -90
@@ -4568,7 +4568,7 @@ Assets {
           Location {
             X: 80.7575684
             Y: -160
-            Z: 6.10351563e-05
+            Z: 6.10351562e-05
           }
           Rotation {
             Yaw: 179.999954
@@ -6133,7 +6133,7 @@ Assets {
           Location {
             X: 1600
             Y: -805
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
             Yaw: -90.000061
@@ -6195,7 +6195,7 @@ Assets {
           Location {
             X: 1600
             Y: -5
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
             Yaw: -90.000061
@@ -6860,7 +6860,7 @@ Assets {
         Name: "Craftsman Part - Inside Upper Trim 01"
         Transform {
           Location {
-            X: -6.10351563e-05
+            X: -6.10351562e-05
             Y: -1624.99976
             Z: 590
           }
@@ -16913,5 +16913,5 @@ Assets {
       AssetId: "Main_Street_Building_02_Template"
     }
   }
-  SerializationVersion: 91
+  SerializationVersion: 94
 }

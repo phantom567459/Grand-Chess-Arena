@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "Small homes for suburban areas or poor areas of cities. \r\nCan be used in a small village as well, however, they do not have interior, there is space for it, but it will require a little work.\r\nYou can use these to fill in blank spots in your city and make it feel more alive and more detailed. \r\nThis little bundle includes four different houses of different shapes and size, which can be manipulated around as you see fit :D\r\n\r\n - Fexel"
   }
-  SerializationVersion: 91
+  SerializationVersion: 94
 }

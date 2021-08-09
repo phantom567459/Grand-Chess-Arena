@@ -5,9 +5,9 @@ Objects {
   Name: "Pawn"
   Transform {
     Location {
-      X: -1437.52539
-      Y: 380.677734
-      Z: 39.4563
+      X: -1437.22656
+      Y: -94951.1641
+      Z: 39.4609375
     }
     Rotation {
       Yaw: -89.999939
@@ -80,9 +80,9 @@ Objects {
   Name: "Pawn"
   Transform {
     Location {
-      X: -1437.52539
-      Y: 380.677734
-      Z: 39.4563
+      X: -1437.22656
+      Y: -94951.1641
+      Z: 39.4609375
     }
     Rotation {
       Yaw: -89.999939
@@ -155,9 +155,9 @@ Objects {
   Name: "Pawn"
   Transform {
     Location {
-      X: -659.955078
-      Y: 380.677734
-      Z: 39.4563
+      X: -659.6875
+      Y: -94951.2734
+      Z: 39.4609375
     }
     Rotation {
       Yaw: -89.999939
@@ -230,9 +230,9 @@ Objects {
   Name: "Pawn"
   Transform {
     Location {
-      X: 109.009766
-      Y: 380.677734
-      Z: 39.4563
+      X: 109.335938
+      Y: -94951.2734
+      Z: 39.4609375
     }
     Rotation {
       Yaw: -89.999939
@@ -305,9 +305,9 @@ Objects {
   Name: "Pawn"
   Transform {
     Location {
-      X: 893.607422
-      Y: 380.685547
-      Z: 39.4563
+      X: 893.90625
+      Y: -94951.3672
+      Z: 39.4609375
     }
     Rotation {
       Yaw: -89.999939
@@ -380,9 +380,9 @@ Objects {
   Name: "Pawn"
   Transform {
     Location {
-      X: 1275.39648
-      Y: 763.115234
-      Z: 39.4563
+      X: 1275.68359
+      Y: -94569.2266
+      Z: 39.4609375
     }
     Rotation {
       Yaw: -89.999939
@@ -455,9 +455,9 @@ Objects {
   Name: "Pawn"
   Transform {
     Location {
-      X: 506.009766
-      Y: 763.117188
-      Z: 39.4563
+      X: 506.269531
+      Y: -94568.9
+      Z: 39.4609375
     }
     Rotation {
       Yaw: -89.999939
@@ -530,9 +530,9 @@ Objects {
   Name: "Pawn"
   Transform {
     Location {
-      X: -286.419922
-      Y: 763.119141
-      Z: 39.4563
+      X: -286.164062
+      Y: -94568.7109
+      Z: 39.4609375
     }
     Rotation {
       Yaw: -89.999939
@@ -605,9 +605,9 @@ Objects {
   Name: "Pawn"
   Transform {
     Location {
-      X: -1093.5918
-      Y: 763.132813
-      Z: 39.4563
+      X: -1093.35156
+      Y: -94568.4453
+      Z: 39.4609375
     }
     Rotation {
       Yaw: -89.999939
@@ -680,9 +680,9 @@ Objects {
   Name: "Pawn"
   Transform {
     Location {
-      X: -1470.55273
-      Y: 1163.38477
-      Z: 39.4563
+      X: -1470.22656
+      Y: -94168.4297
+      Z: 39.4609375
     }
     Rotation {
       Yaw: -89.999939
@@ -755,9 +755,9 @@ Objects {
   Name: "Pawn"
   Transform {
     Location {
-      X: -699.351563
-      Y: 1163.38477
-      Z: 39.4563
+      X: -698.964844
+      Y: -94168.4297
+      Z: 39.4609375
     }
     Rotation {
       Yaw: -89.999939
@@ -830,9 +830,9 @@ Objects {
   Name: "Pawn"
   Transform {
     Location {
-      X: 110.826172
-      Y: 1167.86523
-      Z: 39.4563
+      X: 111.132812
+      Y: -94164.0234
+      Z: 39.4609375
     }
     Rotation {
       Yaw: -89.999939
@@ -905,9 +905,9 @@ Objects {
   Name: "Pawn"
   Transform {
     Location {
-      X: 874.244141
-      Y: 1162.3457
-      Z: 39.4563
+      X: 874.609375
+      Y: -94170.0078
+      Z: 39.4609375
     }
     Rotation {
       Yaw: -89.999939

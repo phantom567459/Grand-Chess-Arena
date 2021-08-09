@@ -2,7 +2,7 @@ Assets {
   Id: 4042693487014719557
   Name: "Custom Bark Redwood 01_13"
   PlatformAssetType: 13
-  SerializationVersion: 91
+  SerializationVersion: 94
   CustomMaterialAsset {
     BaseMaterialId: 14539301153847986022
     ParameterOverrides {

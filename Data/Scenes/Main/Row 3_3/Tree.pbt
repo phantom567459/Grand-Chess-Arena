@@ -5,7 +5,8 @@ Objects {
   Name: "H3"
   Transform {
     Location {
-      X: 1400
+      X: -9689.35547
+      Y: -0.00122070312
     }
     Rotation {
     }
@@ -60,7 +61,8 @@ Objects {
   Name: "G3"
   Transform {
     Location {
-      X: 1000
+      X: -10089.3545
+      Y: -0.00793457
     }
     Rotation {
     }
@@ -115,7 +117,8 @@ Objects {
   Name: "F3"
   Transform {
     Location {
-      X: 600
+      X: -10489.3643
+      Y: -0.00610351562
     }
     Rotation {
     }
@@ -170,7 +173,8 @@ Objects {
   Name: "E3"
   Transform {
     Location {
-      X: 200
+      X: -10889.3545
+      Y: -0.00366210938
     }
     Rotation {
     }
@@ -225,7 +229,8 @@ Objects {
   Name: "D3"
   Transform {
     Location {
-      X: -200
+      X: -11289.374
+      Y: -0.0048828125
     }
     Rotation {
     }
@@ -280,7 +285,8 @@ Objects {
   Name: "C3"
   Transform {
     Location {
-      X: -600
+      X: -11689.3643
+      Y: -0.00366210938
     }
     Rotation {
     }
@@ -335,7 +341,8 @@ Objects {
   Name: "B3"
   Transform {
     Location {
-      X: -1000
+      X: -12089.3838
+      Y: -0.00610351562
     }
     Rotation {
     }
@@ -390,7 +397,8 @@ Objects {
   Name: "A3"
   Transform {
     Location {
-      X: -1400
+      X: -12489.3506
+      Y: -0.00244140625
     }
     Scale {
       X: 1

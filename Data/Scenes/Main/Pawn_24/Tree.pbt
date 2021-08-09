@@ -1,7 +1,7 @@
 Name: "Pawn_24"
-RootId: 11061725261486312221
+RootId: 58082742898582728
 Objects {
-  Id: 2629422071871633982
+  Id: 2599673077437063742
   Name: "Base"
   Transform {
     Location {
@@ -15,7 +15,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 11061725261486312221
+  ParentId: 58082742898582728
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

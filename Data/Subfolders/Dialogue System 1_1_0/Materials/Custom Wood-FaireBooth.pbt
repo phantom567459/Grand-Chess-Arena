@@ -2,7 +2,7 @@ Assets {
   Id: 6539099142851822270
   Name: "Custom Wood-FaireBooth"
   PlatformAssetType: 13
-  SerializationVersion: 91
+  SerializationVersion: 94
   CustomMaterialAsset {
     BaseMaterialId: 14231809728886464860
     ParameterOverrides {

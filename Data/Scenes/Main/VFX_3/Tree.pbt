@@ -1,7 +1,7 @@
 Name: "VFX_3"
-RootId: 16873920282989044967
+RootId: 2348742864447639015
 Objects {
-  Id: 9745269192503981090
+  Id: 2800621983689325130
   Name: "Level Up VFX"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16873920282989044967
+  ParentId: 2348742864447639015
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -41,7 +41,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1435974761188503068
+  Id: 12430772107376054018
   Name: "MoveIndicator"
   Transform {
     Scale {
@@ -50,7 +50,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16873920282989044967
+  ParentId: 2348742864447639015
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

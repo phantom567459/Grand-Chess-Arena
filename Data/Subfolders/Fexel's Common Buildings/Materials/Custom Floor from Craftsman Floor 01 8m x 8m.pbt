@@ -2,7 +2,7 @@ Assets {
   Id: 7533216406790318803
   Name: "Custom Floor from Craftsman Floor 01 8m x 8m"
   PlatformAssetType: 13
-  SerializationVersion: 91
+  SerializationVersion: 94
   CustomMaterialAsset {
     BaseMaterialId: 11411576877305238960
     ParameterOverrides {

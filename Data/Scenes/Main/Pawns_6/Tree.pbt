@@ -83,7 +83,7 @@ Objects {
   Name: "Pawn"
   Transform {
     Location {
-      X: 324.257813
+      X: 324.257812
       Y: 0.000114440918
     }
     Rotation {
@@ -122,7 +122,7 @@ Objects {
   Name: "Pawn"
   Transform {
     Location {
-      X: 111.914063
+      X: 111.914062
       Y: 3.81469727e-05
     }
     Rotation {

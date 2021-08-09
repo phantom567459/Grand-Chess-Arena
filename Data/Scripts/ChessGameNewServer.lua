@@ -22,6 +22,7 @@ function QueueForChessGame(player,data)
 				local boardParent = World.FindObjectById(chessBoard)
 				local propWhiteChair = boardParent:FindChildByName("WhiteChair")
 				local propBlackChair = boardParent:FindChildByName("BlackChair")
+				local spectatorTrigger = boardParent:FindChildByName("SpectatorTrigger")
 				local Trigger1 = propWhiteChair:FindChildByName("WhiteTrigger")
 				local Trigger2 = propBlackChair:FindChildByName("BlackTrigger")
 	
@@ -46,6 +47,7 @@ function QueueForChessGame(player,data)
 				--Make Triggers uninteractable
 				Trigger1.isInteractable = false
 				Trigger2.isInteractable = false
+				--spectatorTrigger.isInteractable = true
 				--set up player accordingly to sit in seat
 				player.isMovementEnabled = false
 				player.animationStance = "unarmed_sit_chair_upright"
@@ -53,32 +55,43 @@ function QueueForChessGame(player,data)
 				v.player.isMovementEnabled = false
 				v.player.animationStance = "unarmed_sit_chair_upright"
 
-				Task.Wait(.5)
+				Task.Wait(1)
 
 
 				local k = math.random(1,2)
 				if (k == 1) then
-					Events.BroadcastToPlayer(player, "START GAME", v.board,1) --broadcast to player they are white
+					--Events.BroadcastToPlayer(player, "START GAME", v.board,1) --broadcast to player they are white
+					Events.Broadcast("WaveEventToPlayer",player,"START GAME",v.board,1)
 					player.team = 1
-					player:SetWorldPosition(propWhiteChair:GetWorldPosition()+Vector3.New(95,0,100))
+
 					player:SetWorldRotation(propWhiteChair:GetWorldRotation()+Rotation.New(0,0,90))
-					Events.BroadcastToPlayer(v.player, "START GAME", v.board,2) --broadcast to opponent they are black
+					player:SetWorldPosition(propWhiteChair:GetWorldPosition()+Vector3.New(0,-95,100))
+					
+					--Events.BroadcastToPlayer(v.player, "START GAME", v.board,2) --broadcast to opponent they are black
+					Events.Broadcast("WaveEventToPlayer",v.player,"START GAME", v.board,2)
 					v.player.team = 2
-					v.player:SetWorldPosition(propBlackChair:GetWorldPosition()+Vector3.New(-95,0,100))
+
 					v.player:SetWorldRotation(propBlackChair:GetWorldRotation()+Rotation.New(0,0,90))
+					v.player:SetWorldPosition(propBlackChair:GetWorldPosition()+Vector3.New(0,95,100))
 
-					newgame = {white = player, black = v.player,board = chessBoard} --first player is white
+					newgame = {white = player, black = v.player,board = chessBoard,spectators = {}} --first player is white
 				else 
-					Events.BroadcastToPlayer(v.player, "START GAME", v.board,1) --broadcast to opponent they are white
+					--Events.BroadcastToPlayer(v.player, "START GAME", v.board,1) --broadcast to opponent they are white
+					Events.Broadcast("WaveEventToPlayer",v.player,"START GAME", v.board,1)
 					v.player.team = 1
-					v.player:SetWorldPosition(propWhiteChair:GetWorldPosition()+Vector3.New(95,0,100))
-					v.player:SetWorldRotation(propWhiteChair:GetWorldRotation()+Rotation.New(0,0,90))
-					Events.BroadcastToPlayer(player, "START GAME", v.board,2) --broadcast to player they are black
-					player.team = 2
-					player:SetWorldPosition(propBlackChair:GetWorldPosition()+Vector3.New(-95,0,100))
-					player:SetWorldRotation(propBlackChair:GetWorldRotation()+Rotation.New(0,0,90))
 
-					newgame = {white = v.player,black = player,board = chessBoard} --first player is white
+					v.player:SetWorldRotation(propWhiteChair:GetWorldRotation()+Rotation.New(0,0,90))
+					v.player:SetWorldPosition(propWhiteChair:GetWorldPosition()+Vector3.New(0,-95,100))
+
+					--Events.BroadcastToPlayer(player, "START GAME", v.board,2) --broadcast to player they are black
+					Events.Broadcast("WaveEventToPlayer",player,"START GAME", v.board,2)
+					player.team = 2
+
+					player:SetWorldRotation(propBlackChair:GetWorldRotation()+Rotation.New(0,0,90))
+					player:SetWorldPosition(propBlackChair:GetWorldPosition()+Vector3.New(0,95,100))
+					
+
+					newgame = {white = v.player,black = player,board = chessBoard,spectators = {}} --first player is white
 				end
 				Task.Wait(.5)
 				table.insert(_G.games_in_progress,newgame)

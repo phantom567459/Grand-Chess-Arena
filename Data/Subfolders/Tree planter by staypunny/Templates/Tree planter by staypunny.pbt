@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "Just a very basic easily customized planter to place into your town!"
   }
-  SerializationVersion: 91
+  SerializationVersion: 94
 }

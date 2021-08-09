@@ -5,8 +5,8 @@ Objects {
   Name: "Golden Trims"
   Transform {
     Location {
-      X: 235.507355
-      Y: 2472.052
+      X: -10853.876
+      Y: 2472.06543
       Z: -34.375
     }
     Rotation {
@@ -75,8 +75,8 @@ Objects {
   Name: "Golden Trims"
   Transform {
     Location {
-      X: 235.508118
-      Y: -1560.88989
+      X: -10853.875
+      Y: -1560.90942
       Z: -34.375
     }
     Rotation {
@@ -145,8 +145,8 @@ Objects {
   Name: "Golden Trims"
   Transform {
     Location {
-      X: 2217.44116
-      Y: 450.000458
+      X: -8871.91602
+      Y: 449.993286
       Z: -34.375
     }
     Rotation {
@@ -214,8 +214,8 @@ Objects {
   Name: "Golden Trims"
   Transform {
     Location {
-      X: -1741.77747
-      Y: 449.999695
+      X: -12831.1611
+      Y: 449.996338
       Z: -34.375
     }
     Rotation {
@@ -283,8 +283,8 @@ Objects {
   Name: "Golden Trims"
   Transform {
     Location {
-      X: 237.421417
-      Y: 2067.49
+      X: -10851.9639
+      Y: 2067.49634
       Z: -34.375
     }
     Rotation {
@@ -353,8 +353,8 @@ Objects {
   Name: "Golden Trims"
   Transform {
     Location {
-      X: 237.42218
-      Y: -1166.30359
+      X: -10851.9678
+      Y: -1166.32324
       Z: -34.375
     }
     Rotation {
@@ -423,8 +423,8 @@ Objects {
   Name: "Golden Trims"
   Transform {
     Location {
-      X: 1850.50757
-      Y: 450.000458
+      X: -9238.87695
+      Y: 449.998169
       Z: -34.375
     }
     Rotation {
@@ -492,14 +492,14 @@ Objects {
   Name: "Golden Trims"
   Transform {
     Location {
-      X: -1383.28137
-      Y: 449.999695
+      X: -12472.6562
+      Y: 450.001221
       Z: -34.375
     }
     Rotation {
     }
     Scale {
-      X: 0.359316111
+      X: 0.35931614
       Y: 40
       Z: 1
     }
@@ -561,9 +561,9 @@ Objects {
   Name: "Edge"
   Transform {
     Location {
-      X: 237.5
-      Y: 450
-      Z: -92.881958
+      X: -10851.8799
+      Y: 450.001221
+      Z: -92.8820801
     }
     Rotation {
     }
